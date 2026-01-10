@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Now - Sophie Davis</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Pill Navigation -->
+  <nav class="pill-nav">
+    <a href="index.html" class="nav-item">Home</a>
+    <a href="work.html" class="nav-item">Work</a>
+    <a href="now.html" class="nav-item active">Now</a>
+    <a href="index.html#contact" class="nav-item">Contact</a>
+  </nav>
+
+  <main>
+    <!-- Page Header -->
+    <section class="page-header">
+      <h1>Current <em>focus</em></h1>
+      <p class="tagline">What I'm building and consuming right now.</p>
+    </section>
+
+    <!-- Tools Built -->
+    <section class="projects">
+      <h2>Tools I've <em>built</em></h2>
+      <div class="project-grid">
+        <div class="project-card">
+          <div class="project-image" style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);">
+            <span class="placeholder-text">Tool Screenshot</span>
+          </div>
+          <h3>Idea Validator</h3>
+          <p>AI-powered market research and validation tool</p>
+        </div>
+        <div class="project-card">
+          <div class="project-image" style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);">
+            <span class="placeholder-text">Tool Screenshot</span>
+          </div>
+          <h3>Tool Name</h3>
+          <p>Short description of what it does</p>
+        </div>
+        <div class="project-card">
+          <div class="project-image" style="background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%);">
+            <span class="placeholder-text">Tool Screenshot</span>
+          </div>
+          <h3>Tool Name</h3>
+          <p>Short description of what it does</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Reading & Listening -->
+    <section class="media-section">
+      <div class="media-lists">
+        <!-- Reading List -->
+        <div class="media-list">
+          <h2>What I'm <em>reading</em></h2>
+          <ul class="vertical-list" id="reading-list">
+            <li class="list-item"><span class="item-title">Loading...</span></li>
+          </ul>
+        </div>
+
+        <!-- Listening List -->
+        <div class="media-list">
+          <h2>What I'm <em>listening to</em></h2>
+          <ul class="vertical-list" id="listening-list">
+            <li class="list-item"><span class="item-title">Loading...</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built with intention</p>
+  </footer>
+
+  <script>
+    // Load reading list from JSON
+    async function loadReading() {
+      try {
+        const res = await fetch('data/reading.json');
+        const data = await res.json();
+        const list = document.getElementById('reading-list');
+
+        if (data.books && data.books.length > 0) {
+          list.innerHTML = data.books.map(book => `
+            <li class="list-item">
+              <a href="${book.link}" target="_blank" rel="noopener" class="item-title">${book.title}</a>
+              <span class="item-author">${book.author}</span>
+            </li>
+          `).join('');
+        } else {
+          list.innerHTML = '<li class="list-item"><span class="item-title">Nothing currently</span></li>';
+        }
+      } catch (e) {
+        console.error('Failed to load reading list:', e);
+      }
+    }
+
+    // Load listening list from JSON
+    async function loadListening() {
+      try {
+        const res = await fetch('data/listening.json');
+        const data = await res.json();
+        const list = document.getElementById('listening-list');
+
+        if (data.tracks && data.tracks.length > 0) {
+          list.innerHTML = data.tracks.map(track => `
+            <li class="list-item">
+              <a href="${track.url}" target="_blank" rel="noopener" class="item-title">${track.title}</a>
+              <span class="item-author">${track.artist}</span>
+            </li>
+          `).join('');
+        } else {
+          list.innerHTML = '<li class="list-item"><span class="item-title">Nothing recently</span></li>';
+        }
+      } catch (e) {
+        console.error('Failed to load listening list:', e);
+      }
+    }
+
+    loadReading();
+    loadListening();
+  </script>
+</body>
+</html>
