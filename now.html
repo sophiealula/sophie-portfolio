@@ -15,6 +15,7 @@
   <!-- Pill Navigation -->
   <nav class="pill-nav">
     <a href="index.html" class="nav-item">Home</a>
+    <a href="writing.html" class="nav-item">Writing</a>
     <a href="work.html" class="nav-item">Work</a>
     <a href="now.html" class="nav-item active live">Now</a>
     <a href="contact.html" class="nav-item">Contact</a>
@@ -85,15 +86,19 @@
         const grid = document.getElementById('reading-list');
 
         if (data.books && data.books.length > 0) {
-          grid.innerHTML = data.books.map(book => `
-            <a href="${book.link}" target="_blank" rel="noopener" class="media-card">
-              <div class="media-cover" style="background-image: url('${book.image}')"></div>
-              <div class="media-info">
-                <span class="media-title">${book.title}</span>
-                <span class="media-artist">${book.author}</span>
-              </div>
-            </a>
-          `).join('');
+          grid.innerHTML = data.books.map(book => {
+            // Create Amazon search URL for the book
+            const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(book.title + ' ' + book.author)}`;
+            return `
+              <a href="${amazonUrl}" target="_blank" rel="noopener" class="media-card">
+                <div class="media-cover" style="background-image: url('${book.image}')"></div>
+                <div class="media-info">
+                  <span class="media-title">${book.title}</span>
+                  <span class="media-artist">${book.author}</span>
+                </div>
+              </a>
+            `;
+          }).join('');
         } else {
           grid.innerHTML = '<p class="empty-state">Nothing currently</p>';
         }

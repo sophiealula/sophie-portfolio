@@ -25,14 +25,22 @@ async function fetchListening() {
 
   const tracks = data.recenttracks?.track || [];
 
-  const items = tracks.map(track => ({
-    title: track.name,
-    artist: track.artist['#text'],
-    album: track.album['#text'],
-    image: track.image?.find(img => img.size === 'large')?.['#text'] || null,
-    url: track.url,
-    nowPlaying: track['@attr']?.nowplaying === 'true'
-  }));
+  const items = tracks.map(track => {
+    const title = track.name;
+    const artist = track.artist['#text'];
+    // Create Spotify search URL
+    const spotifyUrl = `https://open.spotify.com/search/${encodeURIComponent(artist + ' ' + title)}`;
+
+    return {
+      title,
+      artist,
+      album: track.album['#text'],
+      image: track.image?.find(img => img.size === 'large')?.['#text'] || null,
+      url: spotifyUrl,
+      lastfmUrl: track.url,
+      nowPlaying: track['@attr']?.nowplaying === 'true'
+    };
+  });
 
   // Dedupe by title+artist (keep first occurrence)
   const seen = new Set();

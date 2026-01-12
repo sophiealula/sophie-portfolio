@@ -1076,6 +1076,40 @@ a.item-title:hover {
 }
 
 /* ===========================================
+   Writing / Coming Soon
+   =========================================== */
+
+.writing-content {
+  max-width: 650px;
+}
+
+.coming-soon {
+  padding: var(--space-xl) var(--space-lg);
+  background: var(--bg-nav);
+  border-radius: 12px;
+  text-align: center;
+}
+
+.coming-soon p {
+  color: var(--text-muted);
+  font-size: 1.25rem;
+}
+
+.coming-soon .hint {
+  font-size: 0.95rem;
+  margin-top: var(--space-sm);
+}
+
+.coming-soon a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.coming-soon a:hover {
+  text-decoration: underline;
+}
+
+/* ===========================================
    Footer
    =========================================== */
 
