@@ -54,9 +54,14 @@
               day: 'numeric',
               year: 'numeric'
             });
+            // Check if post has a title (long-form) or not (microblog)
+            const titleHtml = post.title
+              ? `<h3 class="post-title"><a href="${post.url}" target="_blank" rel="noopener">${post.title}</a></h3>`
+              : '';
             return `
-              <article class="post-item">
+              <article class="post-item ${post.title ? 'has-title' : ''}">
                 <time class="post-date">${dateStr}</time>
+                ${titleHtml}
                 <div class="post-content">${post.content_html}</div>
                 <a href="${post.url}" target="_blank" rel="noopener" class="post-link">Permalink</a>
               </article>
