@@ -16,103 +16,203 @@
   <nav class="pill-nav">
     <a href="index.html" class="nav-item">Home</a>
     <a href="work.html" class="nav-item active">Work</a>
-    <a href="now.html" class="nav-item">Now</a>
-    <a href="index.html#contact" class="nav-item">Contact</a>
+    <a href="now.html" class="nav-item live">Now</a>
+    <a href="contact.html" class="nav-item">Contact</a>
   </nav>
 
   <main>
     <section class="page-header">
-      <h1>Where I've <em>worked</em></h1>
-      <p class="tagline">Click to expand and see what I did.</p>
+      <h1>My Work <em>So Far</em></h1>
+      <p class="tagline">I've been lucky enough to work with some extremely talented people to help others.</p>
     </section>
 
-    <section class="work-blocks">
-      <!-- 2389 Research -->
-      <div class="work-block" data-expanded="false">
-        <div class="work-block-header">
-          <div class="work-block-info">
-            <h2>2389 Research</h2>
-            <span class="work-block-role">Product Manager / Biz Ops</span>
+    <!-- Carousel Navigation -->
+    <div class="carousel-nav">
+      <button class="carousel-btn prev" aria-label="Previous">‹</button>
+      <button class="carousel-btn next" aria-label="Next">›</button>
+    </div>
+
+    <!-- Work Carousel -->
+    <section class="work-carousel">
+      <div class="carousel-track">
+        <!-- 2389 Research -->
+        <div class="carousel-card" data-work="2389">
+          <div class="card-image" style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);">
+            <span class="placeholder-text">Team Photo</span>
           </div>
-          <span class="work-block-date">2024 - Present</span>
-          <span class="work-block-toggle">+</span>
+          <div class="card-overlay">
+            <h2>2389 Research</h2>
+            <span class="card-role">Product Manager / Biz Ops</span>
+            <span class="card-date">2024 - Present</span>
+          </div>
         </div>
-        <div class="work-block-details">
-          <p>Currently monetizing AI products and running GTM experiments. I'm thinking through the future of idea validation — what does it look like when anyone can build a product in a weekend? What does "vibe marketing" mean when shipping is instant?</p>
-          <p>Building tools and researching how people use AI products across different countries and cultures.</p>
+
+        <!-- Atomic -->
+        <div class="carousel-card" data-work="atomic">
+          <div class="card-image" style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);">
+            <span class="placeholder-text">Team Photo</span>
+          </div>
+          <div class="card-overlay">
+            <h2>Atomic</h2>
+            <span class="card-role">Launch Coordinator</span>
+            <span class="card-date">2022 - 2024</span>
+          </div>
+        </div>
+
+        <!-- Techstars -->
+        <div class="carousel-card" data-work="techstars">
+          <div class="card-image" style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);">
+            <span class="placeholder-text">Team Photo</span>
+          </div>
+          <div class="card-overlay">
+            <h2>Techstars</h2>
+            <span class="card-role">Investor</span>
+            <span class="card-date">2020 - 2022</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Work Details Modal -->
+    <div class="work-modal" id="work-modal">
+      <div class="modal-content">
+        <button class="modal-close">×</button>
+
+        <!-- Images at top -->
+        <div class="modal-images-row">
+          <div class="modal-image-placeholder">Photo 1</div>
+          <div class="modal-image-placeholder">Photo 2</div>
+        </div>
+
+        <!-- Content below -->
+        <div class="modal-body">
+          <div class="modal-left">
+            <h2 class="modal-title"></h2>
+            <a class="modal-link" href="#" target="_blank" rel="noopener"></a>
+            <div class="modal-skills"></div>
+          </div>
+          <div class="modal-right">
+            <p class="modal-tagline"></p>
+            <div class="modal-description"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    // Work data
+    const workData = {
+      '2389': {
+        title: '2389 Research',
+        tagline: 'Product Manager / Biz Ops • 2024 - Present',
+        link: 'https://2389.ai',
+        skills: ['Product', 'GTM', 'AI'],
+        images: ['images/2389/team-1.jpg', 'images/2389/team-2.jpg'],
+        description: `
+          <p>Currently monetizing AI products and running GTM experiments. I'm thinking through the future of idea validation — what does it look like when anyone can build a product in a weekend?</p>
           <ul>
             <li>Running sprints with the team to validate ideas rapidly</li>
             <li>Exploring AI product adoption patterns across different cultures</li>
             <li>Designing and executing go-to-market strategies for AI tools</li>
           </ul>
-        </div>
-      </div>
-
-      <!-- Atomic -->
-      <div class="work-block" data-expanded="false">
-        <div class="work-block-header">
-          <div class="work-block-info">
-            <h2>Atomic</h2>
-            <span class="work-block-role">Launch Coordinator</span>
-          </div>
-          <span class="work-block-date">2022 - 2024</span>
-          <span class="work-block-toggle">+</span>
-        </div>
-        <div class="work-block-details">
+        `
+      },
+      'atomic': {
+        title: 'Atomic',
+        tagline: 'Launch Coordinator • 2022 - 2024',
+        link: 'https://atomic.vc',
+        skills: ['Operations', 'Product', 'Strategy'],
+        description: `
           <p>Launched companies across four industries: B2B SaaS tools, asynchronous video platforms, healthcare marketplaces, and more.</p>
           <ul>
             <li>Partnered with engineers and designers to launch a network tool with <strong>22 new features</strong></li>
             <li>Ran internal usability pilots to validate product-market fit</li>
             <li>Helped secure <strong>$750K</strong> to validate a new sales marketplace model</li>
           </ul>
-        </div>
-      </div>
-
-      <!-- Techstars -->
-      <div class="work-block" data-expanded="false">
-        <div class="work-block-header">
-          <div class="work-block-info">
-            <h2>Techstars</h2>
-            <span class="work-block-role">Investor</span>
-          </div>
-          <span class="work-block-date">2020 - 2022</span>
-          <span class="work-block-toggle">+</span>
-        </div>
-        <div class="work-block-details">
+        `
+      },
+      'techstars': {
+        title: 'Techstars',
+        tagline: 'Investor • 2020 - 2022',
+        link: 'https://techstars.com',
+        skills: ['Investing', 'Mentorship', 'Operations'],
+        description: `
           <p>Invested in early-stage startups and helped launch the San Francisco office.</p>
           <ul>
             <li>Launched Techstars San Francisco office from the ground up</li>
             <li>Supported <strong>120+ founders</strong> through the accelerator program</li>
             <li>Evaluated deal flow and made investment recommendations</li>
           </ul>
-        </div>
-      </div>
-    </section>
-  </main>
+        `
+      }
+    };
 
-  <footer>
-    <p>Built with intention</p>
-  </footer>
+    // Carousel functionality
+    const track = document.querySelector('.carousel-track');
+    const cards = document.querySelectorAll('.carousel-card');
+    const prevBtn = document.querySelector('.carousel-btn.prev');
+    const nextBtn = document.querySelector('.carousel-btn.next');
+    let currentIndex = 0;
 
-  <script>
-    // Toggle work blocks
-    document.querySelectorAll('.work-block-header').forEach(header => {
-      header.addEventListener('click', () => {
-        const block = header.parentElement;
-        const isExpanded = block.dataset.expanded === 'true';
+    function updateCarousel() {
+      const cardWidth = cards[0].offsetWidth + 32; // card width + gap
+      track.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
+    }
 
-        // Close all other blocks
-        document.querySelectorAll('.work-block').forEach(b => {
-          b.dataset.expanded = 'false';
-          b.querySelector('.work-block-toggle').textContent = '+';
-        });
+    prevBtn.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        updateCarousel();
+      }
+    });
 
-        // Toggle this block
-        if (!isExpanded) {
-          block.dataset.expanded = 'true';
-          block.querySelector('.work-block-toggle').textContent = '−';
-        }
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex < cards.length - 1) {
+        currentIndex++;
+        updateCarousel();
+      }
+    });
+
+    // Modal functionality
+    const modal = document.getElementById('work-modal');
+
+    cards.forEach(card => {
+      card.addEventListener('click', () => {
+        const workId = card.dataset.work;
+        const data = workData[workId];
+
+        modal.querySelector('.modal-title').textContent = data.title;
+        modal.querySelector('.modal-tagline').textContent = data.tagline;
+        modal.querySelector('.modal-description').innerHTML = data.description;
+
+        // Set link
+        const linkEl = modal.querySelector('.modal-link');
+        linkEl.href = data.link;
+        linkEl.textContent = data.link.replace('https://', '') + ' ↗';
+
+        // Render skills
+        const skillsHtml = data.skills.map(skill =>
+          `<span class="skill-pill">${skill}</span>`
+        ).join('');
+        modal.querySelector('.modal-skills').innerHTML = skillsHtml;
+
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
       });
+    });
+
+    modal.querySelector('.modal-close').addEventListener('click', () => {
+      modal.classList.remove('active');
+      document.body.style.overflow = '';
+    });
+
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        modal.classList.remove('active');
+        document.body.style.overflow = '';
+      }
     });
   </script>
 </body>
