@@ -55,24 +55,19 @@
       </div>
     </section>
 
-    <!-- Reading & Listening -->
+    <!-- Reading -->
     <section class="media-section">
-      <div class="media-lists">
-        <!-- Reading List -->
-        <div class="media-list">
-          <h2>What I'm <em>reading</em></h2>
-          <ul class="vertical-list" id="reading-list">
-            <li class="list-item"><span class="item-title">Loading...</span></li>
-          </ul>
-        </div>
+      <h2>What I'm <em>reading</em></h2>
+      <div class="media-grid" id="reading-list">
+        <div class="media-card loading"><div class="media-cover"></div></div>
+      </div>
+    </section>
 
-        <!-- Listening List -->
-        <div class="media-list">
-          <h2>What I'm <em>listening to</em></h2>
-          <ul class="vertical-list" id="listening-list">
-            <li class="list-item"><span class="item-title">Loading...</span></li>
-          </ul>
-        </div>
+    <!-- Listening -->
+    <section class="media-section">
+      <h2>What I'm <em>listening to</em></h2>
+      <div class="media-grid" id="listening-list">
+        <div class="media-card loading"><div class="media-cover"></div></div>
       </div>
     </section>
   </main>
@@ -87,17 +82,20 @@
       try {
         const res = await fetch('data/reading.json');
         const data = await res.json();
-        const list = document.getElementById('reading-list');
+        const grid = document.getElementById('reading-list');
 
         if (data.books && data.books.length > 0) {
-          list.innerHTML = data.books.map(book => `
-            <li class="list-item">
-              <a href="${book.link}" target="_blank" rel="noopener" class="item-title">${book.title}</a>
-              <span class="item-author">${book.author}</span>
-            </li>
+          grid.innerHTML = data.books.map(book => `
+            <a href="${book.link}" target="_blank" rel="noopener" class="media-card">
+              <div class="media-cover" style="background-image: url('${book.image}')"></div>
+              <div class="media-info">
+                <span class="media-title">${book.title}</span>
+                <span class="media-artist">${book.author}</span>
+              </div>
+            </a>
           `).join('');
         } else {
-          list.innerHTML = '<li class="list-item"><span class="item-title">Nothing currently</span></li>';
+          grid.innerHTML = '<p class="empty-state">Nothing currently</p>';
         }
       } catch (e) {
         console.error('Failed to load reading list:', e);
@@ -109,17 +107,20 @@
       try {
         const res = await fetch('data/listening.json');
         const data = await res.json();
-        const list = document.getElementById('listening-list');
+        const grid = document.getElementById('listening-list');
 
         if (data.tracks && data.tracks.length > 0) {
-          list.innerHTML = data.tracks.map(track => `
-            <li class="list-item">
-              <a href="${track.url}" target="_blank" rel="noopener" class="item-title">${track.title}</a>
-              <span class="item-author">${track.artist}</span>
-            </li>
+          grid.innerHTML = data.tracks.map(track => `
+            <a href="${track.url}" target="_blank" rel="noopener" class="media-card">
+              <div class="media-cover" style="background-image: url('${track.image}')"></div>
+              <div class="media-info">
+                <span class="media-title">${track.title}</span>
+                <span class="media-artist">${track.artist}</span>
+              </div>
+            </a>
           `).join('');
         } else {
-          list.innerHTML = '<li class="list-item"><span class="item-title">Nothing recently</span></li>';
+          grid.innerHTML = '<p class="empty-state">Nothing recently</p>';
         }
       } catch (e) {
         console.error('Failed to load listening list:', e);

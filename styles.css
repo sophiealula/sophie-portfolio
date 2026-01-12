@@ -818,20 +818,36 @@ a.item-title:hover {
 }
 
 /* ===========================================
-   Media Grid (Listening) - Legacy
+   Media Grid (Reading & Listening)
    =========================================== */
 
 .media-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  display: flex;
   gap: var(--space-md);
+  overflow-x: auto;
+  padding-bottom: var(--space-sm);
   margin-top: var(--space-md);
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.media-grid::-webkit-scrollbar {
+  height: 6px;
+}
+
+.media-grid::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.media-grid::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
 }
 
 .media-card {
-  background: var(--bg-nav);
-  border-radius: 12px;
-  overflow: hidden;
+  flex: 0 0 160px;
+  text-decoration: none;
+  color: var(--text);
   transition: transform 0.2s ease;
 }
 
@@ -839,26 +855,51 @@ a.item-title:hover {
   transform: translateY(-4px);
 }
 
-.media-image {
-  aspect-ratio: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.media-cover {
+  width: 160px;
+  height: 160px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--border);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.media-card.loading .media-cover {
+  background: linear-gradient(135deg, var(--border) 0%, #ddd 100%);
 }
 
 .media-info {
-  padding: var(--space-sm);
+  padding-top: var(--space-sm);
+  max-width: 160px;
 }
 
-.media-info h3 {
-  font-size: 1rem;
+.media-title {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.3;
   margin-bottom: 0.25rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
 
-.media-info p {
-  color: var(--text-muted);
-  font-size: 0.875rem;
+.media-artist {
+  display: block;
   font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.empty-state {
+  color: var(--text-muted);
   font-style: italic;
 }
 
