@@ -1109,6 +1109,77 @@ a.item-title:hover {
   text-decoration: underline;
 }
 
+/* Posts list */
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.post-item {
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border);
+}
+
+.post-item:last-child {
+  border-bottom: none;
+}
+
+.post-date {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.post-content {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: var(--text);
+}
+
+.post-content p {
+  margin-bottom: var(--space-sm);
+}
+
+.post-content p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.post-link {
+  display: inline-block;
+  margin-top: var(--space-sm);
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.post-link:hover {
+  color: var(--accent);
+}
+
+.view-all-link {
+  display: inline-block;
+  margin-top: var(--space-lg);
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.view-all-link:hover {
+  text-decoration: underline;
+}
+
+.loading {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
 /* ===========================================
    Footer
    =========================================== */

@@ -28,15 +28,50 @@
     </section>
 
     <section class="writing-content">
-      <div class="coming-soon">
-        <p>Microblog coming soon...</p>
-        <p class="hint">Will be powered by <a href="https://micro.blog" target="_blank" rel="noopener">micro.blog</a></p>
+      <div class="posts-list" id="posts-list">
+        <p class="loading">Loading posts...</p>
       </div>
+      <a href="https://sophiealula.micro.blog" target="_blank" rel="noopener" class="view-all-link">View all on micro.blog →</a>
     </section>
   </main>
 
   <footer>
     <p>Built with intention</p>
   </footer>
+
+  <script>
+    async function loadPosts() {
+      try {
+        const res = await fetch('https://sophiealula.micro.blog/feed.json');
+        const data = await res.json();
+        const list = document.getElementById('posts-list');
+
+        if (data.items && data.items.length > 0) {
+          list.innerHTML = data.items.map(post => {
+            const date = new Date(post.date_published);
+            const dateStr = date.toLocaleDateString('en-US', {
+              month: 'short',
+              day: 'numeric',
+              year: 'numeric'
+            });
+            return `
+              <article class="post-item">
+                <time class="post-date">${dateStr}</time>
+                <div class="post-content">${post.content_html}</div>
+                <a href="${post.url}" target="_blank" rel="noopener" class="post-link">Permalink</a>
+              </article>
+            `;
+          }).join('');
+        } else {
+          list.innerHTML = '<p class="empty-state">No posts yet</p>';
+        }
+      } catch (e) {
+        console.error('Failed to load posts:', e);
+        document.getElementById('posts-list').innerHTML = '<p class="empty-state">Could not load posts</p>';
+      }
+    }
+
+    loadPosts();
+  </script>
 </body>
 </html>
