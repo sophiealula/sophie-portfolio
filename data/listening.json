@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-12T18:27:50.460Z",
+  "updated": "2026-01-13T01:19:18.823Z",
   "tracks": [
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "nowPlaying": false
+    },
     {
       "title": "Fools Gold - Remastered 2009",
       "artist": "The Stone Roses",
@@ -20,21 +29,30 @@
       "nowPlaying": false
     },
     {
-      "title": "Inept Apollo",
-      "artist": "Nation of Language",
-      "album": "Inept Apollo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
-      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
-      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "title": "Jealousy",
+      "artist": "Rubii",
+      "album": "Jealousy",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2ab888b4c2c51c3ffdfc3acbddd03927.jpg",
+      "url": "https://open.spotify.com/search/Rubii%20Jealousy",
+      "lastfmUrl": "https://www.last.fm/music/Rubii/_/Jealousy",
       "nowPlaying": false
     },
     {
-      "title": "Bons Momentos",
-      "artist": "Serginho Meriti",
-      "album": "Bons Momentos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
-      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
-      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
+      "title": "Didn't Cha Know",
+      "artist": "Erykah Badu",
+      "album": "Mama's Gun",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8ef6da34afff11bbe4bf08c58070cd6a.jpg",
+      "url": "https://open.spotify.com/search/Erykah%20Badu%20Didn't%20Cha%20Know",
+      "lastfmUrl": "https://www.last.fm/music/Erykah+Badu/_/Didn%27t+Cha+Know",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cherry Pop",
+      "artist": "JMSN",
+      "album": "Soft Spot",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/30c35d2aad18183813f53e61cff2f1bd.jpg",
+      "url": "https://open.spotify.com/search/JMSN%20Cherry%20Pop",
+      "lastfmUrl": "https://www.last.fm/music/JMSN/_/Cherry+Pop",
       "nowPlaying": false
     },
     {
@@ -44,6 +62,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c987d84596d54c1f0d141bc4ffc56dc9.png",
       "url": "https://open.spotify.com/search/Dea%20Matrona%20Stamp%20on%20It",
       "lastfmUrl": "https://www.last.fm/music/Dea+Matrona/_/Stamp+on+It",
+      "nowPlaying": false
+    },
+    {
+      "title": "Genshi",
+      "artist": "Susumu Yokota",
+      "album": "Sakura",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
+      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
+      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
       "nowPlaying": false
     }
   ]
