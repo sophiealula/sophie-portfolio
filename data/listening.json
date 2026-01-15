@@ -1,6 +1,60 @@
 {
-  "updated": "2026-01-15T06:28:20.147Z",
+  "updated": "2026-01-15T12:38:23.454Z",
   "tracks": [
+    {
+      "title": "Marechià",
+      "artist": "Nu Genea",
+      "album": "Bar Mediterraneo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
+      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
+      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cariño",
+      "artist": "The Marías",
+      "album": "Superclean, Vol. II",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ec497e801200146c55c6afe5d677519.jpg",
+      "url": "https://open.spotify.com/search/The%20Mar%C3%ADas%20Cari%C3%B1o",
+      "lastfmUrl": "https://www.last.fm/music/The+Mar%C3%ADas/_/Cari%C3%B1o",
+      "nowPlaying": false
+    },
+    {
+      "title": "Marseille",
+      "artist": "Oracle Sisters",
+      "album": "Divinations",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
+      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
+      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
+      "nowPlaying": false
+    },
+    {
+      "title": "Leave Your Life - Lonely Hearts Mix",
+      "artist": "Alex Kassian",
+      "album": "Leave Your Life",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52c0c6347df56f87505e9bfdc1127d4.jpg",
+      "url": "https://open.spotify.com/search/Alex%20Kassian%20Leave%20Your%20Life%20-%20Lonely%20Hearts%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Alex+Kassian/_/Leave+Your+Life+-+Lonely+Hearts+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "River Of Bass - Remastered",
+      "artist": "Underworld",
+      "album": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg",
+      "url": "https://open.spotify.com/search/Underworld%20River%20Of%20Bass%20-%20Remastered",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/River+Of+Bass+-+Remastered",
+      "nowPlaying": false
+    },
+    {
+      "title": "Genshi",
+      "artist": "Susumu Yokota",
+      "album": "Sakura",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
+      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
+      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
+      "nowPlaying": false
+    },
     {
       "title": "Shotguns",
       "artist": "Oracle Sisters",
@@ -35,60 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
       "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Chan%20Chan",
       "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
-      "nowPlaying": false
-    },
-    {
-      "title": "Pigs on the Wing 1",
-      "artist": "Pink Floyd",
-      "album": "Animals",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/903616162a8a4f1ca1ac63497e551c07.png",
-      "url": "https://open.spotify.com/search/Pink%20Floyd%20Pigs%20on%20the%20Wing%201",
-      "lastfmUrl": "https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+1",
-      "nowPlaying": false
-    },
-    {
-      "title": "Bons Momentos",
-      "artist": "Serginho Meriti",
-      "album": "Bons Momentos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
-      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
-      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
-      "nowPlaying": false
-    },
-    {
-      "title": "De camino a la vereda",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
-      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20De%20camino%20a%20la%20vereda",
-      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/De+camino+a+la+vereda",
-      "nowPlaying": false
-    },
-    {
-      "title": "Amor de loca juventud",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
-      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Amor%20de%20loca%20juventud",
-      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Amor+de+loca+juventud",
-      "nowPlaying": false
-    },
-    {
-      "title": "Candela",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
-      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Candela",
-      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Candela",
-      "nowPlaying": false
-    },
-    {
-      "title": "Orgullecida",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
-      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Orgullecida",
-      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Orgullecida",
       "nowPlaying": false
     }
   ]
