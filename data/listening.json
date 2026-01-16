@@ -1,24 +1,6 @@
 {
-  "updated": "2026-01-15T18:32:00.170Z",
+  "updated": "2026-01-16T01:23:06.630Z",
   "tracks": [
-    {
-      "title": "Marechià",
-      "artist": "Nu Genea",
-      "album": "Bar Mediterraneo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
-      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
-      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cariño",
-      "artist": "The Marías",
-      "album": "Superclean, Vol. II",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ec497e801200146c55c6afe5d677519.jpg",
-      "url": "https://open.spotify.com/search/The%20Mar%C3%ADas%20Cari%C3%B1o",
-      "lastfmUrl": "https://www.last.fm/music/The+Mar%C3%ADas/_/Cari%C3%B1o",
-      "nowPlaying": false
-    },
     {
       "title": "Marseille",
       "artist": "Oracle Sisters",
@@ -29,21 +11,30 @@
       "nowPlaying": false
     },
     {
-      "title": "Leave Your Life - Lonely Hearts Mix",
-      "artist": "Alex Kassian",
-      "album": "Leave Your Life",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52c0c6347df56f87505e9bfdc1127d4.jpg",
-      "url": "https://open.spotify.com/search/Alex%20Kassian%20Leave%20Your%20Life%20-%20Lonely%20Hearts%20Mix",
-      "lastfmUrl": "https://www.last.fm/music/Alex+Kassian/_/Leave+Your+Life+-+Lonely+Hearts+Mix",
+      "title": "Bons Momentos",
+      "artist": "Serginho Meriti",
+      "album": "Bons Momentos",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
+      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
+      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
       "nowPlaying": false
     },
     {
-      "title": "River Of Bass - Remastered",
+      "title": "Little Speaker",
       "artist": "Underworld",
-      "album": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20River%20Of%20Bass%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/River+Of+Bass+-+Remastered",
+      "album": "A Hundred Days Off",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a862410006a24ea9a0e56f86ff8cb917.png",
+      "url": "https://open.spotify.com/search/Underworld%20Little%20Speaker",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Little+Speaker",
+      "nowPlaying": false
+    },
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
       "nowPlaying": false
     },
     {
@@ -56,12 +47,21 @@
       "nowPlaying": false
     },
     {
-      "title": "Shotguns",
-      "artist": "Oracle Sisters",
-      "album": "Divinations",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
-      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Shotguns",
-      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Shotguns",
+      "title": "Poet Cat",
+      "artist": "Underworld",
+      "album": "DRIFT Series 1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/909a59960b738d139cdb2cf80db9a97e.jpg",
+      "url": "https://open.spotify.com/search/Underworld%20Poet%20Cat",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Poet+Cat",
+      "nowPlaying": false
+    },
+    {
+      "title": "I Turn My Camera On",
+      "artist": "Spoon",
+      "album": "Gimme Fiction (Deluxe Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be132ad9d55fd891e4cd5110d4a999f3.jpg",
+      "url": "https://open.spotify.com/search/Spoon%20I%20Turn%20My%20Camera%20On",
+      "lastfmUrl": "https://www.last.fm/music/Spoon/_/I+Turn+My+Camera+On",
       "nowPlaying": false
     },
     {
@@ -74,21 +74,21 @@
       "nowPlaying": false
     },
     {
-      "title": "Breathe (In the Air)",
-      "artist": "Pink Floyd",
-      "album": "The Dark Side of the Moon",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d4bdd038cacbec705e269edb0fd38419.png",
-      "url": "https://open.spotify.com/search/Pink%20Floyd%20Breathe%20(In%20the%20Air)",
-      "lastfmUrl": "https://www.last.fm/music/Pink+Floyd/_/Breathe+(In+the+Air)",
+      "title": "Utrus Horas",
+      "artist": "Orchestra Baobab",
+      "album": "Pirates Choice",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/abc24d3284dbbbf5b20efc0757289be7.jpg",
+      "url": "https://open.spotify.com/search/Orchestra%20Baobab%20Utrus%20Horas",
+      "lastfmUrl": "https://www.last.fm/music/Orchestra+Baobab/_/Utrus+Horas",
       "nowPlaying": false
     },
     {
-      "title": "Chan Chan",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
-      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Chan%20Chan",
-      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
+      "title": "Marechià",
+      "artist": "Nu Genea",
+      "album": "Bar Mediterraneo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
+      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
+      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
       "nowPlaying": false
     }
   ]
