@@ -1,6 +1,69 @@
 {
-  "updated": "2026-01-18T18:23:37.223Z",
+  "updated": "2026-01-19T01:26:43.684Z",
   "tracks": [
+    {
+      "title": "1995",
+      "artist": "CoryaYo",
+      "album": "1995",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6025efa9d640d6bba960c5586ec2f5aa.jpg",
+      "url": "https://open.spotify.com/search/CoryaYo%201995",
+      "lastfmUrl": "https://www.last.fm/music/CoryaYo/_/1995",
+      "nowPlaying": false
+    },
+    {
+      "title": "Triste",
+      "artist": "Molemen",
+      "album": "Ritual Of The...Revisited & Remastered",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9e2c9e701aa248708df61ae22729a66a.jpg",
+      "url": "https://open.spotify.com/search/Molemen%20Triste",
+      "lastfmUrl": "https://www.last.fm/music/Molemen/_/Triste",
+      "nowPlaying": false
+    },
+    {
+      "title": "Point and Kill",
+      "artist": "Little Simz",
+      "album": "Sometimes I Might Be Introvert",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/592ce13b8d7cfee26e13692b3c6985e8.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Point%20and%20Kill",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Point+and+Kill",
+      "nowPlaying": false
+    },
+    {
+      "title": "Slow Bullet",
+      "artist": "People Under the Stairs",
+      "album": "The Next Step",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4fa2670f4a21a85019745261ef3a9a55.jpg",
+      "url": "https://open.spotify.com/search/People%20Under%20the%20Stairs%20Slow%20Bullet",
+      "lastfmUrl": "https://www.last.fm/music/People+Under+the+Stairs/_/Slow+Bullet",
+      "nowPlaying": false
+    },
+    {
+      "title": "Sirens",
+      "artist": "Hermit and the Recluse",
+      "album": "Orpheus vs. the Sirens",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d7f7157e9f18b6383d8eb961df9b54c7.jpg",
+      "url": "https://open.spotify.com/search/Hermit%20and%20the%20Recluse%20Sirens",
+      "lastfmUrl": "https://www.last.fm/music/Hermit+and+the+Recluse/_/Sirens",
+      "nowPlaying": false
+    },
+    {
+      "title": "Paid in Full",
+      "artist": "Eric B. & Rakim",
+      "album": "Paid in Full",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/601baac180bc36fc53f07e5481867baa.jpg",
+      "url": "https://open.spotify.com/search/Eric%20B.%20%26%20Rakim%20Paid%20in%20Full",
+      "lastfmUrl": "https://www.last.fm/music/Eric+B.+&+Rakim/_/Paid+in+Full",
+      "nowPlaying": false
+    },
+    {
+      "title": "Breakfast Club",
+      "artist": "Z-Trip",
+      "album": "Shifting Gears (Explicit Version)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a940c5bcc0d512a7c5cf5a7a07b91f92.jpg",
+      "url": "https://open.spotify.com/search/Z-Trip%20Breakfast%20Club",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/Z-Trip/_/Breakfast+Club",
+      "nowPlaying": false
+    },
     {
       "title": "Rich Nigga Shit (feat. Young Thug)",
       "artist": "21 Savage",
@@ -26,60 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/459432ff1bb58ab1f50608122b998705.jpg",
       "url": "https://open.spotify.com/search/Prof%20Pack%20a%20Lunch%20(with%20Redman)",
       "lastfmUrl": "https://www.last.fm/music/Prof/_/Pack+a+Lunch+(with+Redman)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Six Days - Remix",
-      "artist": "DJ Shadow",
-      "album": "The Fast and the Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/edf137aa63a6a51b7ed7637a074dd827.jpg",
-      "url": "https://open.spotify.com/search/DJ%20Shadow%20Six%20Days%20-%20Remix",
-      "lastfmUrl": "https://www.last.fm/music/DJ+Shadow/_/Six+Days+-+Remix",
-      "nowPlaying": false
-    },
-    {
-      "title": "Tried By 12 (Instrumental)",
-      "artist": "The East Flatbush Project",
-      "album": "First Born",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/54d69cd630e838709e3a75092e0ca9a3.jpg",
-      "url": "https://open.spotify.com/search/The%20East%20Flatbush%20Project%20Tried%20By%2012%20(Instrumental)",
-      "lastfmUrl": "https://www.last.fm/music/The+East+Flatbush+Project/_/Tried+By+12+(Instrumental)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Quills",
-      "artist": "The Roots",
-      "album": "Phrenology",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5a6decf4618a4cad8f8b3242cf3aceb1.jpg",
-      "url": "https://open.spotify.com/search/The%20Roots%20Quills",
-      "lastfmUrl": "https://www.last.fm/music/The+Roots/_/Quills",
-      "nowPlaying": false
-    },
-    {
-      "title": "Te Estoy Amando Locamente",
-      "artist": "Las Grecas",
-      "album": "Gipsy Rock",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e39c3b96fb39113c7a48789c94ea4c07.jpg",
-      "url": "https://open.spotify.com/search/Las%20Grecas%20Te%20Estoy%20Amando%20Locamente",
-      "lastfmUrl": "https://www.last.fm/music/Las+Grecas/_/Te+Estoy+Amando+Locamente",
-      "nowPlaying": false
-    },
-    {
-      "title": "Ya No Quiero Tu Querer",
-      "artist": "José El Francés",
-      "album": "Las Calles de San Blas",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/19ea7fe423aa49fec927bccd3157ce16.jpg",
-      "url": "https://open.spotify.com/search/Jos%C3%A9%20El%20Franc%C3%A9s%20Ya%20No%20Quiero%20Tu%20Querer",
-      "lastfmUrl": "https://www.last.fm/music/Jos%C3%A9+El+Franc%C3%A9s/_/Ya+No+Quiero+Tu+Querer",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mi Dici Che Stai Bene Con Me...",
-      "artist": "Toto Cutugno",
-      "album": "Innamorata, Innamorato, Innamorati",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8849450771fd4fd398daf2780fd2b3a3.jpg",
-      "url": "https://open.spotify.com/search/Toto%20Cutugno%20Mi%20Dici%20Che%20Stai%20Bene%20Con%20Me...",
-      "lastfmUrl": "https://www.last.fm/music/Toto+Cutugno/_/Mi+Dici+Che+Stai+Bene+Con+Me...",
       "nowPlaying": false
     }
   ]
