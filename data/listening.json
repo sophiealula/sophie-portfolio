@@ -1,6 +1,42 @@
 {
-  "updated": "2026-01-19T12:41:25.217Z",
+  "updated": "2026-01-19T18:27:13.370Z",
   "tracks": [
+    {
+      "title": "El cuarto de tula",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
+      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20El%20cuarto%20de%20tula",
+      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/El+cuarto+de+tula",
+      "nowPlaying": false
+    },
+    {
+      "title": "De camino a la vereda",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
+      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20De%20camino%20a%20la%20vereda",
+      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/De+camino+a+la+vereda",
+      "nowPlaying": false
+    },
+    {
+      "title": "Chan Chan",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
+      "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Chan%20Chan",
+      "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
+      "nowPlaying": false
+    },
+    {
+      "title": "Busta's Lament",
+      "artist": "A Tribe Called Quest",
+      "album": "The Love Movement",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b89278c9909649bc987e1c2adbbdfa94.jpg",
+      "url": "https://open.spotify.com/search/A%20Tribe%20Called%20Quest%20Busta's%20Lament",
+      "lastfmUrl": "https://www.last.fm/music/A+Tribe+Called+Quest/_/Busta%27s+Lament",
+      "nowPlaying": false
+    },
     {
       "title": "1995",
       "artist": "CoryaYo",
@@ -53,42 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/601baac180bc36fc53f07e5481867baa.jpg",
       "url": "https://open.spotify.com/search/Eric%20B.%20%26%20Rakim%20Paid%20in%20Full",
       "lastfmUrl": "https://www.last.fm/music/Eric+B.+&+Rakim/_/Paid+in+Full",
-      "nowPlaying": false
-    },
-    {
-      "title": "Breakfast Club",
-      "artist": "Z-Trip",
-      "album": "Shifting Gears (Explicit Version)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a940c5bcc0d512a7c5cf5a7a07b91f92.jpg",
-      "url": "https://open.spotify.com/search/Z-Trip%20Breakfast%20Club",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Z-Trip/_/Breakfast+Club",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rich Nigga Shit (feat. Young Thug)",
-      "artist": "21 Savage",
-      "album": "Savage Mode II",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/411d1b883438426f203335180089a9d9.jpg",
-      "url": "https://open.spotify.com/search/21%20Savage%20Rich%20Nigga%20Shit%20(feat.%20Young%20Thug)",
-      "lastfmUrl": "https://www.last.fm/music/21+Savage/_/Rich+Nigga+Shit+(feat.+Young+Thug)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Coffin Nails",
-      "artist": "MF DOOM",
-      "album": "Metal Fingers Presents: Special Herbs Vol. 5 & 6",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b0dda0bedcc545878b900312f4316a44.jpg",
-      "url": "https://open.spotify.com/search/MF%20DOOM%20Coffin%20Nails",
-      "lastfmUrl": "https://www.last.fm/music/MF+DOOM/_/Coffin+Nails",
-      "nowPlaying": false
-    },
-    {
-      "title": "Pack a Lunch (with Redman)",
-      "artist": "Prof",
-      "album": "Horse",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/459432ff1bb58ab1f50608122b998705.jpg",
-      "url": "https://open.spotify.com/search/Prof%20Pack%20a%20Lunch%20(with%20Redman)",
-      "lastfmUrl": "https://www.last.fm/music/Prof/_/Pack+a+Lunch+(with+Redman)",
       "nowPlaying": false
     }
   ]
