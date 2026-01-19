@@ -14,7 +14,7 @@
 <body>
   <!-- Pill Navigation -->
   <nav class="pill-nav">
-    <a href="index.html" class="nav-item">Home</a>
+    <a href="index.html" class="nav-item">About</a>
     <a href="writing.html" class="nav-item">Writing</a>
     <a href="work.html" class="nav-item">Work</a>
     <a href="now.html" class="nav-item active live">Now</a>
@@ -25,35 +25,8 @@
     <!-- Page Header -->
     <section class="page-header">
       <h1>Current <em>focus</em></h1>
-      <p class="tagline">What I'm building and consuming right now.</p>
-    </section>
-
-    <!-- Tools Built -->
-    <section class="projects">
-      <h2>Tools I've <em>built</em></h2>
-      <div class="project-grid">
-        <div class="project-card">
-          <div class="project-image" style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);">
-            <span class="placeholder-text">Tool Screenshot</span>
-          </div>
-          <h3>Idea Validator</h3>
-          <p>AI-powered market research and validation tool</p>
-        </div>
-        <div class="project-card">
-          <div class="project-image" style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);">
-            <span class="placeholder-text">Tool Screenshot</span>
-          </div>
-          <h3>Tool Name</h3>
-          <p>Short description of what it does</p>
-        </div>
-        <div class="project-card">
-          <div class="project-image" style="background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%);">
-            <span class="placeholder-text">Tool Screenshot</span>
-          </div>
-          <h3>Tool Name</h3>
-          <p>Short description of what it does</p>
-        </div>
-      </div>
+      <p class="tagline">What I'm reading, listening to, and bookmarking.</p>
+      <p class="last-updated" id="last-updated"></p>
     </section>
 
     <!-- Reading -->
@@ -70,6 +43,14 @@
       <div class="media-grid" id="listening-list">
         <div class="media-card loading"><div class="media-cover"></div></div>
       </div>
+    </section>
+
+    <!-- Links -->
+    <section class="media-section">
+      <h2>Links I <em>like</em></h2>
+      <ul class="links-list" id="links-list">
+        <li><a href="#">Placeholder link</a></li>
+      </ul>
     </section>
   </main>
 
@@ -132,8 +113,35 @@
       }
     }
 
+    async function showLastUpdated() {
+      try {
+        const [readingRes, listeningRes] = await Promise.all([
+          fetch('data/reading.json'),
+          fetch('data/listening.json')
+        ]);
+        const reading = await readingRes.json();
+        const listening = await listeningRes.json();
+
+        const latest = new Date(Math.max(
+          new Date(reading.updated),
+          new Date(listening.updated)
+        ));
+
+        const formatted = latest.toLocaleDateString('en-US', {
+          month: 'long',
+          day: 'numeric',
+          year: 'numeric'
+        });
+
+        document.getElementById('last-updated').textContent = `Last updated ${formatted}`;
+      } catch (e) {
+        console.error('Failed to get last updated:', e);
+      }
+    }
+
     loadReading();
     loadListening();
+    showLastUpdated();
   </script>
 </body>
 </html>

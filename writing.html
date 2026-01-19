@@ -10,29 +10,89 @@
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles.css">
+
+  <style>
+    .writing-page {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .writing-page h1 {
+      font-family: var(--font-serif);
+      font-size: 2.75rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    .writing-page h1 em {
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    .writing-page .tagline {
+      color: #666;
+      font-size: 1.1rem;
+      margin-bottom: 3.5rem;
+    }
+
+    .posts-list {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .post-item {
+      display: flex;
+      align-items: baseline;
+      padding: 0.5rem 0;
+      text-decoration: none;
+      color: var(--text);
+      border: none;
+    }
+
+    .post-item:hover {
+      opacity: 0.6;
+    }
+
+    .post-date {
+      font-family: var(--font-serif);
+      font-style: italic;
+      color: #666;
+      font-size: 1rem;
+      width: 100px;
+      flex-shrink: 0;
+    }
+
+    .post-title {
+      font-family: var(--font-sans);
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    .loading {
+      color: #666;
+      font-style: italic;
+    }
+  </style>
 </head>
 <body>
   <!-- Pill Navigation -->
   <nav class="pill-nav">
-    <a href="index.html" class="nav-item">Home</a>
+    <a href="index.html" class="nav-item">About</a>
     <a href="writing.html" class="nav-item active">Writing</a>
     <a href="work.html" class="nav-item">Work</a>
     <a href="now.html" class="nav-item live">Now</a>
     <a href="contact.html" class="nav-item">Contact</a>
   </nav>
 
-  <main>
-    <section class="page-header">
-      <h1>Things I'm <em>thinking</em></h1>
-      <p class="tagline">Short thoughts, links, and observations.</p>
-    </section>
+  <main class="writing-page">
+    <h1>My <em>writing</em></h1>
+    <p class="tagline">My thoughts and observations.</p>
 
-    <section class="writing-content">
-      <div class="posts-list" id="posts-list">
-        <p class="loading">Loading posts...</p>
-      </div>
-      <a href="https://sophiealula.micro.blog" target="_blank" rel="noopener" class="view-all-link">View all on micro.blog →</a>
-    </section>
+    <div class="posts-list" id="posts-list">
+      <p class="loading">Loading posts...</p>
+    </div>
   </main>
 
   <footer>
@@ -51,28 +111,22 @@
             const date = new Date(post.date_published);
             const dateStr = date.toLocaleDateString('en-US', {
               month: 'short',
-              day: 'numeric',
-              year: 'numeric'
+              day: 'numeric'
             });
-            // Check if post has a title (long-form) or not (microblog)
-            const titleHtml = post.title
-              ? `<h3 class="post-title"><a href="${post.url}" target="_blank" rel="noopener">${post.title}</a></h3>`
-              : '';
+            const title = post.title || post.content_text?.split('\n')[0]?.slice(0, 60) + '...' || 'Untitled';
             return `
-              <article class="post-item ${post.title ? 'has-title' : ''}">
-                <time class="post-date">${dateStr}</time>
-                ${titleHtml}
-                <div class="post-content">${post.content_html}</div>
-                <a href="${post.url}" target="_blank" rel="noopener" class="post-link">Permalink</a>
-              </article>
+              <a href="${post.url}" target="_blank" rel="noopener" class="post-item">
+                <span class="post-date">${dateStr}</span>
+                <span class="post-title">${title}</span>
+              </a>
             `;
           }).join('');
         } else {
-          list.innerHTML = '<p class="empty-state">No posts yet</p>';
+          list.innerHTML = '<p class="loading">No posts yet</p>';
         }
       } catch (e) {
         console.error('Failed to load posts:', e);
-        document.getElementById('posts-list').innerHTML = '<p class="empty-state">Could not load posts</p>';
+        document.getElementById('posts-list').innerHTML = '<p class="loading">Could not load posts</p>';
       }
     }
 

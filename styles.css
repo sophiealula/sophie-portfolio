@@ -174,22 +174,67 @@ section {
    =========================================== */
 
 .home-hero {
-  padding: var(--space-xl) 0 var(--space-md);
+  padding: var(--space-xl) 0 var(--space-lg);
 }
 
-.home-about {
-  max-width: 650px;
+.hero-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-lg);
 }
 
-.home-about p {
+.hero-photo-wrapper {
+  flex-shrink: 0;
+}
+
+.hero-photo {
+  width: 240px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 10px;
+  display: block;
+}
+
+.hero-content {
+  max-width: 550px;
+}
+
+.hero-content h1 {
+  font-size: clamp(1.75rem, 3.5vw, 2.25rem);
+  margin-bottom: var(--space-md);
+}
+
+.hero-content p {
   color: var(--text-muted);
   line-height: 1.8;
-  margin-bottom: var(--space-md);
-  font-size: 1.25rem;
+  margin-bottom: var(--space-sm);
+  font-size: 1.15rem;
 }
 
-.home-about p:last-child {
+.hero-content p:last-child {
   margin-bottom: 0;
+}
+
+.hero-content a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.hero-content a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .hero-intro {
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+
+  .hero-photo {
+    width: 200px;
+    height: 250px;
+  }
 }
 
 /* ===========================================
@@ -712,6 +757,13 @@ section {
   margin-top: var(--space-sm);
 }
 
+.last-updated {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: var(--space-xs);
+  opacity: 0.7;
+}
+
 /* ===========================================
    Current Focus Section
    =========================================== */
@@ -901,6 +953,36 @@ a.item-title:hover {
 .empty-state {
   color: var(--text-muted);
   font-style: italic;
+}
+
+/* Links List */
+.links-list {
+  list-style: none;
+  padding: 0;
+  margin-top: var(--space-md);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.links-list li {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.links-list li:last-child {
+  border-bottom: none;
+}
+
+.links-list a {
+  text-decoration: none;
+  color: var(--text);
+  font-size: 1rem;
+  transition: color 0.2s ease;
+}
+
+.links-list a:hover {
+  color: var(--accent);
 }
 
 /* ===========================================
@@ -1113,80 +1195,48 @@ a.item-title:hover {
 .posts-list {
   display: flex;
   flex-direction: column;
-  gap: var(--space-lg);
+  margin-top: 3rem;
 }
 
 .post-item {
-  padding-bottom: var(--space-lg);
-  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: baseline;
+  padding: 1.25rem 0;
+  text-decoration: none;
+  color: var(--text);
+  transition: opacity 0.15s ease;
 }
 
-.post-item:last-child {
-  border-bottom: none;
+.post-item:hover {
+  opacity: 0.6;
 }
 
 .post-date {
-  display: block;
-  font-size: 0.875rem;
+  font-family: var(--font-serif);
+  font-style: italic;
   color: var(--text-muted);
-  margin-bottom: var(--space-sm);
+  font-size: 0.95rem;
+  flex-shrink: 0;
+  width: 90px;
+  margin-right: 4rem;
 }
 
 .post-title {
-  font-size: 1.5rem;
-  margin-bottom: var(--space-sm);
-}
-
-.post-title a {
+  font-size: 1.15rem;
+  font-weight: 600;
   color: var(--text);
-  text-decoration: none;
-}
-
-.post-title a:hover {
-  color: var(--accent);
-}
-
-.post-content {
-  font-size: 1.125rem;
-  line-height: 1.8;
-  color: var(--text);
-}
-
-.post-content p {
-  margin-bottom: var(--space-sm);
-}
-
-.post-content p:last-child {
-  margin-bottom: 0;
-}
-
-.post-content a {
-  color: var(--accent);
-  text-decoration: underline;
-}
-
-.post-link {
-  display: inline-block;
-  margin-top: var(--space-sm);
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  text-decoration: none;
-}
-
-.post-link:hover {
-  color: var(--accent);
 }
 
 .view-all-link {
   display: inline-block;
-  margin-top: var(--space-lg);
-  color: var(--accent);
+  margin-top: 2.5rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
   text-decoration: none;
-  font-weight: 500;
 }
 
 .view-all-link:hover {
-  text-decoration: underline;
+  color: var(--text);
 }
 
 .loading {
