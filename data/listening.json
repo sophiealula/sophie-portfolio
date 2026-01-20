@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-20T01:22:21.885Z",
+  "updated": "2026-01-20T06:30:45.649Z",
   "tracks": [
+    {
+      "title": "Genshi",
+      "artist": "Susumu Yokota",
+      "album": "Sakura",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
+      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
+      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
+      "nowPlaying": false
+    },
     {
       "title": "Cantar das Kandakinhas",
       "artist": "Pedro Ricardo",
@@ -80,15 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/114279e2b72ffb7c9dba411925380afa.png",
       "url": "https://open.spotify.com/search/GloRilla%20TGIF",
       "lastfmUrl": "https://www.last.fm/music/GloRilla/_/TGIF",
-      "nowPlaying": false
-    },
-    {
-      "title": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "artist": "GloRilla",
-      "album": "GLORIOUS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/114279e2b72ffb7c9dba411925380afa.png",
-      "url": "https://open.spotify.com/search/GloRilla%20WHATCHU%20KNO%20ABOUT%20ME%20(feat.%20Sexyy%20Red)",
-      "lastfmUrl": "https://www.last.fm/music/GloRilla/_/WHATCHU+KNO+ABOUT+ME+(feat.+Sexyy+Red)",
       "nowPlaying": false
     }
   ]
