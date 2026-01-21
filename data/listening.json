@@ -1,6 +1,42 @@
 {
-  "updated": "2026-01-20T18:30:49.124Z",
+  "updated": "2026-01-21T01:24:56.451Z",
   "tracks": [
+    {
+      "title": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
+      "artist": "Franz Liszt",
+      "album": "Liszt - My Piano Hero",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfeb527cb53030d5815f41d718246a9b.jpg",
+      "url": "https://open.spotify.com/search/Franz%20Liszt%20La%20campanella%20in%20G-Sharp%20Minor%20(From%20%22Grandes%20%C3%A9tudes%20de%20Paganini%22%2C%20S.%20141%2F3)",
+      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/La+campanella+in+G-Sharp+Minor+(From+%22Grandes+%C3%A9tudes+de+Paganini%22,+S.+141%2F3)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Not Great Men",
+      "artist": "John Frusciante",
+      "album": "Not Great Men",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a0fe18258ef03dc32bbc54b6d7101eab.jpg",
+      "url": "https://open.spotify.com/search/John%20Frusciante%20Not%20Great%20Men",
+      "lastfmUrl": "https://www.last.fm/music/John+Frusciante/_/Not+Great+Men",
+      "nowPlaying": false
+    },
+    {
+      "title": "Pedestal of Infamy",
+      "artist": "Flea",
+      "album": "Helen Burns",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/494ea57b840040eeaee3d492798b9798.jpg",
+      "url": "https://open.spotify.com/search/Flea%20Pedestal%20of%20Infamy",
+      "lastfmUrl": "https://www.last.fm/music/Flea/_/Pedestal+of+Infamy",
+      "nowPlaying": false
+    },
+    {
+      "title": "Lovelovelove",
+      "artist": "Flea",
+      "album": "Helen Burns",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/494ea57b840040eeaee3d492798b9798.jpg",
+      "url": "https://open.spotify.com/search/Flea%20Lovelovelove",
+      "lastfmUrl": "https://www.last.fm/music/Flea/_/Lovelovelove",
+      "nowPlaying": false
+    },
     {
       "title": "A Plea",
       "artist": "Flea",
@@ -8,7 +44,7 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/3588338b6ec245746392567fee06cf71.jpg",
       "url": "https://open.spotify.com/search/Flea%20A%20Plea",
       "lastfmUrl": "https://www.last.fm/music/Flea/_/A+Plea",
-      "nowPlaying": true
+      "nowPlaying": false
     },
     {
       "title": "Appleshine (All of the Lights)",
@@ -53,51 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
       "url": "https://open.spotify.com/search/The%20Stone%20Roses%20This%20Is%20the%20One%20-%20Remastered%202009",
       "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/This+Is+the+One+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "Genshi",
-      "artist": "Susumu Yokota",
-      "album": "Sakura",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
-      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
-      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cantar das Kandakinhas",
-      "artist": "Pedro Ricardo",
-      "album": "Soprem Bons Ventos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
-      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
-      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
-      "nowPlaying": false
-    },
-    {
-      "title": "Chintamani",
-      "artist": "Céline Dessberg",
-      "album": "Chintamani",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
-      "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
-      "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
-      "nowPlaying": false
-    },
-    {
-      "title": "Brincidofovir",
-      "artist": "Thes One",
-      "album": "Where The Piecelock Ends",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/09275c6eef3d46a4c6170cb6fefe9d61.png",
-      "url": "https://open.spotify.com/search/Thes%20One%20Brincidofovir",
-      "lastfmUrl": "https://www.last.fm/music/Thes+One/_/Brincidofovir",
-      "nowPlaying": false
-    },
-    {
-      "title": "Serious Drug - Instrumental",
-      "artist": "Wildcookie",
-      "album": "The Wildcookie Cookie Dough Instrumentals",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ddcea0601d62238d5a0270754cbc7969.jpg",
-      "url": "https://open.spotify.com/search/Wildcookie%20Serious%20Drug%20-%20Instrumental",
-      "lastfmUrl": "https://www.last.fm/music/Wildcookie/_/Serious+Drug+-+Instrumental",
       "nowPlaying": false
     }
   ]
