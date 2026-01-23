@@ -1,6 +1,42 @@
 {
-  "updated": "2026-01-22T18:27:25.335Z",
+  "updated": "2026-01-23T01:22:50.258Z",
   "tracks": [
+    {
+      "title": "Mi Chico Favorito",
+      "artist": "Susana Estrada",
+      "album": "Amor Y Libertad",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3b8bead9fd93fde6da5a42fcb23d6ef2.jpg",
+      "url": "https://open.spotify.com/search/Susana%20Estrada%20Mi%20Chico%20Favorito",
+      "lastfmUrl": "https://www.last.fm/music/Susana+Estrada/_/Mi+Chico+Favorito",
+      "nowPlaying": false
+    },
+    {
+      "title": "Love Brought Me Back",
+      "artist": "D.J. Rogers",
+      "album": "Love Brought Me Back (Expanded Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ca2c983b69fffb7e1c2a814a80ad1ea.jpg",
+      "url": "https://open.spotify.com/search/D.J.%20Rogers%20Love%20Brought%20Me%20Back",
+      "lastfmUrl": "https://www.last.fm/music/D.J.+Rogers/_/Love+Brought+Me+Back",
+      "nowPlaying": false
+    },
+    {
+      "title": "All I Do",
+      "artist": "Stevie Wonder",
+      "album": "Hotter Than July",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/91273287c3bb4105c11739923bd99063.png",
+      "url": "https://open.spotify.com/search/Stevie%20Wonder%20All%20I%20Do",
+      "lastfmUrl": "https://www.last.fm/music/Stevie+Wonder/_/All+I+Do",
+      "nowPlaying": false
+    },
+    {
+      "title": "I Need Your Lovin' (Like The Sunshine) - Club Mix",
+      "artist": "Infectious!",
+      "album": "I Need Your Lovin' (Like the Sunshine)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4acb49f1443c78659f2ac3fc83e9fc34.jpg",
+      "url": "https://open.spotify.com/search/Infectious!%20I%20Need%20Your%20Lovin'%20(Like%20The%20Sunshine)%20-%20Club%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Infectious!/_/I+Need+Your+Lovin%27+(Like+The+Sunshine)+-+Club+Mix",
+      "nowPlaying": false
+    },
     {
       "title": "Live Again (feat. Halo Maud)",
       "artist": "The Chemical Brothers",
@@ -53,42 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
       "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
       "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
-      "nowPlaying": false
-    },
-    {
-      "title": "Little Speaker",
-      "artist": "Underworld",
-      "album": "A Hundred Days Off",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a862410006a24ea9a0e56f86ff8cb917.png",
-      "url": "https://open.spotify.com/search/Underworld%20Little%20Speaker",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Little+Speaker",
-      "nowPlaying": false
-    },
-    {
-      "title": "Ya No Quiero Tu Querer",
-      "artist": "José El Francés",
-      "album": "Las Calles de San Blas",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/19ea7fe423aa49fec927bccd3157ce16.jpg",
-      "url": "https://open.spotify.com/search/Jos%C3%A9%20El%20Franc%C3%A9s%20Ya%20No%20Quiero%20Tu%20Querer",
-      "lastfmUrl": "https://www.last.fm/music/Jos%C3%A9+El+Franc%C3%A9s/_/Ya+No+Quiero+Tu+Querer",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mas Que Nada",
-      "artist": "Sergio Mendes & Brasil '66",
-      "album": "Herb Alpert Presents Sergio Mendes & Brasil '66",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/099c39a8a6bf9d7e5d1350d49a7d09fe.jpg",
-      "url": "https://open.spotify.com/search/Sergio%20Mendes%20%26%20Brasil%20'66%20Mas%20Que%20Nada",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Sergio+Mendes+&+Brasil+%2766/_/Mas+Que+Nada",
-      "nowPlaying": false
-    },
-    {
-      "title": "Águas De Março",
-      "artist": "Elis Regina",
-      "album": "Elis & Tom",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/05d845c2a3dbccd959a6d1e82ade4359.jpg",
-      "url": "https://open.spotify.com/search/Elis%20Regina%20%C3%81guas%20De%20Mar%C3%A7o",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o",
       "nowPlaying": false
     }
   ]
