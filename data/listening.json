@@ -1,6 +1,33 @@
 {
-  "updated": "2026-01-25T18:25:03.827Z",
+  "updated": "2026-01-26T01:29:16.184Z",
   "tracks": [
+    {
+      "title": "Rip It Up",
+      "artist": "Orange Juice",
+      "album": "Rip It Up",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/380d0273124e0d96cb47a288bb1c1fd8.jpg",
+      "url": "https://open.spotify.com/search/Orange%20Juice%20Rip%20It%20Up",
+      "lastfmUrl": "https://www.last.fm/music/Orange+Juice/_/Rip+It+Up",
+      "nowPlaying": false
+    },
+    {
+      "title": "Kinetic - Frank De Wulf Remix",
+      "artist": "Golden Girls",
+      "album": "Straight from The Vault Volume 2",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/28874efd682248e0399ed614eb4ca653.jpg",
+      "url": "https://open.spotify.com/search/Golden%20Girls%20Kinetic%20-%20Frank%20De%20Wulf%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/Golden+Girls/_/Kinetic+-+Frank+De+Wulf+Remix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Leave Your Life - Lonely Hearts Mix",
+      "artist": "Alex Kassian",
+      "album": "Leave Your Life",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52c0c6347df56f87505e9bfdc1127d4.jpg",
+      "url": "https://open.spotify.com/search/Alex%20Kassian%20Leave%20Your%20Life%20-%20Lonely%20Hearts%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Alex+Kassian/_/Leave+Your+Life+-+Lonely+Hearts+Mix",
+      "nowPlaying": false
+    },
     {
       "title": "River Of Bass - Remastered",
       "artist": "Underworld",
@@ -62,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
       "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
       "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cantar das Kandakinhas",
-      "artist": "Pedro Ricardo",
-      "album": "Soprem Bons Ventos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
-      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
-      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
-      "nowPlaying": false
-    },
-    {
-      "title": "A Plea",
-      "artist": "Flea",
-      "album": "A Plea",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3588338b6ec245746392567fee06cf71.jpg",
-      "url": "https://open.spotify.com/search/Flea%20A%20Plea",
-      "lastfmUrl": "https://www.last.fm/music/Flea/_/A+Plea",
-      "nowPlaying": false
-    },
-    {
-      "title": "shoot you down - the Soul Hooligan remix",
-      "artist": "The Stone Roses",
-      "album": "The Remixes",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dd1787ee9715ffb51c993bd0d169841.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20shoot%20you%20down%20-%20the%20Soul%20Hooligan%20remix",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/shoot+you+down+-+the+Soul+Hooligan+remix",
       "nowPlaying": false
     }
   ]
