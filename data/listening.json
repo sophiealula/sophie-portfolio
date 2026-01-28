@@ -1,94 +1,94 @@
 {
-  "updated": "2026-01-27T18:33:35.660Z",
+  "updated": "2026-01-28T01:24:38.715Z",
   "tracks": [
     {
-      "title": "Genshi",
-      "artist": "Susumu Yokota",
-      "album": "Sakura",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
-      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
-      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
-      "nowPlaying": true
-    },
-    {
-      "title": "Go",
-      "artist": "Moby",
-      "album": "Moby",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9c444e5c1c5c9b3cfa34c9367b227c4c.jpg",
-      "url": "https://open.spotify.com/search/Moby%20Go",
-      "lastfmUrl": "https://www.last.fm/music/Moby/_/Go",
+      "title": "Johnny and Mary",
+      "artist": "Robert Palmer",
+      "album": "Clues (Expanded Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c38f20df2a57679c4df75d51b601022e.jpg",
+      "url": "https://open.spotify.com/search/Robert%20Palmer%20Johnny%20and%20Mary",
+      "lastfmUrl": "https://www.last.fm/music/Robert+Palmer/_/Johnny+and+Mary",
       "nowPlaying": false
     },
     {
-      "title": "So Many Times",
-      "artist": "Gadjo",
-      "album": "We Love House - The Anthems",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1eb485681aedd5861792b2085de81c4b.jpg",
-      "url": "https://open.spotify.com/search/Gadjo%20So%20Many%20Times",
-      "lastfmUrl": "https://www.last.fm/music/Gadjo/_/So+Many+Times",
+      "title": "Final Credits - Radio Edit",
+      "artist": "Midland",
+      "album": "Final Credits",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be941561c34055089ac0011a2322dd48.jpg",
+      "url": "https://open.spotify.com/search/Midland%20Final%20Credits%20-%20Radio%20Edit",
+      "lastfmUrl": "https://www.last.fm/music/Midland/_/Final+Credits+-+Radio+Edit",
       "nowPlaying": false
     },
     {
-      "title": "Shotguns",
+      "title": "Ghetto West Coast",
+      "artist": "Hermeth",
+      "album": "Viral Syndicate Vol. 6",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f69efbe61d4609cf62c32d91e90bc54c.jpg",
+      "url": "https://open.spotify.com/search/Hermeth%20Ghetto%20West%20Coast",
+      "lastfmUrl": "https://www.last.fm/music/Hermeth/_/Ghetto+West+Coast",
+      "nowPlaying": false
+    },
+    {
+      "title": "I'll Believe in Anything",
+      "artist": "Wolf Parade",
+      "album": "Apologies to the Queen Mary",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f5d8d15658744ff0cf773f7adad2f437.png",
+      "url": "https://open.spotify.com/search/Wolf%20Parade%20I'll%20Believe%20in%20Anything",
+      "lastfmUrl": "https://www.last.fm/music/Wolf+Parade/_/I%27ll+Believe+in+Anything",
+      "nowPlaying": false
+    },
+    {
+      "title": "Utrus Horas",
+      "artist": "Orchestra Baobab",
+      "album": "Pirates Choice",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/abc24d3284dbbbf5b20efc0757289be7.jpg",
+      "url": "https://open.spotify.com/search/Orchestra%20Baobab%20Utrus%20Horas",
+      "lastfmUrl": "https://www.last.fm/music/Orchestra+Baobab/_/Utrus+Horas",
+      "nowPlaying": false
+    },
+    {
+      "title": "Beuk My Stride",
+      "artist": "Arenci",
+      "album": "Beuk My Stride",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b096494a6daf1ca2cdcbb1101565f00c.jpg",
+      "url": "https://open.spotify.com/search/Arenci%20Beuk%20My%20Stride",
+      "lastfmUrl": "https://www.last.fm/music/Arenci/_/Beuk+My+Stride",
+      "nowPlaying": false
+    },
+    {
+      "title": "Marechià",
+      "artist": "Nu Genea",
+      "album": "Bar Mediterraneo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
+      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
+      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cariño",
+      "artist": "The Marías",
+      "album": "Superclean, Vol. II",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ec497e801200146c55c6afe5d677519.jpg",
+      "url": "https://open.spotify.com/search/The%20Mar%C3%ADas%20Cari%C3%B1o",
+      "lastfmUrl": "https://www.last.fm/music/The+Mar%C3%ADas/_/Cari%C3%B1o",
+      "nowPlaying": false
+    },
+    {
+      "title": "Marseille",
       "artist": "Oracle Sisters",
       "album": "Divinations",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
-      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Shotguns",
-      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Shotguns",
+      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
+      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
       "nowPlaying": false
     },
     {
-      "title": "Hearing Damage",
-      "artist": "Thom Yorke",
-      "album": "Hearing Damage",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ff022b026b41eeae271c86785a6212a5.jpg",
-      "url": "https://open.spotify.com/search/Thom%20Yorke%20Hearing%20Damage",
-      "lastfmUrl": "https://www.last.fm/music/Thom+Yorke/_/Hearing+Damage",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rosa María - Tangos",
-      "artist": "Camaron De La Isla",
-      "album": "Rosa María (Remastered 2018)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/26814b5bf369290ddd02f1f8c127c27a.jpg",
-      "url": "https://open.spotify.com/search/Camaron%20De%20La%20Isla%20Rosa%20Mar%C3%ADa%20-%20Tangos",
-      "lastfmUrl": "https://www.last.fm/music/Camaron+De+La+Isla/_/Rosa+Mar%C3%ADa+-+Tangos",
-      "nowPlaying": false
-    },
-    {
-      "title": "Bons Momentos",
-      "artist": "Serginho Meriti",
-      "album": "Bons Momentos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
-      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
-      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
-      "nowPlaying": false
-    },
-    {
-      "title": "Fools Gold - Remastered 2009",
-      "artist": "The Stone Roses",
-      "album": "The Stone Roses",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Fools%20Gold%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "Shoot You Down - Remastered 2009",
-      "artist": "The Stone Roses",
-      "album": "The Stone Roses",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Shoot%20You%20Down%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Shoot+You+Down+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rock the Casbah (Ranking Roger)",
-      "artist": "The Clash",
-      "album": "Rock The Casbah (Ranking Roger)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ae266532e5a78bc2a758811ba60a3f46.jpg",
-      "url": "https://open.spotify.com/search/The%20Clash%20Rock%20the%20Casbah%20(Ranking%20Roger)",
-      "lastfmUrl": "https://www.last.fm/music/The+Clash/_/Rock+the+Casbah+(Ranking+Roger)",
+      "title": "Little Speaker",
+      "artist": "Underworld",
+      "album": "A Hundred Days Off",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a862410006a24ea9a0e56f86ff8cb917.png",
+      "url": "https://open.spotify.com/search/Underworld%20Little%20Speaker",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Little+Speaker",
       "nowPlaying": false
     }
   ]
