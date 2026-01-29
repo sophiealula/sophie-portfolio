@@ -1,13 +1,31 @@
 {
-  "updated": "2026-01-28T18:32:32.926Z",
+  "updated": "2026-01-29T01:45:37.177Z",
   "tracks": [
     {
-      "title": "Cherry Pop",
-      "artist": "JMSN",
-      "album": "Soft Spot",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/30c35d2aad18183813f53e61cff2f1bd.jpg",
-      "url": "https://open.spotify.com/search/JMSN%20Cherry%20Pop",
-      "lastfmUrl": "https://www.last.fm/music/JMSN/_/Cherry+Pop",
+      "title": "Go",
+      "artist": "Moby",
+      "album": "Moby",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9c444e5c1c5c9b3cfa34c9367b227c4c.jpg",
+      "url": "https://open.spotify.com/search/Moby%20Go",
+      "lastfmUrl": "https://www.last.fm/music/Moby/_/Go",
+      "nowPlaying": false
+    },
+    {
+      "title": "So Many Times",
+      "artist": "Gadjo",
+      "album": "We Love House - The Anthems",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1eb485681aedd5861792b2085de81c4b.jpg",
+      "url": "https://open.spotify.com/search/Gadjo%20So%20Many%20Times",
+      "lastfmUrl": "https://www.last.fm/music/Gadjo/_/So+Many+Times",
+      "nowPlaying": false
+    },
+    {
+      "title": "Beautiful",
+      "artist": "Ferry Corsten",
+      "album": "L.E.F.",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be273e23fd3a46d2a85741f0ac0d0120.png",
+      "url": "https://open.spotify.com/search/Ferry%20Corsten%20Beautiful",
+      "lastfmUrl": "https://www.last.fm/music/Ferry+Corsten/_/Beautiful",
       "nowPlaying": false
     },
     {
@@ -20,30 +38,48 @@
       "nowPlaying": false
     },
     {
-      "title": "shoot you down - the Soul Hooligan remix",
-      "artist": "The Stone Roses",
-      "album": "The Remixes",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dd1787ee9715ffb51c993bd0d169841.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20shoot%20you%20down%20-%20the%20Soul%20Hooligan%20remix",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/shoot+you+down+-+the+Soul+Hooligan+remix",
+      "title": "Gabriel - Live Garage Mix",
+      "artist": "Roy Davis Jr.",
+      "album": "Gabriel",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5fa99f2c0bcc474ac79ff542ce7205e1.jpg",
+      "url": "https://open.spotify.com/search/Roy%20Davis%20Jr.%20Gabriel%20-%20Live%20Garage%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Roy+Davis+Jr./_/Gabriel+-+Live+Garage+Mix",
       "nowPlaying": false
     },
     {
-      "title": "Rip It Up",
-      "artist": "Orange Juice",
-      "album": "Rip It Up",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/380d0273124e0d96cb47a288bb1c1fd8.jpg",
-      "url": "https://open.spotify.com/search/Orange%20Juice%20Rip%20It%20Up",
-      "lastfmUrl": "https://www.last.fm/music/Orange+Juice/_/Rip+It+Up",
+      "title": "Je Suis Music - Armand Van Helden Remix Edit",
+      "artist": "Cerrone",
+      "album": "Discoset 1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/160c9499cbf11d98a996f73279c41f72.jpg",
+      "url": "https://open.spotify.com/search/Cerrone%20Je%20Suis%20Music%20-%20Armand%20Van%20Helden%20Remix%20Edit",
+      "lastfmUrl": "https://www.last.fm/music/Cerrone/_/Je+Suis+Music+-+Armand+Van+Helden+Remix+Edit",
       "nowPlaying": false
     },
     {
-      "title": "Rock the Casbah (Ranking Roger)",
-      "artist": "The Clash",
-      "album": "Rock The Casbah (Ranking Roger)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ae266532e5a78bc2a758811ba60a3f46.jpg",
-      "url": "https://open.spotify.com/search/The%20Clash%20Rock%20the%20Casbah%20(Ranking%20Roger)",
-      "lastfmUrl": "https://www.last.fm/music/The+Clash/_/Rock+the+Casbah+(Ranking+Roger)",
+      "title": "Believe",
+      "artist": "The Chemical Brothers",
+      "album": "Push the Button",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/907fc52b8f10483b98b3ea73151fb532.png",
+      "url": "https://open.spotify.com/search/The%20Chemical%20Brothers%20Believe",
+      "lastfmUrl": "https://www.last.fm/music/The+Chemical+Brothers/_/Believe",
+      "nowPlaying": false
+    },
+    {
+      "title": "Intro",
+      "artist": "The Chemical Brothers",
+      "album": "For That Beautiful Feeling",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/eea3f8089f7ff7fe7b9c61cc46ff3204.jpg",
+      "url": "https://open.spotify.com/search/The%20Chemical%20Brothers%20Intro",
+      "lastfmUrl": "https://www.last.fm/music/The+Chemical+Brothers/_/Intro",
+      "nowPlaying": false
+    },
+    {
+      "title": "Live Again (feat. Halo Maud)",
+      "artist": "The Chemical Brothers",
+      "album": "For That Beautiful Feeling",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/eea3f8089f7ff7fe7b9c61cc46ff3204.jpg",
+      "url": "https://open.spotify.com/search/The%20Chemical%20Brothers%20Live%20Again%20(feat.%20Halo%20Maud)",
+      "lastfmUrl": "https://www.last.fm/music/The+Chemical+Brothers/_/Live+Again+(feat.+Halo+Maud)",
       "nowPlaying": false
     }
   ]
