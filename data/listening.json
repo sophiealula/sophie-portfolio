@@ -1,6 +1,51 @@
 {
-  "updated": "2026-01-31T12:39:00.449Z",
+  "updated": "2026-01-31T18:26:41.035Z",
   "tracks": [
+    {
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "album": "Dutty Rock (20th Anniversary)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6475b73efe8056b83bda46948bb6a694.png",
+      "url": "https://open.spotify.com/search/Sean%20Paul%20Get%20Busy",
+      "lastfmUrl": "https://www.last.fm/music/Sean+Paul/_/Get+Busy",
+      "nowPlaying": false
+    },
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantar das Kandakinhas",
+      "artist": "Pedro Ricardo",
+      "album": "Soprem Bons Ventos",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
+      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
+      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
+      "nowPlaying": false
+    },
+    {
+      "title": "My Barn My Rules",
+      "artist": "MCR-T",
+      "album": "My Barn My Rules",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c1f83c4444afd61472464fa7ed2efddc.jpg",
+      "url": "https://open.spotify.com/search/MCR-T%20My%20Barn%20My%20Rules",
+      "lastfmUrl": "https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules",
+      "nowPlaying": false
+    },
+    {
+      "title": "Chintamani",
+      "artist": "Céline Dessberg",
+      "album": "Chintamani",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
+      "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
+      "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
+      "nowPlaying": false
+    },
     {
       "title": "1991",
       "artist": "Azealia Banks",
@@ -44,51 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
       "url": "https://open.spotify.com/search/Charli%20xcx%20365",
       "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/365",
-      "nowPlaying": false
-    },
-    {
-      "title": "Everything is romantic",
-      "artist": "Charli xcx",
-      "album": "BRAT",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
-      "url": "https://open.spotify.com/search/Charli%20xcx%20Everything%20is%20romantic",
-      "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/Everything+is+romantic",
-      "nowPlaying": false
-    },
-    {
-      "title": "Get Busy",
-      "artist": "Sean Paul",
-      "album": "Dutty Rock (20th Anniversary)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6475b73efe8056b83bda46948bb6a694.png",
-      "url": "https://open.spotify.com/search/Sean%20Paul%20Get%20Busy",
-      "lastfmUrl": "https://www.last.fm/music/Sean+Paul/_/Get+Busy",
-      "nowPlaying": false
-    },
-    {
-      "title": "Fools Gold - Remastered 2009",
-      "artist": "The Stone Roses",
-      "album": "The Stone Roses",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Fools%20Gold%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "Bons Momentos",
-      "artist": "Serginho Meriti",
-      "album": "Bons Momentos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
-      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
-      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
-      "nowPlaying": false
-    },
-    {
-      "title": "shoot you down - the Soul Hooligan remix",
-      "artist": "The Stone Roses",
-      "album": "The Remixes",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dd1787ee9715ffb51c993bd0d169841.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20shoot%20you%20down%20-%20the%20Soul%20Hooligan%20remix",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/shoot+you+down+-+the+Soul+Hooligan+remix",
       "nowPlaying": false
     }
   ]
