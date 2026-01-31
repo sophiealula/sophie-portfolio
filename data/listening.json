@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-30T18:36:32.043Z",
+  "updated": "2026-01-31T01:42:00.016Z",
   "tracks": [
+    {
+      "title": "Everything is romantic",
+      "artist": "Charli xcx",
+      "album": "BRAT",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
+      "url": "https://open.spotify.com/search/Charli%20xcx%20Everything%20is%20romantic",
+      "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/Everything+is+romantic",
+      "nowPlaying": false
+    },
+    {
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "album": "Dutty Rock (20th Anniversary)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6475b73efe8056b83bda46948bb6a694.png",
+      "url": "https://open.spotify.com/search/Sean%20Paul%20Get%20Busy",
+      "lastfmUrl": "https://www.last.fm/music/Sean+Paul/_/Get+Busy",
+      "nowPlaying": false
+    },
     {
       "title": "Fools Gold - Remastered 2009",
       "artist": "The Stone Roses",
@@ -47,15 +65,6 @@
       "nowPlaying": false
     },
     {
-      "title": "Get Busy",
-      "artist": "Sean Paul",
-      "album": "Dutty Rock (20th Anniversary)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6475b73efe8056b83bda46948bb6a694.png",
-      "url": "https://open.spotify.com/search/Sean%20Paul%20Get%20Busy",
-      "lastfmUrl": "https://www.last.fm/music/Sean+Paul/_/Get+Busy",
-      "nowPlaying": false
-    },
-    {
       "title": "De camino a la vereda",
       "artist": "Buena Vista Social Club",
       "album": "Buena Vista Social Club",
@@ -71,24 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7cca22966906be978ef06b1db481bd87.jpg",
       "url": "https://open.spotify.com/search/Buena%20Vista%20Social%20Club%20Chan%20Chan",
       "lastfmUrl": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
-      "nowPlaying": false
-    },
-    {
-      "title": "Lucinda",
-      "artist": "A Certain Ratio",
-      "album": "Sextet",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d5a1001dfb2e30dce74bc2914b0afdda.jpg",
-      "url": "https://open.spotify.com/search/A%20Certain%20Ratio%20Lucinda",
-      "lastfmUrl": "https://www.last.fm/music/A+Certain+Ratio/_/Lucinda",
-      "nowPlaying": false
-    },
-    {
-      "title": "Making Plans for Nigel",
-      "artist": "XTC",
-      "album": "Drums and Wires",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cd53c193ea660e5f4bc11ea5093d99c8.jpg",
-      "url": "https://open.spotify.com/search/XTC%20Making%20Plans%20for%20Nigel",
-      "lastfmUrl": "https://www.last.fm/music/XTC/_/Making+Plans+for+Nigel",
       "nowPlaying": false
     }
   ]
