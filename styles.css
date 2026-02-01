@@ -822,7 +822,7 @@ section {
 
 .page-header .tagline {
   margin-top: var(--space-sm);
-  margin-bottom: var(--space-md);
+  margin-bottom: 0.875rem;
 }
 
 .last-updated {
@@ -1154,11 +1154,13 @@ a.item-title:hover {
 
 .contact-header {
   text-align: center;
-  padding-bottom: var(--space-sm);
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .contact-header .tagline {
   margin-top: var(--space-xs);
+  margin-bottom: 1.25rem;
 }
 
 .terminal-contact {
