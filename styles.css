@@ -225,6 +225,61 @@ section {
   text-decoration: underline;
 }
 
+.hero-content .intro-line {
+  font-size: 1.25rem;
+  color: var(--text);
+  margin-bottom: var(--space-sm);
+}
+
+/* ===========================================
+   About Section (expanded bio)
+   =========================================== */
+
+.about-section {
+  max-width: 650px;
+  padding-bottom: var(--space-lg);
+}
+
+.about-section p {
+  color: var(--text-muted);
+  line-height: 1.8;
+  margin-bottom: var(--space-md);
+  font-size: 1.1rem;
+}
+
+.about-section p:last-child {
+  margin-bottom: 0;
+}
+
+.about-section strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.about-section a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.about-section a:hover {
+  text-decoration: underline;
+}
+
+.about-section .social-links {
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border);
+}
+
+.about-section .social-links a {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.about-section .social-links a:hover {
+  color: var(--accent);
+}
+
 @media (max-width: 768px) {
   .hero-intro {
     flex-direction: column;
@@ -767,7 +822,7 @@ section {
 
 .page-header .tagline {
   margin-top: var(--space-sm);
-  margin-bottom: 3.5rem;
+  margin-bottom: var(--space-md);
 }
 
 .last-updated {
@@ -775,6 +830,15 @@ section {
   color: var(--text-muted);
   margin-top: var(--space-xs);
   opacity: 0.7;
+}
+
+.page-last-updated {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  opacity: 0.6;
+  margin-top: var(--space-lg);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border);
 }
 
 /* ===========================================
@@ -806,7 +870,7 @@ section {
    =========================================== */
 
 .media-section {
-  margin-top: var(--space-lg);
+  margin-top: var(--space-sm);
 }
 
 .section-intro {
@@ -995,6 +1059,48 @@ a.item-title:hover {
 }
 
 .links-list a:hover {
+  color: var(--accent);
+}
+
+/* Bookmark List (Harper-style) */
+.bookmark-list {
+  list-style: none;
+  padding: 0;
+  margin-top: var(--space-md);
+}
+
+.bookmark-item {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-sm);
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.bookmark-item:last-child {
+  border-bottom: none;
+}
+
+.bookmark-date {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  flex-shrink: 0;
+  width: 60px;
+}
+
+.bookmark-emoji {
+  flex-shrink: 0;
+}
+
+.bookmark-item a {
+  text-decoration: none;
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+
+.bookmark-item a:hover {
   color: var(--accent);
 }
 

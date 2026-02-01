@@ -16,8 +16,6 @@
   <!-- Pill Navigation -->
   <nav class="pill-nav">
     <a href="index.html" class="nav-item">About</a>
-    <a href="writing.html" class="nav-item">Writing</a>
-    <a href="work.html" class="nav-item">Work</a>
     <a href="now.html" class="nav-item active live">Now</a>
     <a href="contact.html" class="nav-item">Contact</a>
   </nav>
@@ -27,7 +25,6 @@
     <section class="page-header">
       <h1>Current <em>focus</em></h1>
       <p class="tagline">What I'm reading, listening to, and bookmarking.</p>
-      <p class="last-updated" id="last-updated"></p>
     </section>
 
     <!-- Reading -->
@@ -46,18 +43,16 @@
       </div>
     </section>
 
-    <!-- Links -->
+    <!-- Bookmarks -->
     <section class="media-section">
-      <h2>Links I <em>like</em></h2>
-      <ul class="links-list" id="links-list">
-        <li><a href="#">Placeholder link</a></li>
+      <h2>What I'm <em>bookmarking</em></h2>
+      <ul class="bookmark-list" id="bookmark-list">
+        <li class="bookmark-item loading">Loading...</li>
       </ul>
     </section>
-  </main>
 
-  <footer>
-    <p>Built with intention</p>
-  </footer>
+    <p class="page-last-updated" id="last-updated"></p>
+  </main>
 
   <script>
     // Load reading list from JSON
@@ -69,10 +64,10 @@
 
         if (data.books && data.books.length > 0) {
           grid.innerHTML = data.books.map(book => {
-            // Create Amazon search URL for the book
-            const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(book.title + ' ' + book.author)}`;
+            // Use actual Goodreads link from data
+            const bookUrl = book.link || `https://www.goodreads.com/search?q=${encodeURIComponent(book.title + ' ' + book.author)}`;
             return `
-              <a href="${amazonUrl}" target="_blank" rel="noopener" class="media-card">
+              <a href="${bookUrl}" target="_blank" rel="noopener" class="media-card">
                 <div class="media-cover" style="background-image: url('${book.image}')"></div>
                 <div class="media-info">
                   <span class="media-title">${book.title}</span>
@@ -140,8 +135,32 @@
       }
     }
 
+    // Load bookmarks from JSON
+    async function loadBookmarks() {
+      try {
+        const res = await fetch('data/bookmarks.json');
+        const data = await res.json();
+        const list = document.getElementById('bookmark-list');
+
+        if (data.bookmarks && data.bookmarks.length > 0) {
+          list.innerHTML = data.bookmarks.map(bookmark => `
+            <li class="bookmark-item">
+              <span class="bookmark-date">${bookmark.dateFormatted}</span>
+              <span class="bookmark-emoji">${bookmark.emoji || '🔗'}</span>
+              <a href="${bookmark.url}" target="_blank" rel="noopener">${bookmark.title}</a>
+            </li>
+          `).join('');
+        } else {
+          list.innerHTML = '<li class="bookmark-item"><span class="empty-state">Nothing yet</span></li>';
+        }
+      } catch (e) {
+        console.error('Failed to load bookmarks:', e);
+      }
+    }
+
     loadReading();
     loadListening();
+    loadBookmarks();
     showLastUpdated();
   </script>
 </body>

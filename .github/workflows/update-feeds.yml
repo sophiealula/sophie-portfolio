@@ -29,6 +29,12 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: node scripts/fetch-listening.js
 
+      - name: Fetch bookmarks from Slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        run: node scripts/fetch-bookmarks.js
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
