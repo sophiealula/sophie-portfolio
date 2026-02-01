@@ -1,103 +1,94 @@
 {
-  "updated": "2026-02-01T06:43:29.128Z",
+  "updated": "2026-02-01T12:40:59.315Z",
   "tracks": [
     {
-      "title": "Roi",
-      "artist": "Videoclub",
-      "album": "Euphories",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ad70615ffd6eca4acf950271b0b5f11.jpg",
-      "url": "https://open.spotify.com/search/Videoclub%20Roi",
-      "lastfmUrl": "https://www.last.fm/music/Videoclub/_/Roi",
-      "nowPlaying": true
-    },
-    {
-      "title": "En nuit",
-      "artist": "Videoclub",
-      "album": "Euphories",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ad70615ffd6eca4acf950271b0b5f11.jpg",
-      "url": "https://open.spotify.com/search/Videoclub%20En%20nuit",
-      "lastfmUrl": "https://www.last.fm/music/Videoclub/_/En+nuit",
+      "title": "She's So",
+      "artist": "Röyksopp",
+      "album": "Melody A.M.",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b31a471c37ec8aadc79d435cf9cbe39.png",
+      "url": "https://open.spotify.com/search/R%C3%B6yksopp%20She's%20So",
+      "lastfmUrl": "https://www.last.fm/music/R%C3%B6yksopp/_/She%27s+So",
       "nowPlaying": false
     },
     {
-      "title": "I'll Believe in Anything",
-      "artist": "Wolf Parade",
-      "album": "Apologies to the Queen Mary",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f5d8d15658744ff0cf773f7adad2f437.png",
-      "url": "https://open.spotify.com/search/Wolf%20Parade%20I'll%20Believe%20in%20Anything",
-      "lastfmUrl": "https://www.last.fm/music/Wolf+Parade/_/I%27ll+Believe+in+Anything",
+      "title": "40 Years Back Come",
+      "artist": "Röyksopp",
+      "album": "Melody A.M.",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b31a471c37ec8aadc79d435cf9cbe39.png",
+      "url": "https://open.spotify.com/search/R%C3%B6yksopp%2040%20Years%20Back%20Come",
+      "lastfmUrl": "https://www.last.fm/music/R%C3%B6yksopp/_/40+Years+Back+Come",
       "nowPlaying": false
     },
     {
-      "title": "8 Ball",
+      "title": "Camino Del Sol (Todd Terje Remix)",
+      "artist": "Antena",
+      "album": "Versions Speciales - Camino Del Sol",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5f6923666d7adbaba356d0e6d3e1469a.jpg",
+      "url": "https://open.spotify.com/search/Antena%20Camino%20Del%20Sol%20(Todd%20Terje%20Remix)",
+      "lastfmUrl": "https://www.last.fm/music/Antena/_/Camino+Del+Sol+(Todd+Terje+Remix)",
+      "nowPlaying": false
+    },
+    {
+      "title": "In the Waiting Line",
+      "artist": "Zero 7",
+      "album": "Simple Things",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ef82e012c04802d6870cb2d4d6118071.jpg",
+      "url": "https://open.spotify.com/search/Zero%207%20In%20the%20Waiting%20Line",
+      "lastfmUrl": "https://www.last.fm/music/Zero+7/_/In+the+Waiting+Line",
+      "nowPlaying": false
+    },
+    {
+      "title": "American Dream",
+      "artist": "Dave Lee",
+      "album": "Visions",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4fe334ca12c15a4ce2047e1cad354fa1.jpg",
+      "url": "https://open.spotify.com/search/Dave%20Lee%20American%20Dream",
+      "lastfmUrl": "https://www.last.fm/music/Dave+Lee/_/American+Dream",
+      "nowPlaying": false
+    },
+    {
+      "title": "A Final Hit",
+      "artist": "Leftfield",
+      "album": "A Final Hit - The Best Of Leftfield",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bb9616bb25d4e8b8ef2ec500356e296.jpg",
+      "url": "https://open.spotify.com/search/Leftfield%20A%20Final%20Hit",
+      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/A+Final+Hit",
+      "nowPlaying": false
+    },
+    {
+      "title": "Belfast",
+      "artist": "Orbital",
+      "album": "Orbital",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4ce91b709c6e935e5a018a2e2ff20680.jpg",
+      "url": "https://open.spotify.com/search/Orbital%20Belfast",
+      "lastfmUrl": "https://www.last.fm/music/Orbital/_/Belfast",
+      "nowPlaying": false
+    },
+    {
+      "title": "Moon in Water",
       "artist": "Underworld",
-      "album": "1992 - 2012",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3ef18635cfc1354fc2d7760005fb119f.jpg",
-      "url": "https://open.spotify.com/search/Underworld%208%20Ball",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/8+Ball",
+      "album": "Barking",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/152aa27fbc342bff7485684425129ff5.jpg",
+      "url": "https://open.spotify.com/search/Underworld%20Moon%20in%20Water",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Moon+in+Water",
       "nowPlaying": false
     },
     {
-      "title": "Utrus Horas",
-      "artist": "Orchestra Baobab",
-      "album": "Pirates Choice",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/abc24d3284dbbbf5b20efc0757289be7.jpg",
-      "url": "https://open.spotify.com/search/Orchestra%20Baobab%20Utrus%20Horas",
-      "lastfmUrl": "https://www.last.fm/music/Orchestra+Baobab/_/Utrus+Horas",
+      "title": "Fever",
+      "artist": "Balthazar",
+      "album": "Fever",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/df2e321b700d19caccd9f452d6dd515d.jpg",
+      "url": "https://open.spotify.com/search/Balthazar%20Fever",
+      "lastfmUrl": "https://www.last.fm/music/Balthazar/_/Fever",
       "nowPlaying": false
     },
     {
-      "title": "Marechià",
-      "artist": "Nu Genea",
-      "album": "Bar Mediterraneo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
-      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
-      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cariño",
-      "artist": "The Marías",
-      "album": "Superclean, Vol. II",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ec497e801200146c55c6afe5d677519.jpg",
-      "url": "https://open.spotify.com/search/The%20Mar%C3%ADas%20Cari%C3%B1o",
-      "lastfmUrl": "https://www.last.fm/music/The+Mar%C3%ADas/_/Cari%C3%B1o",
-      "nowPlaying": false
-    },
-    {
-      "title": "Marseille",
-      "artist": "Oracle Sisters",
-      "album": "Divinations",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
-      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
-      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
-      "nowPlaying": false
-    },
-    {
-      "title": "Leave Your Life - Lonely Hearts Mix",
-      "artist": "Alex Kassian",
-      "album": "Leave Your Life",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52c0c6347df56f87505e9bfdc1127d4.jpg",
-      "url": "https://open.spotify.com/search/Alex%20Kassian%20Leave%20Your%20Life%20-%20Lonely%20Hearts%20Mix",
-      "lastfmUrl": "https://www.last.fm/music/Alex+Kassian/_/Leave+Your+Life+-+Lonely+Hearts+Mix",
-      "nowPlaying": false
-    },
-    {
-      "title": "River Of Bass - Remastered",
+      "title": "Gene Pool",
       "artist": "Underworld",
-      "album": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20River%20Of%20Bass%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/River+Of+Bass+-+Remastered",
-      "nowPlaying": false
-    },
-    {
-      "title": "Genshi",
-      "artist": "Susumu Yokota",
-      "album": "Sakura",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
-      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
-      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
+      "album": "Strawberry Hotel",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4633dc9f27ee6cbc7e266b4d5052f9be.png",
+      "url": "https://open.spotify.com/search/Underworld%20Gene%20Pool",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Gene+Pool",
       "nowPlaying": false
     }
   ]
