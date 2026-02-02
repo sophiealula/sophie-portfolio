@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-02T06:58:18.176Z",
+  "updated": "2026-02-02T12:52:23.054Z",
   "tracks": [
+    {
+      "title": "Lovelovelove",
+      "artist": "Flea",
+      "album": "Helen Burns",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/494ea57b840040eeaee3d492798b9798.jpg",
+      "url": "https://open.spotify.com/search/Flea%20Lovelovelove",
+      "lastfmUrl": "https://www.last.fm/music/Flea/_/Lovelovelove",
+      "nowPlaying": false
+    },
+    {
+      "title": "River Of Bass - Remastered",
+      "artist": "Underworld",
+      "album": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg",
+      "url": "https://open.spotify.com/search/Underworld%20River%20Of%20Bass%20-%20Remastered",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/River+Of+Bass+-+Remastered",
+      "nowPlaying": false
+    },
     {
       "title": "Genshi",
       "artist": "Susumu Yokota",
@@ -53,24 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
       "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
       "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
-      "nowPlaying": false
-    },
-    {
-      "title": "Danse Cette Zik",
-      "artist": "Parbleu",
-      "album": "Danse Cette Zik",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/27bf53f5c926ce5fa526a9dd4ecb6a92.jpg",
-      "url": "https://open.spotify.com/search/Parbleu%20Danse%20Cette%20Zik",
-      "lastfmUrl": "https://www.last.fm/music/Parbleu/_/Danse+Cette+Zik",
-      "nowPlaying": false
-    },
-    {
-      "title": "Je Vulesse",
-      "artist": "Nu Genea",
-      "album": "Nuova Napoli",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d5f735e04a49a83970ecee970f9dc9c.jpg",
-      "url": "https://open.spotify.com/search/Nu%20Genea%20Je%20Vulesse",
-      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Je+Vulesse",
       "nowPlaying": false
     }
   ]
