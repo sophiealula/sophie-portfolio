@@ -6,9 +6,7 @@
   <title>Now - Sophie Davis</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@300,400,500&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -17,151 +15,56 @@
   <nav class="pill-nav">
     <a href="index.html" class="nav-item">About</a>
     <a href="now.html" class="nav-item active live">Now</a>
+    <a href="media.html" class="nav-item">Media</a>
     <a href="contact.html" class="nav-item">Contact</a>
   </nav>
 
   <main>
     <!-- Page Header -->
-    <section class="page-header">
-      <h1>Current <em>focus</em></h1>
-      <p class="tagline">What I'm reading, listening to, and bookmarking.</p>
+    <section class="page-header now-header">
+      <p class="now-intro">This page is a simple view of what I'm up to right now. Inspired by <a href="https://harper.blog/now/" target="_blank" rel="noopener">Harper</a>, who was inspired by <a href="https://nownownow.com" target="_blank" rel="noopener">nownownow.com</a>, and so on.</p>
+      <h1 class="now-date" id="last-updated"></h1>
     </section>
 
-    <!-- Reading -->
-    <section class="media-section">
-      <h2>What I'm <em>reading</em></h2>
-      <div class="media-grid" id="reading-list">
-        <div class="media-card loading"><div class="media-cover"></div></div>
-      </div>
+    <!-- Microblog Posts -->
+    <section class="now-content" id="microblog-posts">
+      <div class="now-section loading">Loading...</div>
     </section>
-
-    <!-- Listening -->
-    <section class="media-section">
-      <h2>What I'm <em>listening to</em></h2>
-      <div class="media-grid" id="listening-list">
-        <div class="media-card loading"><div class="media-cover"></div></div>
-      </div>
-    </section>
-
-    <!-- Bookmarks -->
-    <section class="media-section">
-      <h2>What I'm <em>bookmarking</em></h2>
-      <ul class="bookmark-list" id="bookmark-list">
-        <li class="bookmark-item loading">Loading...</li>
-      </ul>
-    </section>
-
-    <p class="page-last-updated" id="last-updated"></p>
   </main>
 
   <script>
-    // Load reading list from JSON
-    async function loadReading() {
+    async function loadMicroblog() {
       try {
-        const res = await fetch('data/reading.json');
+        const res = await fetch('data/microblog.json');
         const data = await res.json();
-        const grid = document.getElementById('reading-list');
+        const container = document.getElementById('microblog-posts');
+        const lastUpdated = document.getElementById('last-updated');
 
-        if (data.books && data.books.length > 0) {
-          grid.innerHTML = data.books.map(book => {
-            // Use actual Goodreads link from data
-            const bookUrl = book.link || `https://www.goodreads.com/search?q=${encodeURIComponent(book.title + ' ' + book.author)}`;
-            return `
-              <a href="${bookUrl}" target="_blank" rel="noopener" class="media-card">
-                <div class="media-cover" style="background-image: url('${book.image}')"></div>
-                <div class="media-info">
-                  <span class="media-title">${book.title}</span>
-                  <span class="media-artist">${book.author}</span>
-                </div>
-              </a>
-            `;
-          }).join('');
-        } else {
-          grid.innerHTML = '<p class="empty-state">Nothing currently</p>';
-        }
-      } catch (e) {
-        console.error('Failed to load reading list:', e);
-      }
-    }
+        if (data.posts && data.posts.length > 0) {
+          // Show last updated date
+          const latestDate = new Date(data.posts[0].date);
+          lastUpdated.textContent = `Now @ ${latestDate.toLocaleDateString('en-US', {
+            month: 'long',
+            day: 'numeric',
+            year: 'numeric'
+          })}`;
 
-    // Load listening list from JSON
-    async function loadListening() {
-      try {
-        const res = await fetch('data/listening.json');
-        const data = await res.json();
-        const grid = document.getElementById('listening-list');
-
-        if (data.tracks && data.tracks.length > 0) {
-          grid.innerHTML = data.tracks.map(track => `
-            <a href="${track.url}" target="_blank" rel="noopener" class="media-card">
-              <div class="media-cover" style="background-image: url('${track.image}')"></div>
-              <div class="media-info">
-                <span class="media-title">${track.title}</span>
-                <span class="media-artist">${track.artist}</span>
-              </div>
-            </a>
+          // Render posts (skip title since date is in header)
+          container.innerHTML = data.posts.map(post => `
+            <article class="microblog-post">
+              <div class="post-content">${post.content}</div>
+            </article>
           `).join('');
         } else {
-          grid.innerHTML = '<p class="empty-state">Nothing recently</p>';
+          container.innerHTML = '<p class="empty-state">Nothing yet</p>';
         }
       } catch (e) {
-        console.error('Failed to load listening list:', e);
+        console.error('Failed to load microblog:', e);
+        document.getElementById('microblog-posts').innerHTML = '<p class="empty-state">Could not load posts</p>';
       }
     }
 
-    async function showLastUpdated() {
-      try {
-        const [readingRes, listeningRes] = await Promise.all([
-          fetch('data/reading.json'),
-          fetch('data/listening.json')
-        ]);
-        const reading = await readingRes.json();
-        const listening = await listeningRes.json();
-
-        const latest = new Date(Math.max(
-          new Date(reading.updated),
-          new Date(listening.updated)
-        ));
-
-        const formatted = latest.toLocaleDateString('en-US', {
-          month: 'long',
-          day: 'numeric',
-          year: 'numeric'
-        });
-
-        document.getElementById('last-updated').textContent = `Last updated ${formatted}`;
-      } catch (e) {
-        console.error('Failed to get last updated:', e);
-      }
-    }
-
-    // Load bookmarks from JSON
-    async function loadBookmarks() {
-      try {
-        const res = await fetch('data/bookmarks.json');
-        const data = await res.json();
-        const list = document.getElementById('bookmark-list');
-
-        if (data.bookmarks && data.bookmarks.length > 0) {
-          list.innerHTML = data.bookmarks.map(bookmark => `
-            <li class="bookmark-item">
-              <span class="bookmark-date">${bookmark.dateFormatted}</span>
-              <span class="bookmark-emoji">${bookmark.emoji || '🔗'}</span>
-              <a href="${bookmark.url}" target="_blank" rel="noopener">${bookmark.title}</a>
-            </li>
-          `).join('');
-        } else {
-          list.innerHTML = '<li class="bookmark-item"><span class="empty-state">Nothing yet</span></li>';
-        }
-      } catch (e) {
-        console.error('Failed to load bookmarks:', e);
-      }
-    }
-
-    loadReading();
-    loadListening();
-    loadBookmarks();
-    showLastUpdated();
+    loadMicroblog();
   </script>
 </body>
 </html>

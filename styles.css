@@ -6,17 +6,17 @@
 
 :root {
   /* Colors - warm, not corporate */
-  --bg: #fafaf9;
-  --bg-nav: #ffffff;
-  --text: #1a1a1a;
-  --text-muted: #666;
+  --bg: #F6F6F7;
+  --bg-nav: rgba(255, 255, 255, 0.95);
+  --text: #403E43;
+  --text-muted: #8E9196;
   --accent: #4a9f7e;
   --accent-light: #e8f5ef;
   --border: #e5e5e5;
 
   /* Typography */
-  --font-serif: 'Crimson Pro', Georgia, serif;
-  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-serif: 'General Sans', system-ui, sans-serif;
+  --font-sans: 'General Sans', system-ui, sans-serif;
 
   /* Spacing */
   --space-xs: 0.5rem;
@@ -26,7 +26,7 @@
   --space-xl: 6rem;
 
   /* Sizing */
-  --max-width: 900px;
+  --max-width: 860px;
   --nav-height: 60px;
 }
 
@@ -35,6 +35,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
@@ -48,6 +49,26 @@ body {
   color: var(--text);
   background: var(--bg);
   padding-top: calc(var(--nav-height) + var(--space-lg));
+}
+
+/* Home page specific layout */
+body.page-home {
+  padding-top: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body.page-home main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+body.page-home .home-hero {
+  padding: 0;
 }
 
 /* ===========================================
@@ -73,7 +94,7 @@ body {
   text-decoration: none;
   color: var(--text-muted);
   font-size: 0.95rem;
-  font-weight: 500;
+  font-weight: 400;
   border-radius: 40px;
   transition: all 0.2s ease;
 }
@@ -180,7 +201,7 @@ section {
 .hero-intro {
   display: flex;
   align-items: flex-start;
-  gap: var(--space-lg);
+  gap: 60px;
 }
 
 .hero-photo-wrapper {
@@ -188,47 +209,120 @@ section {
 }
 
 .hero-photo {
-  width: 240px;
+  width: 220px;
   height: 300px;
   object-fit: cover;
   object-position: center 20%;
-  border-radius: 10px;
+  border-radius: 6px;
   display: block;
 }
 
 .hero-content {
-  max-width: 550px;
+  max-width: 420px;
 }
 
 .hero-content h1 {
-  font-size: clamp(1.75rem, 3.5vw, 2.25rem);
-  margin-bottom: var(--space-md);
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 20px;
 }
 
 .hero-content p {
-  color: var(--text-muted);
-  line-height: 1.8;
-  margin-bottom: var(--space-sm);
-  font-size: 1.15rem;
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  color: var(--text);
+  margin-bottom: 14px;
 }
 
 .hero-content p:last-child {
   margin-bottom: 0;
 }
 
+.hero-content .current-tag {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 1rem;
+}
+
 .hero-content a {
-  color: var(--accent);
-  text-decoration: none;
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .hero-content a:hover {
-  text-decoration: underline;
+  color: var(--text-muted);
+}
+
+/* Bold company names with animated underline on hover */
+.hero-content a.company {
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+
+.hero-content a.company::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--text);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.25s ease;
+}
+
+.hero-content a.company:hover {
+  color: var(--text);
+}
+
+.hero-content a.company:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
 }
 
 .hero-content .intro-line {
   font-size: 1.25rem;
   color: var(--text);
   margin-bottom: var(--space-sm);
+}
+
+/* ===========================================
+   Site Footer
+   =========================================== */
+
+.site-footer {
+  position: fixed;
+  bottom: 32px;
+  right: 48px;
+  z-index: 50;
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+  font-size: 14px;
+}
+
+.footer-links a {
+  font-weight: 400;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: var(--text);
 }
 
 /* ===========================================
@@ -809,9 +903,11 @@ section {
 }
 
 .page-header h1 {
-  font-family: var(--font-serif);
-  font-size: 2.75rem;
-  font-weight: 600;
+  font-family: var(--font-sans);
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--text);
   margin-bottom: 0.75rem;
 }
 
@@ -841,6 +937,19 @@ section {
   border-top: 1px solid var(--border);
 }
 
+.media-header {
+  margin-bottom: var(--space-lg);
+}
+
+.media-intro {
+  font-size: 17px;
+  line-height: 27px;
+  color: var(--text);
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ===========================================
    Current Focus Section
    =========================================== */
@@ -866,11 +975,167 @@ section {
 }
 
 /* ===========================================
+   Now Page Content
+   =========================================== */
+
+.now-header {
+  margin-bottom: var(--space-lg);
+}
+
+.now-intro {
+  color: var(--text);
+  font-size: 17px;
+  line-height: 27px;
+  margin-bottom: var(--space-sm);
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.now-intro a {
+  color: var(--text);
+  font-weight: 500;
+  text-decoration: none;
+  position: relative;
+}
+
+.now-intro a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--text);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.25s ease;
+}
+
+.now-intro a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.now-date {
+  font-family: var(--font-sans);
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.now-content {
+  max-width: 680px;
+  margin-top: var(--space-sm);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.now-section {
+  margin-bottom: var(--space-lg);
+}
+
+.now-section h2 {
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: var(--space-sm);
+  color: var(--text);
+}
+
+.now-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.now-section li {
+  color: var(--text);
+  line-height: 1.7;
+  margin-bottom: 0.5rem;
+  font-size: 17px;
+}
+
+.now-section li:last-child {
+  margin-bottom: 0;
+}
+
+/* Microblog Posts */
+.microblog-post {
+  margin-bottom: var(--space-xl);
+}
+
+.microblog-post .post-content {
+  line-height: 1.7;
+}
+
+/* Section headers - the <p> tags that introduce each section */
+.microblog-post .post-content > p {
+  font-family: var(--font-sans);
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.microblog-post .post-content > p:first-child {
+  margin-top: 0;
+}
+
+/* Bullet lists */
+.microblog-post .post-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 var(--space-md) 0;
+}
+
+.microblog-post .post-content li {
+  color: var(--text);
+  padding-left: 1.25rem;
+  position: relative;
+  margin-bottom: 8px;
+  line-height: 26px;
+  font-size: 17px;
+}
+
+.microblog-post .post-content li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: var(--text-muted);
+}
+
+.microblog-post .post-content li:last-child {
+  margin-bottom: 0;
+}
+
+/* ===========================================
    Media Section (Reading & Listening)
    =========================================== */
 
 .media-section {
   margin-top: var(--space-sm);
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.media-section h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: var(--space-md);
+  color: var(--text);
+}
+
+.media-section h2 em {
+  font-style: italic;
+  font-weight: 400;
 }
 
 .section-intro {

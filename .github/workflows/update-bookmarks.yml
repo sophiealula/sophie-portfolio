@@ -1,7 +1,7 @@
 name: Update Bookmarks
 
 on:
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch: # Manual trigger only (main updates happen via update-feeds.yml)
   repository_dispatch: # Webhook trigger
     types: [update-bookmarks]
 

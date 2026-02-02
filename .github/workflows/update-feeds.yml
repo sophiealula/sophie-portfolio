@@ -1,4 +1,4 @@
-name: Update Reading & Listening
+name: Update Feeds
 
 on:
   schedule:
@@ -35,10 +35,13 @@ jobs:
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         run: node scripts/fetch-bookmarks.js
 
+      - name: Fetch microblog
+        run: node scripts/fetch-microblog.js
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --staged --quiet || git commit -m "Update reading & listening data"
+          git diff --staged --quiet || git commit -m "Update feeds"
           git push
