@@ -1,6 +1,69 @@
 {
-  "updated": "2026-02-02T01:52:42.438Z",
+  "updated": "2026-02-02T06:58:18.176Z",
   "tracks": [
+    {
+      "title": "Genshi",
+      "artist": "Susumu Yokota",
+      "album": "Sakura",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
+      "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
+      "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
+      "nowPlaying": false
+    },
+    {
+      "title": "Shotguns",
+      "artist": "Oracle Sisters",
+      "album": "Divinations",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
+      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Shotguns",
+      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Shotguns",
+      "nowPlaying": false
+    },
+    {
+      "title": "Shoot You Down - Remastered 2009",
+      "artist": "The Stone Roses",
+      "album": "The Stone Roses",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
+      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Shoot%20You%20Down%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Shoot+You+Down+-+Remastered+2009",
+      "nowPlaying": false
+    },
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantar das Kandakinhas",
+      "artist": "Pedro Ricardo",
+      "album": "Soprem Bons Ventos",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
+      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
+      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
+      "nowPlaying": false
+    },
+    {
+      "title": "Chintamani",
+      "artist": "Céline Dessberg",
+      "album": "Chintamani",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
+      "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
+      "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
+      "nowPlaying": false
+    },
+    {
+      "title": "Danse Cette Zik",
+      "artist": "Parbleu",
+      "album": "Danse Cette Zik",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/27bf53f5c926ce5fa526a9dd4ecb6a92.jpg",
+      "url": "https://open.spotify.com/search/Parbleu%20Danse%20Cette%20Zik",
+      "lastfmUrl": "https://www.last.fm/music/Parbleu/_/Danse+Cette+Zik",
+      "nowPlaying": false
+    },
     {
       "title": "Je Vulesse",
       "artist": "Nu Genea",
@@ -8,87 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/6d5f735e04a49a83970ecee970f9dc9c.jpg",
       "url": "https://open.spotify.com/search/Nu%20Genea%20Je%20Vulesse",
       "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Je+Vulesse",
-      "nowPlaying": false
-    },
-    {
-      "title": "Es Buena",
-      "artist": "Sam Ruffillo",
-      "album": "Italianissimo EP",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5a0a9337ced26bb67f9178f71600c6f3.jpg",
-      "url": "https://open.spotify.com/search/Sam%20Ruffillo%20Es%20Buena",
-      "lastfmUrl": "https://www.last.fm/music/Sam+Ruffillo/_/Es+Buena",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rocking You Internally",
-      "artist": "Demi Riquísimo",
-      "album": "Rocking You Internally",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/12929ea12661a2eaad02678c35820f5b.jpg",
-      "url": "https://open.spotify.com/search/Demi%20Riqu%C3%ADsimo%20Rocking%20You%20Internally",
-      "lastfmUrl": "https://www.last.fm/music/Demi+Riqu%C3%ADsimo/_/Rocking+You+Internally",
-      "nowPlaying": false
-    },
-    {
-      "title": "Baciami",
-      "artist": "lorenzo_bitw",
-      "album": "Baciami",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/lorenzo_bitw%20Baciami",
-      "lastfmUrl": "https://www.last.fm/music/lorenzo_bitw/_/Baciami",
-      "nowPlaying": false
-    },
-    {
-      "title": "Life is Trippy",
-      "artist": "Nyra",
-      "album": "CANOE006",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/16f0dbdf13ab926ef7034287715fff43.png",
-      "url": "https://open.spotify.com/search/Nyra%20Life%20is%20Trippy",
-      "lastfmUrl": "https://www.last.fm/music/Nyra/_/Life+is+Trippy",
-      "nowPlaying": false
-    },
-    {
-      "title": "On the Beach",
-      "artist": "DMX Krew",
-      "album": "On the Beach",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/941ef53b344eeca18d84e09cbfff0b87.jpg",
-      "url": "https://open.spotify.com/search/DMX%20Krew%20On%20the%20Beach",
-      "lastfmUrl": "https://www.last.fm/music/DMX+Krew/_/On+the+Beach",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mediterranea - Party Mix",
-      "artist": "Sam Ruffillo",
-      "album": "Kapote presents Italomania Vol. 2",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0bf6059d7daa5c52d5eed9dd0cc2ddca.jpg",
-      "url": "https://open.spotify.com/search/Sam%20Ruffillo%20Mediterranea%20-%20Party%20Mix",
-      "lastfmUrl": "https://www.last.fm/music/Sam+Ruffillo/_/Mediterranea+-+Party+Mix",
-      "nowPlaying": false
-    },
-    {
-      "title": "Have Visions",
-      "artist": "Jolly Mare",
-      "album": "Have Visions",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/12629933eb906abff50e82893f123268.jpg",
-      "url": "https://open.spotify.com/search/Jolly%20Mare%20Have%20Visions",
-      "lastfmUrl": "https://www.last.fm/music/Jolly+Mare/_/Have+Visions",
-      "nowPlaying": false
-    },
-    {
-      "title": "Come Into My Life - Radio Edit",
-      "artist": "Jürgen Paape",
-      "album": "Kompilation",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/896a477e4d8946cd8cd48336cf459cdc.png",
-      "url": "https://open.spotify.com/search/J%C3%BCrgen%20Paape%20Come%20Into%20My%20Life%20-%20Radio%20Edit",
-      "lastfmUrl": "https://www.last.fm/music/J%C3%BCrgen+Paape/_/Come+Into+My+Life+-+Radio+Edit",
-      "nowPlaying": false
-    },
-    {
-      "title": "Everybody get Down",
-      "artist": "Alphonse Mouzon",
-      "album": "Baby Come Back",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8b8594712fa14493c48903a05f3eccfa.jpg",
-      "url": "https://open.spotify.com/search/Alphonse%20Mouzon%20Everybody%20get%20Down",
-      "lastfmUrl": "https://www.last.fm/music/Alphonse+Mouzon/_/Everybody+get+Down",
       "nowPlaying": false
     }
   ]
