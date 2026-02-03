@@ -126,6 +126,10 @@ body.page-home .home-hero {
   color: var(--text);
 }
 
+.nav-item.live {
+  white-space: nowrap;
+}
+
 .nav-item.live::before {
   content: '';
   display: inline-block;
