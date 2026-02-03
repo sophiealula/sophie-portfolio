@@ -1861,7 +1861,8 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     gap: 3px;
-    padding: 5px 12px;
+    padding: 6px 16px;
+    -webkit-text-size-adjust: 100%;
   }
 
   .nav-item {
