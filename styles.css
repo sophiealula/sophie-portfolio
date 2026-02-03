@@ -1861,21 +1861,13 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     gap: 3px;
-    padding: 5px;
+    padding: 5px 12px;
   }
 
   .nav-item {
-    padding: 8px 12px;
+    padding: 8px 10px;
     font-size: 0.75rem;
     flex-shrink: 0;
-  }
-
-  .nav-item:first-child {
-    padding-left: 14px;
-  }
-
-  .nav-item:last-child {
-    padding-right: 14px;
   }
 
   .nav-item.live::before {
