@@ -71,6 +71,24 @@ body.page-home .home-hero {
   padding: 0;
 }
 
+@media (max-width: 768px) {
+  body.page-home {
+    padding-top: 0;
+  }
+
+  body.page-home main {
+    padding: 0 28px;
+    padding-top: 120px;
+    padding-bottom: 60px;
+    align-items: flex-start;
+  }
+
+  .hero-content h1 {
+    margin-bottom: 20px;
+  }
+}
+
+
 /* ===========================================
    Pill Navigation
    =========================================== */
@@ -287,6 +305,38 @@ section {
 }
 
 .hero-content a.company:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.hero-content .bio-social {
+  margin-top: 14px;
+  display: flex;
+  gap: 16px;
+  font-size: 16px;
+}
+
+.hero-content .bio-social a {
+  color: var(--text-muted);
+  font-weight: 400;
+  text-decoration: none;
+  position: relative;
+}
+
+.hero-content .bio-social a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--text-muted);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.25s ease;
+}
+
+.hero-content .bio-social a:hover::after {
   transform: scaleX(1);
   transform-origin: left;
 }
@@ -1448,9 +1498,19 @@ a.item-title:hover {
   margin-bottom: 0;
 }
 
+.contact-header h1 {
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
 .contact-header .tagline {
   margin-top: var(--space-xs);
   margin-bottom: 1.25rem;
+  font-size: 17px;
+  line-height: 27px;
+  color: var(--text);
 }
 
 .terminal-contact {
@@ -1465,7 +1525,7 @@ a.item-title:hover {
   overflow: hidden;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
   width: 100%;
-  max-width: 700px;
+  max-width: 680px;
 }
 
 .terminal-header {
@@ -1498,13 +1558,13 @@ a.item-title:hover {
 }
 
 .terminal-body {
-  padding: var(--space-lg);
+  padding: var(--space-md);
 }
 
 .terminal-form {
   display: flex;
   flex-direction: column;
-  gap: var(--space-md);
+  gap: var(--space-sm);
 }
 
 .terminal-line {
@@ -1675,48 +1735,121 @@ footer {
     padding-top: calc(var(--nav-height) + var(--space-md));
   }
 
+  main {
+    padding: 0 20px;
+  }
+
   .pill-nav {
     top: var(--space-sm);
   }
 
   .nav-item {
-    padding: 0.5rem 1rem;
-    font-size: 0.875rem;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.85rem;
   }
 
-  /* About Hero responsive */
-  .about-hero {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-
-  .about-photo {
-    margin: 0 auto;
-  }
-
-  .about-intro {
-    max-width: 100%;
-  }
-
-  /* Work blocks responsive */
-  .work-block-header {
-    grid-template-columns: 1fr auto;
-  }
-
-  .work-block-date {
+  /* About page - hide photo on mobile */
+  .hero-photo-wrapper {
     display: none;
   }
 
-
-  .work-row {
-    grid-template-columns: 1fr;
-    gap: var(--space-xs);
+  .hero-intro {
+    gap: 0;
   }
 
-  .work-date {
-    text-align: left;
+  .hero-content {
+    max-width: 100%;
   }
 
+  .hero-content h1 {
+    font-size: 28px;
+    margin-bottom: 16px;
+  }
+
+  .hero-content p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 12px;
+  }
+
+  /* Now page mobile */
+  .now-intro,
+  .now-date,
+  .now-content {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .now-header {
+    margin-bottom: var(--space-md);
+  }
+
+  .now-intro {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .now-date {
+    font-size: 28px;
+  }
+
+  .microblog-post .post-content > p {
+    font-size: 18px;
+    margin-top: 28px;
+    margin-bottom: 12px;
+  }
+
+  .microblog-post .post-content li {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 10px;
+  }
+
+  /* Media page mobile */
+  .media-intro,
+  .media-section {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .media-intro {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .media-section h2 {
+    font-size: 1.1rem;
+  }
+
+  .bookmark-item {
+    font-size: 14px;
+  }
+
+  .bookmark-item a {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .bookmark-date {
+    font-size: 12px;
+  }
+
+  /* Terminal contact - narrower */
+  .terminal-window {
+    max-width: 100%;
+  }
+
+  .terminal-body {
+    padding: var(--space-sm);
+  }
+
+  .terminal-line {
+    font-size: 0.9rem;
+  }
+
+  /* Section spacing */
   section {
     margin-bottom: var(--space-lg);
   }
@@ -1724,39 +1857,61 @@ footer {
 
 @media (max-width: 480px) {
   .pill-nav {
-    width: calc(100% - 1rem);
-    left: 0.5rem;
-    transform: none;
-    gap: 0;
-    padding: 4px;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    width: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    gap: 3px;
+    padding: 5px;
   }
 
   .nav-item {
-    padding: 0.4rem 0.6rem;
+    padding: 8px 12px;
     font-size: 0.75rem;
     flex-shrink: 0;
   }
 
+  .nav-item:first-child {
+    padding-left: 14px;
+  }
+
+  .nav-item:last-child {
+    padding-right: 14px;
+  }
+
   .nav-item.live::before {
-    display: none;
+    width: 6px;
+    height: 6px;
+    margin-right: 4px;
   }
 
   main {
-    padding: 0 var(--space-sm);
-  }
-
-  .hero-photo {
-    width: 160px;
-    height: 200px;
+    padding: 0 20px;
   }
 
   .hero-content h1 {
-    font-size: 1.5rem;
+    font-size: 24px;
   }
 
   .hero-content p {
-    font-size: 1rem;
+    line-height: 28px;
+  }
+
+  .hero-content .bio-social {
+    margin-top: 20px;
+  }
+
+  .now-date {
+    font-size: 24px;
+  }
+
+  /* Terminal even tighter */
+  .terminal-line {
+    font-size: 0.85rem;
+    gap: 6px;
+  }
+
+  .terminal-submit {
+    font-size: 0.8rem;
+    padding: 6px 12px;
   }
 }

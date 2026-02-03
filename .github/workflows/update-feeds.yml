@@ -21,7 +21,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch reading list
+      - name: Fetch reading list from Slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_READING_CHANNEL_ID: ${{ secrets.SLACK_READING_CHANNEL_ID }}
         run: node scripts/fetch-reading.js
 
       - name: Fetch listening list
