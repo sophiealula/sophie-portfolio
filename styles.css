@@ -1861,7 +1861,7 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     gap: 3px;
-    padding: 6px 16px;
+    padding: 6px 20px;
     -webkit-text-size-adjust: 100%;
   }
 
