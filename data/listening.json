@@ -1,6 +1,33 @@
 {
-  "updated": "2026-02-03T01:51:41.010Z",
+  "updated": "2026-02-03T06:44:47.195Z",
   "tracks": [
+    {
+      "title": "Cantar das Kandakinhas",
+      "artist": "Pedro Ricardo",
+      "album": "Soprem Bons Ventos",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
+      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
+      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
+      "nowPlaying": false
+    },
+    {
+      "title": "Chintamani",
+      "artist": "Céline Dessberg",
+      "album": "Chintamani",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
+      "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
+      "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
+      "nowPlaying": false
+    },
+    {
+      "title": "Utrus Horas",
+      "artist": "Orchestra Baobab",
+      "album": "Pirates Choice",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/abc24d3284dbbbf5b20efc0757289be7.jpg",
+      "url": "https://open.spotify.com/search/Orchestra%20Baobab%20Utrus%20Horas",
+      "lastfmUrl": "https://www.last.fm/music/Orchestra+Baobab/_/Utrus+Horas",
+      "nowPlaying": false
+    },
     {
       "title": "Marechià",
       "artist": "Nu Genea",
@@ -62,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
       "url": "https://open.spotify.com/search/Oracle%20Sisters%20Shotguns",
       "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Shotguns",
-      "nowPlaying": false
-    },
-    {
-      "title": "Shoot You Down - Remastered 2009",
-      "artist": "The Stone Roses",
-      "album": "The Stone Roses",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Shoot%20You%20Down%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Shoot+You+Down+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "Inept Apollo",
-      "artist": "Nation of Language",
-      "album": "Inept Apollo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
-      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
-      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cantar das Kandakinhas",
-      "artist": "Pedro Ricardo",
-      "album": "Soprem Bons Ventos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
-      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
-      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
       "nowPlaying": false
     }
   ]
