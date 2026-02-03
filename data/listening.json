@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-03T06:44:47.195Z",
+  "updated": "2026-02-03T12:52:16.040Z",
   "tracks": [
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "nowPlaying": false
+    },
     {
       "title": "Cantar das Kandakinhas",
       "artist": "Pedro Ricardo",
@@ -80,15 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/be5b9481738cc1b5cfb85ab768f4e629.jpg",
       "url": "https://open.spotify.com/search/Susumu%20Yokota%20Genshi",
       "lastfmUrl": "https://www.last.fm/music/Susumu+Yokota/_/Genshi",
-      "nowPlaying": false
-    },
-    {
-      "title": "Shotguns",
-      "artist": "Oracle Sisters",
-      "album": "Divinations",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
-      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Shotguns",
-      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Shotguns",
       "nowPlaying": false
     }
   ]
