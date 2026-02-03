@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-03T00:44:37.383Z",
+  "updated": "2026-02-03T01:51:41.010Z",
   "tracks": [
+    {
+      "title": "Marechià",
+      "artist": "Nu Genea",
+      "album": "Bar Mediterraneo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa6a9cd254b4d16aa06a71ff1da31d.png",
+      "url": "https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0",
+      "lastfmUrl": "https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cariño",
+      "artist": "The Marías",
+      "album": "Superclean, Vol. II",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7ec497e801200146c55c6afe5d677519.jpg",
+      "url": "https://open.spotify.com/search/The%20Mar%C3%ADas%20Cari%C3%B1o",
+      "lastfmUrl": "https://www.last.fm/music/The+Mar%C3%ADas/_/Cari%C3%B1o",
+      "nowPlaying": false
+    },
     {
       "title": "Marseille",
       "artist": "Oracle Sisters",
@@ -8,7 +26,7 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
       "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
       "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
-      "nowPlaying": true
+      "nowPlaying": false
     },
     {
       "title": "Leave Your Life - Lonely Hearts Mix",
@@ -71,24 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
       "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
       "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
-      "nowPlaying": false
-    },
-    {
-      "title": "Chintamani",
-      "artist": "Céline Dessberg",
-      "album": "Chintamani",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2eae0fcff28f6e3023e7d8186850a7d9.jpg",
-      "url": "https://open.spotify.com/search/C%C3%A9line%20Dessberg%20Chintamani",
-      "lastfmUrl": "https://www.last.fm/music/C%C3%A9line+Dessberg/_/Chintamani",
-      "nowPlaying": false
-    },
-    {
-      "title": "Lovelovelove",
-      "artist": "Flea",
-      "album": "Helen Burns",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/494ea57b840040eeaee3d492798b9798.jpg",
-      "url": "https://open.spotify.com/search/Flea%20Lovelovelove",
-      "lastfmUrl": "https://www.last.fm/music/Flea/_/Lovelovelove",
       "nowPlaying": false
     }
   ]
