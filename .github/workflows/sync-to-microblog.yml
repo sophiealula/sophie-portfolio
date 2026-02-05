@@ -1,0 +1,45 @@
+name: Sync to Micro.blog
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync bookmarks to micro.blog
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+        run: node scripts/sync-bookmarks-to-microblog.js
+
+      - name: Sync books to micro.blog
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_READING_CHANNEL_ID: ${{ secrets.SLACK_READING_CHANNEL_ID }}
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+          MICROBLOG_BOOKSHELF_ID: ${{ secrets.MICROBLOG_BOOKSHELF_ID }}
+        run: node scripts/sync-books-to-microblog.js
+
+      - name: Commit state files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/*-state.json
+          git diff --staged --quiet || git commit -m "Update micro.blog sync state"
+          git push
