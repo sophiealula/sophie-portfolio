@@ -96,6 +96,11 @@ async function createMicroblogBookmark(url) {
 }
 
 async function main() {
+  console.log('Starting bookmark sync...');
+  console.log('SLACK_BOT_TOKEN:', SLACK_BOT_TOKEN ? 'set' : 'MISSING');
+  console.log('SLACK_CHANNEL_ID:', SLACK_CHANNEL_ID ? 'set' : 'MISSING');
+  console.log('MICROBLOG_TOKEN:', MICROBLOG_TOKEN ? 'set' : 'MISSING');
+
   if (!SLACK_BOT_TOKEN || !SLACK_CHANNEL_ID) {
     console.error('Missing SLACK_BOT_TOKEN or SLACK_CHANNEL_ID');
     process.exit(1);
