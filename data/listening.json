@@ -1,6 +1,51 @@
 {
-  "updated": "2026-02-04T18:43:18.021Z",
+  "updated": "2026-02-05T01:47:55.572Z",
   "tracks": [
+    {
+      "title": "London Calling",
+      "artist": "The Clash",
+      "album": "London Calling (Expanded Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/530474cfe673b7a4f237ea33bae88ef9.jpg",
+      "url": "https://open.spotify.com/search/The%20Clash%20London%20Calling",
+      "lastfmUrl": "https://www.last.fm/music/The+Clash/_/London+Calling",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cherry Pop",
+      "artist": "JMSN",
+      "album": "Cherry Pop",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/JMSN%20Cherry%20Pop",
+      "lastfmUrl": "https://www.last.fm/music/JMSN/_/Cherry+Pop",
+      "nowPlaying": false
+    },
+    {
+      "title": "Lost in the Supermarket - Remastered",
+      "artist": "The Clash",
+      "album": "London Calling (Remastered)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cbb142239a9edf3469b7d55d0e63043b.jpg",
+      "url": "https://open.spotify.com/search/The%20Clash%20Lost%20in%20the%20Supermarket%20-%20Remastered",
+      "lastfmUrl": "https://www.last.fm/music/The+Clash/_/Lost+in+the+Supermarket+-+Remastered",
+      "nowPlaying": false
+    },
+    {
+      "title": "Working and Waiting",
+      "artist": "The Clash",
+      "album": "London Calling (Expanded Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/530474cfe673b7a4f237ea33bae88ef9.jpg",
+      "url": "https://open.spotify.com/search/The%20Clash%20Working%20and%20Waiting",
+      "lastfmUrl": "https://www.last.fm/music/The+Clash/_/Working+and+Waiting",
+      "nowPlaying": false
+    },
+    {
+      "title": "I Wouldn't Want to Be Like You",
+      "artist": "The Alan Parsons Project",
+      "album": "I Robot",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/12a5054d2cbe442dc4e804da2b01370a.png",
+      "url": "https://open.spotify.com/search/The%20Alan%20Parsons%20Project%20I%20Wouldn't%20Want%20to%20Be%20Like%20You",
+      "lastfmUrl": "https://www.last.fm/music/The+Alan+Parsons+Project/_/I+Wouldn%27t+Want+to+Be+Like+You",
+      "nowPlaying": false
+    },
     {
       "title": "shoot you down - the Soul Hooligan remix",
       "artist": "The Stone Roses",
@@ -44,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/434ddd24be4347f146b9726853b5c8cf.png",
       "url": "https://open.spotify.com/search/Roxy%20Music%20Love%20Is%20the%20Drug",
       "lastfmUrl": "https://www.last.fm/music/Roxy+Music/_/Love+Is+the+Drug",
-      "nowPlaying": false
-    },
-    {
-      "title": "Making Plans for Nigel",
-      "artist": "XTC",
-      "album": "Drums and Wires",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cd53c193ea660e5f4bc11ea5093d99c8.jpg",
-      "url": "https://open.spotify.com/search/XTC%20Making%20Plans%20for%20Nigel",
-      "lastfmUrl": "https://www.last.fm/music/XTC/_/Making+Plans+for+Nigel",
-      "nowPlaying": false
-    },
-    {
-      "title": "Inept Apollo",
-      "artist": "Nation of Language",
-      "album": "Inept Apollo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
-      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
-      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
-      "nowPlaying": false
-    },
-    {
-      "title": "Cantar das Kandakinhas",
-      "artist": "Pedro Ricardo",
-      "album": "Soprem Bons Ventos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e080f7dc9f87cb436e32f192a8984cf.png",
-      "url": "https://open.spotify.com/search/Pedro%20Ricardo%20Cantar%20das%20Kandakinhas",
-      "lastfmUrl": "https://www.last.fm/music/Pedro+Ricardo/_/Cantar+das+Kandakinhas",
       "nowPlaying": false
     }
   ]
