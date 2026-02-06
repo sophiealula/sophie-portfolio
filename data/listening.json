@@ -1,6 +1,42 @@
 {
-  "updated": "2026-02-05T18:42:24.523Z",
+  "updated": "2026-02-06T01:47:07.409Z",
   "tracks": [
+    {
+      "title": "Making Plans for Nigel",
+      "artist": "XTC",
+      "album": "Drums and Wires",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cd53c193ea660e5f4bc11ea5093d99c8.jpg",
+      "url": "https://open.spotify.com/search/XTC%20Making%20Plans%20for%20Nigel",
+      "lastfmUrl": "https://www.last.fm/music/XTC/_/Making+Plans+for+Nigel",
+      "nowPlaying": false
+    },
+    {
+      "title": "COME CLOSER",
+      "artist": "Tomora",
+      "album": "COME CLOSER",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/734378555a4dad22fbd9f3aa69e8ecf9.jpg",
+      "url": "https://open.spotify.com/search/Tomora%20COME%20CLOSER",
+      "lastfmUrl": "https://www.last.fm/music/Tomora/_/COME+CLOSER",
+      "nowPlaying": false
+    },
+    {
+      "title": "Run To The Sun",
+      "artist": "N.E.R.D",
+      "album": "In Search Of...",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cfaf31ba9d6a022799a5064f3adf1646.jpg",
+      "url": "https://open.spotify.com/search/N.E.R.D%20Run%20To%20The%20Sun",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/N.E.R.D/_/Run+To+The+Sun",
+      "nowPlaying": false
+    },
+    {
+      "title": "365",
+      "artist": "Charli xcx",
+      "album": "BRAT",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
+      "url": "https://open.spotify.com/search/Charli%20xcx%20365",
+      "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/365",
+      "nowPlaying": false
+    },
     {
       "title": "B2b",
       "artist": "Charli xcx",
@@ -53,42 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/83f26575c05018e2d03e28a6f37a55ab.png",
       "url": "https://open.spotify.com/search/Kelis%20Trick%20Me%20-%20Club%20Mix",
       "lastfmUrl": "https://www.last.fm/music/Kelis/_/Trick+Me+-+Club+Mix",
-      "nowPlaying": false
-    },
-    {
-      "title": "Spanish Joint",
-      "artist": "D'Angelo",
-      "album": "Voodoo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2abd5ffdfb15f156135e2b53f343fc0f.jpg",
-      "url": "https://open.spotify.com/search/D'Angelo%20Spanish%20Joint",
-      "lastfmUrl": "https://www.last.fm/music/D%27Angelo/_/Spanish+Joint",
-      "nowPlaying": false
-    },
-    {
-      "title": "Point and Kill",
-      "artist": "Little Simz",
-      "album": "Sometimes I Might Be Introvert",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/592ce13b8d7cfee26e13692b3c6985e8.jpg",
-      "url": "https://open.spotify.com/search/Little%20Simz%20Point%20and%20Kill",
-      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Point+and+Kill",
-      "nowPlaying": false
-    },
-    {
-      "title": "Millionaire (feat. André 3000)",
-      "artist": "Kelis",
-      "album": "Tasty",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/83f26575c05018e2d03e28a6f37a55ab.png",
-      "url": "https://open.spotify.com/search/Kelis%20Millionaire%20(feat.%20Andr%C3%A9%203000)",
-      "lastfmUrl": "https://www.last.fm/music/Kelis/_/Millionaire+(feat.+Andr%C3%A9+3000)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Idioteque",
-      "artist": "Radiohead",
-      "album": "Kid A",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2ed343318c844d19cd897ec67fad11c4.png",
-      "url": "https://open.spotify.com/search/Radiohead%20Idioteque",
-      "lastfmUrl": "https://www.last.fm/music/Radiohead/_/Idioteque",
       "nowPlaying": false
     }
   ]
