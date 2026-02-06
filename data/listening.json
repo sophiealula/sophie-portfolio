@@ -1,14 +1,14 @@
 {
-  "updated": "2026-02-06T12:51:46.736Z",
+  "updated": "2026-02-06T18:43:15.716Z",
   "tracks": [
     {
-      "title": "Moody",
-      "artist": "ESG",
-      "album": "You're No Good",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/42adddbb09694398a1a948a44a3f75e6.png",
-      "url": "https://open.spotify.com/search/ESG%20Moody",
-      "lastfmUrl": "https://www.last.fm/music/ESG/_/Moody",
-      "nowPlaying": true
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "album": "Dutty Rock (20th Anniversary)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6475b73efe8056b83bda46948bb6a694.png",
+      "url": "https://open.spotify.com/search/Sean%20Paul%20Get%20Busy",
+      "lastfmUrl": "https://www.last.fm/music/Sean+Paul/_/Get+Busy",
+      "nowPlaying": false
     },
     {
       "title": "Rip It Up",
@@ -17,6 +17,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/380d0273124e0d96cb47a288bb1c1fd8.jpg",
       "url": "https://open.spotify.com/search/Orange%20Juice%20Rip%20It%20Up",
       "lastfmUrl": "https://www.last.fm/music/Orange+Juice/_/Rip+It+Up",
+      "nowPlaying": false
+    },
+    {
+      "title": "Moody",
+      "artist": "ESG",
+      "album": "You're No Good",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/42adddbb09694398a1a948a44a3f75e6.png",
+      "url": "https://open.spotify.com/search/ESG%20Moody",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/Moody",
       "nowPlaying": false
     },
     {
@@ -53,33 +62,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/734378555a4dad22fbd9f3aa69e8ecf9.jpg",
       "url": "https://open.spotify.com/search/Tomora%20COME%20CLOSER",
       "lastfmUrl": "https://www.last.fm/music/Tomora/_/COME+CLOSER",
-      "nowPlaying": false
-    },
-    {
-      "title": "Run To The Sun",
-      "artist": "N.E.R.D",
-      "album": "In Search Of...",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cfaf31ba9d6a022799a5064f3adf1646.jpg",
-      "url": "https://open.spotify.com/search/N.E.R.D%20Run%20To%20The%20Sun",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/N.E.R.D/_/Run+To+The+Sun",
-      "nowPlaying": false
-    },
-    {
-      "title": "365",
-      "artist": "Charli xcx",
-      "album": "BRAT",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
-      "url": "https://open.spotify.com/search/Charli%20xcx%20365",
-      "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/365",
-      "nowPlaying": false
-    },
-    {
-      "title": "B2b",
-      "artist": "Charli xcx",
-      "album": "BRAT",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b00527c6ae0cd1d4c9bf3706b130ad56.jpg",
-      "url": "https://open.spotify.com/search/Charli%20xcx%20B2b",
-      "lastfmUrl": "https://www.last.fm/music/Charli+xcx/_/B2b",
       "nowPlaying": false
     }
   ]
