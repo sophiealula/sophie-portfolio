@@ -1,13 +1,22 @@
 {
-  "updated": "2026-02-09T07:00:18.904Z",
+  "updated": "2026-02-09T13:00:40.431Z",
   "tracks": [
     {
-      "title": "EoO",
+      "title": "Yo Perreo Sola",
       "artist": "Bad Bunny",
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20EoO",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/EoO",
+      "album": "YHLQMDLG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efc8997d8dbcf97f677ffb9374160a44.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Yo%20Perreo%20Sola",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Yo+Perreo+Sola",
+      "nowPlaying": false
+    },
+    {
+      "title": "Tití Me Preguntó",
+      "artist": "Bad Bunny",
+      "album": "Un Verano Sin Ti",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
       "nowPlaying": false
     },
     {
@@ -38,48 +47,30 @@
       "nowPlaying": false
     },
     {
-      "title": "Si Antes Te Hubiera Conocido",
-      "artist": "KAROL G",
-      "album": "Tropicoqueta",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c0357411ccafbf6454480d9f78978f11.png",
-      "url": "https://open.spotify.com/search/KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
-      "lastfmUrl": "https://www.last.fm/music/KAROL+G/_/Si+Antes+Te+Hubiera+Conocido",
+      "title": "VOY A LLeVARTE PA PR",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20VOY%20A%20LLeVARTE%20PA%20PR",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR",
       "nowPlaying": false
     },
     {
-      "title": "Making Plans for Nigel",
-      "artist": "XTC",
-      "album": "Drums and Wires",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cd53c193ea660e5f4bc11ea5093d99c8.jpg",
-      "url": "https://open.spotify.com/search/XTC%20Making%20Plans%20for%20Nigel",
-      "lastfmUrl": "https://www.last.fm/music/XTC/_/Making+Plans+for+Nigel",
+      "title": "LA CANCIÓN",
+      "artist": "J Balvin",
+      "album": "OASIS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a463a43645f5f63d83b62813ec42e7d.jpg",
+      "url": "https://open.spotify.com/search/J%20Balvin%20LA%20CANCI%C3%93N",
+      "lastfmUrl": "https://www.last.fm/music/J+Balvin/_/LA+CANCI%C3%93N",
       "nowPlaying": false
     },
     {
-      "title": "Disco's Revenge - Mole Hole Radio Edit",
-      "artist": "Gusto",
-      "album": "Disco's Revenge",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/046e2bde5f0952e53d0147d98e62c4a2.jpg",
-      "url": "https://open.spotify.com/search/Gusto%20Disco's%20Revenge%20-%20Mole%20Hole%20Radio%20Edit",
-      "lastfmUrl": "https://www.last.fm/music/Gusto/_/Disco%27s+Revenge+-+Mole+Hole+Radio+Edit",
-      "nowPlaying": false
-    },
-    {
-      "title": "Another Silent Way",
-      "artist": "Underworld",
-      "album": "DRIFT Series 1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/909a59960b738d139cdb2cf80db9a97e.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20Another%20Silent%20Way",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Another+Silent+Way",
-      "nowPlaying": false
-    },
-    {
-      "title": "Soniamode - Aditya Game Version",
-      "artist": "Underworld",
-      "album": "DRIFT Series 1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/909a59960b738d139cdb2cf80db9a97e.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20Soniamode%20-%20Aditya%20Game%20Version",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Soniamode+-+Aditya+Game+Version",
+      "title": "EoO",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20EoO",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/EoO",
       "nowPlaying": false
     }
   ]
