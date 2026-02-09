@@ -1,6 +1,51 @@
 {
-  "updated": "2026-02-09T01:54:53.946Z",
+  "updated": "2026-02-09T07:00:18.904Z",
   "tracks": [
+    {
+      "title": "EoO",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20EoO",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/EoO",
+      "nowPlaying": false
+    },
+    {
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20NUEVAYoL",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+      "nowPlaying": false
+    },
+    {
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20BAILE%20INoLVIDABLE",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
+      "nowPlaying": false
+    },
+    {
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20DtMF",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+      "nowPlaying": false
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "KAROL G",
+      "album": "Tropicoqueta",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c0357411ccafbf6454480d9f78978f11.png",
+      "url": "https://open.spotify.com/search/KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
+      "lastfmUrl": "https://www.last.fm/music/KAROL+G/_/Si+Antes+Te+Hubiera+Conocido",
+      "nowPlaying": false
+    },
     {
       "title": "Making Plans for Nigel",
       "artist": "XTC",
@@ -35,60 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/909a59960b738d139cdb2cf80db9a97e.jpg",
       "url": "https://open.spotify.com/search/Underworld%20Soniamode%20-%20Aditya%20Game%20Version",
       "lastfmUrl": "https://www.last.fm/music/Underworld/_/Soniamode+-+Aditya+Game+Version",
-      "nowPlaying": false
-    },
-    {
-      "title": "I Need Your Lovin' (Like The Sunshine) - Club Mix",
-      "artist": "Infectious!",
-      "album": "I Need Your Lovin' (Like the Sunshine)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4acb49f1443c78659f2ac3fc83e9fc34.jpg",
-      "url": "https://open.spotify.com/search/Infectious!%20I%20Need%20Your%20Lovin'%20(Like%20The%20Sunshine)%20-%20Club%20Mix",
-      "lastfmUrl": "https://www.last.fm/music/Infectious!/_/I+Need+Your+Lovin%27+(Like+The+Sunshine)+-+Club+Mix",
-      "nowPlaying": false
-    },
-    {
-      "title": "Sims 2000",
-      "artist": "Indecorum",
-      "album": "Sanctus",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b8406625d6f451109dde158d002f4353.jpg",
-      "url": "https://open.spotify.com/search/Indecorum%20Sims%202000",
-      "lastfmUrl": "https://www.last.fm/music/Indecorum/_/Sims+2000",
-      "nowPlaying": false
-    },
-    {
-      "title": "Marseille",
-      "artist": "Oracle Sisters",
-      "album": "Divinations",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9ce978dcbce8d466825e569c53346e3b.jpg",
-      "url": "https://open.spotify.com/search/Oracle%20Sisters%20Marseille",
-      "lastfmUrl": "https://www.last.fm/music/Oracle+Sisters/_/Marseille",
-      "nowPlaying": false
-    },
-    {
-      "title": "Little Speaker",
-      "artist": "Underworld",
-      "album": "A Hundred Days Off",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a862410006a24ea9a0e56f86ff8cb917.png",
-      "url": "https://open.spotify.com/search/Underworld%20Little%20Speaker",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Little+Speaker",
-      "nowPlaying": false
-    },
-    {
-      "title": "Kinetic - Frank De Wulf Remix",
-      "artist": "Golden Girls",
-      "album": "Straight from The Vault Volume 2",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/28874efd682248e0399ed614eb4ca653.jpg",
-      "url": "https://open.spotify.com/search/Golden%20Girls%20Kinetic%20-%20Frank%20De%20Wulf%20Remix",
-      "lastfmUrl": "https://www.last.fm/music/Golden+Girls/_/Kinetic+-+Frank+De+Wulf+Remix",
-      "nowPlaying": false
-    },
-    {
-      "title": "Leave Your Life - Lonely Hearts Mix",
-      "artist": "Alex Kassian",
-      "album": "Leave Your Life",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52c0c6347df56f87505e9bfdc1127d4.jpg",
-      "url": "https://open.spotify.com/search/Alex%20Kassian%20Leave%20Your%20Life%20-%20Lonely%20Hearts%20Mix",
-      "lastfmUrl": "https://www.last.fm/music/Alex+Kassian/_/Leave+Your+Life+-+Lonely+Hearts+Mix",
       "nowPlaying": false
     }
   ]
