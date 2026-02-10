@@ -1,31 +1,40 @@
 {
-  "updated": "2026-02-09T13:00:40.431Z",
+  "updated": "2026-02-10T02:05:16.927Z",
   "tracks": [
     {
-      "title": "Yo Perreo Sola",
-      "artist": "Bad Bunny",
-      "album": "YHLQMDLG",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efc8997d8dbcf97f677ffb9374160a44.jpg",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20Yo%20Perreo%20Sola",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Yo+Perreo+Sola",
+      "title": "Mágica",
+      "artist": "El Michels Affair",
+      "album": "24 Hr Sports",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/58aa8fe37af2330518b769f3ce29d575.jpg",
+      "url": "https://open.spotify.com/search/El%20Michels%20Affair%20M%C3%A1gica",
+      "lastfmUrl": "https://www.last.fm/music/El+Michels+Affair/_/M%C3%A1gica",
       "nowPlaying": false
     },
     {
-      "title": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "album": "Un Verano Sin Ti",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
+      "title": "Road to Nowhere",
+      "artist": "Rogê",
+      "album": "Road to Nowhere",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1cf2aee3877ba061f2292b3c066e7325.gif",
+      "url": "https://open.spotify.com/search/Rog%C3%AA%20Road%20to%20Nowhere",
+      "lastfmUrl": "https://www.last.fm/music/Rog%C3%AA/_/Road+to+Nowhere",
       "nowPlaying": false
     },
     {
-      "title": "NUEVAYoL",
+      "title": "Super Bowl LX Halftime Show - Live",
+      "artist": "Bad Bunny",
+      "album": "Super Bowl LX Halftime Show (Live)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9fc20cd8ae7d436f56a720652b12cdb.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Super%20Bowl%20LX%20Halftime%20Show%20-%20Live",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Super+Bowl+LX+Halftime+Show+-+Live",
+      "nowPlaying": false
+    },
+    {
+      "title": "CAFé CON RON",
       "artist": "Bad Bunny",
       "album": "DeBÍ TiRAR MáS FOToS",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20NUEVAYoL",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20CAF%C3%A9%20CON%20RON",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
       "nowPlaying": false
     },
     {
@@ -38,39 +47,30 @@
       "nowPlaying": false
     },
     {
-      "title": "DtMF",
+      "title": "Tití Me Preguntó",
       "artist": "Bad Bunny",
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20DtMF",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+      "album": "Un Verano Sin Ti",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
       "nowPlaying": false
     },
     {
-      "title": "VOY A LLeVARTE PA PR",
+      "title": "Yo Perreo Sola",
       "artist": "Bad Bunny",
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20VOY%20A%20LLeVARTE%20PA%20PR",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR",
+      "album": "YHLQMDLG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efc8997d8dbcf97f677ffb9374160a44.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Yo%20Perreo%20Sola",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Yo+Perreo+Sola",
       "nowPlaying": false
     },
     {
-      "title": "LA CANCIÓN",
-      "artist": "J Balvin",
-      "album": "OASIS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a463a43645f5f63d83b62813ec42e7d.jpg",
-      "url": "https://open.spotify.com/search/J%20Balvin%20LA%20CANCI%C3%93N",
-      "lastfmUrl": "https://www.last.fm/music/J+Balvin/_/LA+CANCI%C3%93N",
-      "nowPlaying": false
-    },
-    {
-      "title": "EoO",
+      "title": "NUEVAYoL",
       "artist": "Bad Bunny",
       "album": "DeBÍ TiRAR MáS FOToS",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20EoO",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/EoO",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20NUEVAYoL",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
       "nowPlaying": false
     }
   ]
