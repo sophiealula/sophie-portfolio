@@ -1,13 +1,31 @@
 {
-  "updated": "2026-02-10T13:04:51.715Z",
+  "updated": "2026-02-11T02:01:08.665Z",
   "tracks": [
     {
-      "title": "Mágica",
-      "artist": "El Michels Affair",
-      "album": "24 Hr Sports",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/58aa8fe37af2330518b769f3ce29d575.jpg",
-      "url": "https://open.spotify.com/search/El%20Michels%20Affair%20M%C3%A1gica",
-      "lastfmUrl": "https://www.last.fm/music/El+Michels+Affair/_/M%C3%A1gica",
+      "title": "CAFé CON RON",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20CAF%C3%A9%20CON%20RON",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+      "nowPlaying": false
+    },
+    {
+      "title": "Rose Pink Cadillac",
+      "artist": "Dope Lemon",
+      "album": "Rose Pink Cadillac",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c4312edbe8cd6ae05a59de8999bcda05.jpg",
+      "url": "https://open.spotify.com/search/Dope%20Lemon%20Rose%20Pink%20Cadillac",
+      "lastfmUrl": "https://www.last.fm/music/Dope+Lemon/_/Rose+Pink+Cadillac",
+      "nowPlaying": false
+    },
+    {
+      "title": "Super Bowl LX Halftime Show - Live",
+      "artist": "Bad Bunny",
+      "album": "Super Bowl LX Halftime Show (Live)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2af0113c1b4f129a4a6f87781bfe1642.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Super%20Bowl%20LX%20Halftime%20Show%20-%20Live",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Super+Bowl+LX+Halftime+Show+-+Live",
       "nowPlaying": false
     },
     {
@@ -20,21 +38,21 @@
       "nowPlaying": false
     },
     {
-      "title": "Super Bowl LX Halftime Show - Live",
-      "artist": "Bad Bunny",
-      "album": "Super Bowl LX Halftime Show (Live)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9fc20cd8ae7d436f56a720652b12cdb.jpg",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20Super%20Bowl%20LX%20Halftime%20Show%20-%20Live",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Super+Bowl+LX+Halftime+Show+-+Live",
+      "title": "Sunshine Kisses",
+      "artist": "Sabine McCalla",
+      "album": "Don't Call Me Baby",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a14bd817daef506a0a460f783ea111a0.jpg",
+      "url": "https://open.spotify.com/search/Sabine%20McCalla%20Sunshine%20Kisses",
+      "lastfmUrl": "https://www.last.fm/music/Sabine+McCalla/_/Sunshine+Kisses",
       "nowPlaying": false
     },
     {
-      "title": "CAFé CON RON",
-      "artist": "Bad Bunny",
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20CAF%C3%A9%20CON%20RON",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+      "title": "Mágica",
+      "artist": "El Michels Affair",
+      "album": "24 Hr Sports",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/58aa8fe37af2330518b769f3ce29d575.jpg",
+      "url": "https://open.spotify.com/search/El%20Michels%20Affair%20M%C3%A1gica",
+      "lastfmUrl": "https://www.last.fm/music/El+Michels+Affair/_/M%C3%A1gica",
       "nowPlaying": false
     },
     {
@@ -44,33 +62,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
       "url": "https://open.spotify.com/search/Bad%20Bunny%20BAILE%20INoLVIDABLE",
       "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
-      "nowPlaying": false
-    },
-    {
-      "title": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "album": "Un Verano Sin Ti",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20Tit%C3%AD%20Me%20Pregunt%C3%B3",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
-      "nowPlaying": false
-    },
-    {
-      "title": "Yo Perreo Sola",
-      "artist": "Bad Bunny",
-      "album": "YHLQMDLG",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/efc8997d8dbcf97f677ffb9374160a44.jpg",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20Yo%20Perreo%20Sola",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Yo+Perreo+Sola",
-      "nowPlaying": false
-    },
-    {
-      "title": "NUEVAYoL",
-      "artist": "Bad Bunny",
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
-      "url": "https://open.spotify.com/search/Bad%20Bunny%20NUEVAYoL",
-      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
       "nowPlaying": false
     }
   ]
