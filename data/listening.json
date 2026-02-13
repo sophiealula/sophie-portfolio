@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-13T06:54:51.729Z",
+  "updated": "2026-02-13T12:51:45.232Z",
   "tracks": [
+    {
+      "title": "CAFé CON RON",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20CAF%C3%A9%20CON%20RON",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+      "nowPlaying": false
+    },
+    {
+      "title": "Road to Nowhere",
+      "artist": "Rogê",
+      "album": "Road to Nowhere",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1cf2aee3877ba061f2292b3c066e7325.gif",
+      "url": "https://open.spotify.com/search/Rog%C3%AA%20Road%20to%20Nowhere",
+      "lastfmUrl": "https://www.last.fm/music/Rog%C3%AA/_/Road+to+Nowhere",
+      "nowPlaying": false
+    },
     {
       "title": "The Only One",
       "artist": "The Black Keys",
@@ -53,24 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/beb1db8a00b41c3d263830e8b41e6690.png",
       "url": "https://open.spotify.com/search/Jimmie%20Vaughan%20Dengue%20Woman%20Blues",
       "lastfmUrl": "https://www.last.fm/music/Jimmie+Vaughan/_/Dengue+Woman+Blues",
-      "nowPlaying": false
-    },
-    {
-      "title": "Layla",
-      "artist": "Derek & The Dominos",
-      "album": "Layla And Other Assorted Love Songs (Remastered 2010)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/fd44803f0e8fbb17d14d0a323b53ba3e.jpg",
-      "url": "https://open.spotify.com/search/Derek%20%26%20The%20Dominos%20Layla",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Derek+&+The+Dominos/_/Layla",
-      "nowPlaying": false
-    },
-    {
-      "title": "On the Road Again",
-      "artist": "Canned Heat",
-      "album": "Canned Heat",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c445f16e47f47cc97d37d2cb44d94c48.jpg",
-      "url": "https://open.spotify.com/search/Canned%20Heat%20On%20the%20Road%20Again",
-      "lastfmUrl": "https://www.last.fm/music/Canned+Heat/_/On+the+Road+Again",
       "nowPlaying": false
     }
   ]
