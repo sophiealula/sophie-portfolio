@@ -1,13 +1,22 @@
 {
-  "updated": "2026-02-12T18:58:00.625Z",
+  "updated": "2026-02-13T01:56:28.966Z",
   "tracks": [
     {
-      "title": "Thinkin Bout You",
-      "artist": "Flea",
-      "album": "Thinkin Bout You",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3b7447176eb7f160b3f1bec817610761.jpg",
-      "url": "https://open.spotify.com/search/Flea%20Thinkin%20Bout%20You",
-      "lastfmUrl": "https://www.last.fm/music/Flea/_/Thinkin+Bout+You",
+      "title": "The Only One",
+      "artist": "The Black Keys",
+      "album": "Brothers",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/fe84144e16808e200304351b5e9410de.jpg",
+      "url": "https://open.spotify.com/search/The%20Black%20Keys%20The%20Only%20One",
+      "lastfmUrl": "https://www.last.fm/music/The+Black+Keys/_/The+Only+One",
+      "nowPlaying": false
+    },
+    {
+      "title": "Oh Well, Pt. 1 - 2013 Remaster",
+      "artist": "Fleetwood Mac",
+      "album": "Then Play On (2013 Remaster; Expanded Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5f110bf6906ba81e997ac1bf981609cd.jpg",
+      "url": "https://open.spotify.com/search/Fleetwood%20Mac%20Oh%20Well%2C%20Pt.%201%20-%202013%20Remaster",
+      "lastfmUrl": "https://www.last.fm/music/Fleetwood+Mac/_/Oh+Well,+Pt.+1+-+2013+Remaster",
       "nowPlaying": false
     },
     {
@@ -17,6 +26,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/3b7447176eb7f160b3f1bec817610761.jpg",
       "url": "https://open.spotify.com/search/Flea%20Traffic%20Lights%20(feat.%20Thom%20Yorke)",
       "lastfmUrl": "https://www.last.fm/music/Flea/_/Traffic+Lights+(feat.+Thom+Yorke)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Thinkin Bout You",
+      "artist": "Flea",
+      "album": "Thinkin Bout You",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3b7447176eb7f160b3f1bec817610761.jpg",
+      "url": "https://open.spotify.com/search/Flea%20Thinkin%20Bout%20You",
+      "lastfmUrl": "https://www.last.fm/music/Flea/_/Thinkin+Bout+You",
       "nowPlaying": false
     },
     {
@@ -53,33 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c445f16e47f47cc97d37d2cb44d94c48.jpg",
       "url": "https://open.spotify.com/search/Canned%20Heat%20On%20the%20Road%20Again",
       "lastfmUrl": "https://www.last.fm/music/Canned+Heat/_/On+the+Road+Again",
-      "nowPlaying": false
-    },
-    {
-      "title": "The Thrill Is Gone - Live From The United Kingdom/1993",
-      "artist": "Gary Moore",
-      "album": "The Best of the Blues",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/91fc4ab183e0434da1765f7b56689503.jpg",
-      "url": "https://open.spotify.com/search/Gary%20Moore%20The%20Thrill%20Is%20Gone%20-%20Live%20From%20The%20United%20Kingdom%2F1993",
-      "lastfmUrl": "https://www.last.fm/music/Gary+Moore/_/The+Thrill+Is+Gone+-+Live+From+The+United+Kingdom%2F1993",
-      "nowPlaying": false
-    },
-    {
-      "title": "Every Chance I Get (I Want You In The Flesh)",
-      "artist": "Dan Auerbach",
-      "album": "Every Chance I Get (I Want You In The Flesh)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfff698748cb162fa33ca2ac72dfa848.jpg",
-      "url": "https://open.spotify.com/search/Dan%20Auerbach%20Every%20Chance%20I%20Get%20(I%20Want%20You%20In%20The%20Flesh)",
-      "lastfmUrl": "https://www.last.fm/music/Dan+Auerbach/_/Every+Chance+I+Get+(I+Want+You+In+The+Flesh)",
-      "nowPlaying": false
-    },
-    {
-      "title": "New Age Blues",
-      "artist": "Cam Cole",
-      "album": "I See",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/83f80e2c2c987650f7b230389d8d6f53.jpg",
-      "url": "https://open.spotify.com/search/Cam%20Cole%20New%20Age%20Blues",
-      "lastfmUrl": "https://www.last.fm/music/Cam+Cole/_/New+Age+Blues",
       "nowPlaying": false
     }
   ]
