@@ -1,6 +1,42 @@
 {
-  "updated": "2026-02-14T01:46:27.930Z",
+  "updated": "2026-02-14T06:39:27.815Z",
   "tracks": [
+    {
+      "title": "Old Graffiti",
+      "artist": "Bibio",
+      "album": "Ribbons",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/51594c54f89065ba9ddeb2eeff6880ec.jpg",
+      "url": "https://open.spotify.com/search/Bibio%20Old%20Graffiti",
+      "lastfmUrl": "https://www.last.fm/music/Bibio/_/Old+Graffiti",
+      "nowPlaying": false
+    },
+    {
+      "title": "Camino Del Sol (Todd Terje Remix)",
+      "artist": "Antena",
+      "album": "Versions Speciales - Camino Del Sol",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5f6923666d7adbaba356d0e6d3e1469a.jpg",
+      "url": "https://open.spotify.com/search/Antena%20Camino%20Del%20Sol%20(Todd%20Terje%20Remix)",
+      "lastfmUrl": "https://www.last.fm/music/Antena/_/Camino+Del+Sol+(Todd+Terje+Remix)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Remind Me",
+      "artist": "Röyksopp",
+      "album": "Melody A.M.",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b31a471c37ec8aadc79d435cf9cbe39.png",
+      "url": "https://open.spotify.com/search/R%C3%B6yksopp%20Remind%20Me",
+      "lastfmUrl": "https://www.last.fm/music/R%C3%B6yksopp/_/Remind+Me",
+      "nowPlaying": false
+    },
+    {
+      "title": "At Les",
+      "artist": "Carl Craig",
+      "album": "More Songs About Food and Revolutionary Art",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1edd5012dc5a4fdb9f521d879e73ab84.png",
+      "url": "https://open.spotify.com/search/Carl%20Craig%20At%20Les",
+      "lastfmUrl": "https://www.last.fm/music/Carl+Craig/_/At+Les",
+      "nowPlaying": false
+    },
     {
       "title": "Heliosphan",
       "artist": "Aphex Twin",
@@ -53,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/4aca615f362283d7b6126418e0c2b850.jpg",
       "url": "https://open.spotify.com/search/Bicep%20Orca",
       "lastfmUrl": "https://www.last.fm/music/Bicep/_/Orca",
-      "nowPlaying": false
-    },
-    {
-      "title": "What Is Love?",
-      "artist": "Deee-Lite",
-      "album": "World Clique",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/37587c2a3dae8a503d76ec54e48ef067.png",
-      "url": "https://open.spotify.com/search/Deee-Lite%20What%20Is%20Love%3F",
-      "lastfmUrl": "https://www.last.fm/music/Deee-Lite/_/What+Is+Love%3F",
-      "nowPlaying": false
-    },
-    {
-      "title": "Passion - Naked Edit",
-      "artist": "Gat Decor",
-      "album": "Passion",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/25d888d04f236b4e77715fd7467afced.jpg",
-      "url": "https://open.spotify.com/search/Gat%20Decor%20Passion%20-%20Naked%20Edit",
-      "lastfmUrl": "https://www.last.fm/music/Gat+Decor/_/Passion+-+Naked+Edit",
-      "nowPlaying": false
-    },
-    {
-      "title": "Xtal",
-      "artist": "Aphex Twin",
-      "album": "Selected Ambient Works 85-92",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/36307d33d9e5025c8f4564748e17a5f8.jpg",
-      "url": "https://open.spotify.com/search/Aphex%20Twin%20Xtal",
-      "lastfmUrl": "https://www.last.fm/music/Aphex+Twin/_/Xtal",
       "nowPlaying": false
     }
   ]
