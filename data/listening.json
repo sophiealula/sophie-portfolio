@@ -1,60 +1,6 @@
 {
-  "updated": "2026-02-14T18:29:20.366Z",
+  "updated": "2026-02-15T01:56:08.375Z",
   "tracks": [
-    {
-      "title": "Waltz for Koop",
-      "artist": "Koop",
-      "album": "Waltz for Koop",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5292296a9f7049cf8f4b639f19660234.png",
-      "url": "https://open.spotify.com/search/Koop%20Waltz%20for%20Koop",
-      "lastfmUrl": "https://www.last.fm/music/Koop/_/Waltz+for+Koop",
-      "nowPlaying": false
-    },
-    {
-      "title": "Old Graffiti",
-      "artist": "Bibio",
-      "album": "Ribbons",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/51594c54f89065ba9ddeb2eeff6880ec.jpg",
-      "url": "https://open.spotify.com/search/Bibio%20Old%20Graffiti",
-      "lastfmUrl": "https://www.last.fm/music/Bibio/_/Old+Graffiti",
-      "nowPlaying": false
-    },
-    {
-      "title": "Camino Del Sol (Todd Terje Remix)",
-      "artist": "Antena",
-      "album": "Versions Speciales - Camino Del Sol",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5f6923666d7adbaba356d0e6d3e1469a.jpg",
-      "url": "https://open.spotify.com/search/Antena%20Camino%20Del%20Sol%20(Todd%20Terje%20Remix)",
-      "lastfmUrl": "https://www.last.fm/music/Antena/_/Camino+Del+Sol+(Todd+Terje+Remix)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Remind Me",
-      "artist": "Röyksopp",
-      "album": "Melody A.M.",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b31a471c37ec8aadc79d435cf9cbe39.png",
-      "url": "https://open.spotify.com/search/R%C3%B6yksopp%20Remind%20Me",
-      "lastfmUrl": "https://www.last.fm/music/R%C3%B6yksopp/_/Remind+Me",
-      "nowPlaying": false
-    },
-    {
-      "title": "At Les",
-      "artist": "Carl Craig",
-      "album": "More Songs About Food and Revolutionary Art",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1edd5012dc5a4fdb9f521d879e73ab84.png",
-      "url": "https://open.spotify.com/search/Carl%20Craig%20At%20Les",
-      "lastfmUrl": "https://www.last.fm/music/Carl+Craig/_/At+Les",
-      "nowPlaying": false
-    },
-    {
-      "title": "Heliosphan",
-      "artist": "Aphex Twin",
-      "album": "Selected Ambient Works 85-92",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/36307d33d9e5025c8f4564748e17a5f8.jpg",
-      "url": "https://open.spotify.com/search/Aphex%20Twin%20Heliosphan",
-      "lastfmUrl": "https://www.last.fm/music/Aphex+Twin/_/Heliosphan",
-      "nowPlaying": false
-    },
     {
       "title": "Birth4000",
       "artist": "Floating Points",
@@ -65,30 +11,75 @@
       "nowPlaying": false
     },
     {
-      "title": "Can't Do Without You",
-      "artist": "Caribou",
-      "album": "Our Love (Expanded Edition)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6022865df354ed322088b702b1d1e6a0.png",
-      "url": "https://open.spotify.com/search/Caribou%20Can't%20Do%20Without%20You",
-      "lastfmUrl": "https://www.last.fm/music/Caribou/_/Can%27t+Do+Without+You",
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
       "nowPlaying": false
     },
     {
-      "title": "Water From a Vine Leaf",
-      "artist": "William Orbit",
-      "album": "Strange Cargo 3",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/479d3dcee07b4f2c91e1c0dee32c8572.jpg",
-      "url": "https://open.spotify.com/search/William%20Orbit%20Water%20From%20a%20Vine%20Leaf",
-      "lastfmUrl": "https://www.last.fm/music/William+Orbit/_/Water+From+a+Vine+Leaf",
+      "title": "Appletree",
+      "artist": "Erykah Badu",
+      "album": "Baduizm",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e908f8c5e95b511a394bae27279e8960.png",
+      "url": "https://open.spotify.com/search/Erykah%20Badu%20Appletree",
+      "lastfmUrl": "https://www.last.fm/music/Erykah+Badu/_/Appletree",
       "nowPlaying": false
     },
     {
-      "title": "A Final Hit",
-      "artist": "Leftfield",
-      "album": "A Final Hit - The Best Of Leftfield",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bb9616bb25d4e8b8ef2ec500356e296.jpg",
-      "url": "https://open.spotify.com/search/Leftfield%20A%20Final%20Hit",
-      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/A+Final+Hit",
+      "title": "Augusta, Angélica e Consolação",
+      "artist": "Tom Zé",
+      "album": "Dois Momentos - Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
+      "nowPlaying": false
+    },
+    {
+      "title": "Flor do Real",
+      "artist": "Sessa",
+      "album": "Grandeza",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/36028d0e29ed30a39c2c4453796234db.jpg",
+      "url": "https://open.spotify.com/search/Sessa%20Flor%20do%20Real",
+      "lastfmUrl": "https://www.last.fm/music/Sessa/_/Flor+do+Real",
+      "nowPlaying": false
+    },
+    {
+      "title": "Alvorada",
+      "artist": "Cartola",
+      "album": "Raizes Do Samba",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/15f99cd9cb38cc7a0b1b7ebcc6a1dfbd.jpg",
+      "url": "https://open.spotify.com/search/Cartola%20Alvorada",
+      "lastfmUrl": "https://www.last.fm/music/Cartola/_/Alvorada",
+      "nowPlaying": false
+    },
+    {
+      "title": "Happy End",
+      "artist": "Tom Zé",
+      "album": "Dois Momentos - Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Happy%20End",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Happy+End",
+      "nowPlaying": false
+    },
+    {
+      "title": "Jimmy, Renda-Se",
+      "artist": "Tom Zé",
+      "album": "Jimmy, Renda-Se/ Irene",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bf865a7244b12093394a370ed6c2bc3f.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Jimmy%2C%20Renda-Se",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Jimmy,+Renda-Se",
+      "nowPlaying": false
+    },
+    {
+      "title": "Tô",
+      "artist": "Tom Zé",
+      "album": "Estudando o samba",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6f40874769dfff866461defdd865b2b3.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20T%C3%B4",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/T%C3%B4",
       "nowPlaying": false
     }
   ]
