@@ -1,6 +1,60 @@
 {
-  "updated": "2026-02-15T18:30:33.015Z",
+  "updated": "2026-02-16T01:52:15.083Z",
   "tracks": [
+    {
+      "title": "Passarinha",
+      "artist": "Bala Desejo",
+      "album": "SIM SIM SIM",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f4dae3e892a6ae478a238ccc128f03f.jpg",
+      "url": "https://open.spotify.com/search/Bala%20Desejo%20Passarinha",
+      "lastfmUrl": "https://www.last.fm/music/Bala+Desejo/_/Passarinha",
+      "nowPlaying": false
+    },
+    {
+      "title": "Tudo o Que Você Podia Ser",
+      "artist": "Milton Nascimento",
+      "album": "Clube Da Esquina",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b5771f26c4fe8d2142a586ee1725f9ca.png",
+      "url": "https://open.spotify.com/search/Milton%20Nascimento%20Tudo%20o%20Que%20Voc%C3%AA%20Podia%20Ser",
+      "lastfmUrl": "https://www.last.fm/music/Milton+Nascimento/_/Tudo+o+Que+Voc%C3%AA+Podia+Ser",
+      "nowPlaying": false
+    },
+    {
+      "title": "Eu Vou Torcer",
+      "artist": "Jorge Ben Jor",
+      "album": "A Tabua de Esmeralda",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2c4f7ef108834fe0cf9b4c74c2cbc951.png",
+      "url": "https://open.spotify.com/search/Jorge%20Ben%20Jor%20Eu%20Vou%20Torcer",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/Jorge+Ben+Jor/_/Eu+Vou+Torcer",
+      "nowPlaying": false
+    },
+    {
+      "title": "Essa Moça Tá Diferente",
+      "artist": "Chico Buarque",
+      "album": "Chico Buarque de Hollanda Nº4",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/97d90f5bec5af2af0123376efb0b64bd.jpg",
+      "url": "https://open.spotify.com/search/Chico%20Buarque%20Essa%20Mo%C3%A7a%20T%C3%A1%20Diferente",
+      "lastfmUrl": "https://www.last.fm/music/Chico+Buarque/_/Essa+Mo%C3%A7a+T%C3%A1+Diferente",
+      "nowPlaying": false
+    },
+    {
+      "title": "A gira",
+      "artist": "Trio Ternura",
+      "album": "Trio Ternura (Compacto 1973)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e5f44da7c632ee4bff2d14b837df665.jpg",
+      "url": "https://open.spotify.com/search/Trio%20Ternura%20A%20gira",
+      "lastfmUrl": "https://www.last.fm/music/Trio+Ternura/_/A+gira",
+      "nowPlaying": false
+    },
+    {
+      "title": "Lotus 72 D - Fast Version",
+      "artist": "Zé Roberto",
+      "album": "Lotus 72 D",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0c8a3466a00f54d00022e281f460f5e6.jpg",
+      "url": "https://open.spotify.com/search/Z%C3%A9%20Roberto%20Lotus%2072%20D%20-%20Fast%20Version",
+      "lastfmUrl": "https://www.last.fm/music/Z%C3%A9+Roberto/_/Lotus+72+D+-+Fast+Version",
+      "nowPlaying": false
+    },
     {
       "title": "Take It Easy My Brother Charles",
       "artist": "Jorge Ben Jor",
@@ -35,60 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "url": "https://open.spotify.com/search/Lucio%20Battisti%20La%20Canzone%20Del%20Sole%20-%20Remastered",
       "lastfmUrl": "https://www.last.fm/music/Lucio+Battisti/_/La+Canzone+Del+Sole+-+Remastered",
-      "nowPlaying": false
-    },
-    {
-      "title": "Amore No",
-      "artist": "Adriano Celentano",
-      "album": "Soli",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9089b4208d0679ef37fe10e5a0e55960.png",
-      "url": "https://open.spotify.com/search/Adriano%20Celentano%20Amore%20No",
-      "lastfmUrl": "https://www.last.fm/music/Adriano+Celentano/_/Amore+No",
-      "nowPlaying": false
-    },
-    {
-      "title": "Ma che freddo fa",
-      "artist": "Nada",
-      "album": "Nada",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/46ed8e65c47be49ba35eb63f843fe04c.jpg",
-      "url": "https://open.spotify.com/search/Nada%20Ma%20che%20freddo%20fa",
-      "lastfmUrl": "https://www.last.fm/music/Nada/_/Ma+che+freddo+fa",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mi sei scoppiato dentro il cuore",
-      "artist": "Mina",
-      "album": "Studio Uno '66",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a5fc09c6b9ba4f138c901972418b9815.jpg",
-      "url": "https://open.spotify.com/search/Mina%20Mi%20sei%20scoppiato%20dentro%20il%20cuore",
-      "lastfmUrl": "https://www.last.fm/music/Mina/_/Mi+sei+scoppiato+dentro+il+cuore",
-      "nowPlaying": false
-    },
-    {
-      "title": "Je So' Pazzo - Remastered 2008",
-      "artist": "Pino Daniele",
-      "album": "Pino Daniele (2008 - Remaster)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f1c686687b509d82f69e69428463e7e3.jpg",
-      "url": "https://open.spotify.com/search/Pino%20Daniele%20Je%20So'%20Pazzo%20-%20Remastered%202008",
-      "lastfmUrl": "https://www.last.fm/music/Pino+Daniele/_/Je+So%27+Pazzo+-+Remastered+2008",
-      "nowPlaying": false
-    },
-    {
-      "title": "La Mia Signorina",
-      "artist": "Neffa",
-      "album": "Arrivi E Partenze",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/405c021cb51ebbc1a06bc42825ea5855.jpg",
-      "url": "https://open.spotify.com/search/Neffa%20La%20Mia%20Signorina",
-      "lastfmUrl": "https://www.last.fm/music/Neffa/_/La+Mia+Signorina",
-      "nowPlaying": false
-    },
-    {
-      "title": "... e la luna bussò",
-      "artist": "Loredana Bertè",
-      "album": "Bandabertè",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/eb5647ee7832ba9afa74149cb5cb5d2c.jpg",
-      "url": "https://open.spotify.com/search/Loredana%20Bert%C3%A8%20...%20e%20la%20luna%20buss%C3%B2",
-      "lastfmUrl": "https://www.last.fm/music/Loredana+Bert%C3%A8/_/...+e+la+luna+buss%C3%B2",
       "nowPlaying": false
     }
   ]
