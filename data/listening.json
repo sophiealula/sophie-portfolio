@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-16T12:55:15.392Z",
+  "updated": "2026-02-16T18:37:43.994Z",
   "tracks": [
+    {
+      "title": "Bis",
+      "artist": "Arthur Verocai",
+      "album": "Encore",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4390038fd2f1f862896b81e32e9f13ed.jpg",
+      "url": "https://open.spotify.com/search/Arthur%20Verocai%20Bis",
+      "lastfmUrl": "https://www.last.fm/music/Arthur+Verocai/_/Bis",
+      "nowPlaying": false
+    },
     {
       "title": "Passarinha",
       "artist": "Bala Desejo",
@@ -80,15 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
       "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
       "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
-      "nowPlaying": false
-    },
-    {
-      "title": "La Canzone Del Sole - Remastered",
-      "artist": "Lucio Battisti",
-      "album": "La Canzone Del Sole/ Anche Per Te",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/Lucio%20Battisti%20La%20Canzone%20Del%20Sole%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Lucio+Battisti/_/La+Canzone+Del+Sole+-+Remastered",
       "nowPlaying": false
     }
   ]
