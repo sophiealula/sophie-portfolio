@@ -1,6 +1,33 @@
 {
-  "updated": "2026-02-17T12:55:39.888Z",
+  "updated": "2026-02-17T18:52:55.734Z",
   "tracks": [
+    {
+      "title": "Song of Life - Remastered",
+      "artist": "Leftfield",
+      "album": "Leftism",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dfc7f79a9882372802befe9dae78564.jpg",
+      "url": "https://open.spotify.com/search/Leftfield%20Song%20of%20Life%20-%20Remastered",
+      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/Song+of+Life+-+Remastered",
+      "nowPlaying": false
+    },
+    {
+      "title": "Birth4000",
+      "artist": "Floating Points",
+      "album": "Cascade",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
+      "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
+      "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
+      "nowPlaying": false
+    },
+    {
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
+      "nowPlaying": false
+    },
     {
       "title": "Bis",
       "artist": "Arthur Verocai",
@@ -53,42 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e5f44da7c632ee4bff2d14b837df665.jpg",
       "url": "https://open.spotify.com/search/Trio%20Ternura%20A%20gira",
       "lastfmUrl": "https://www.last.fm/music/Trio+Ternura/_/A+gira",
-      "nowPlaying": false
-    },
-    {
-      "title": "Lotus 72 D - Fast Version",
-      "artist": "Zé Roberto",
-      "album": "Lotus 72 D",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0c8a3466a00f54d00022e281f460f5e6.jpg",
-      "url": "https://open.spotify.com/search/Z%C3%A9%20Roberto%20Lotus%2072%20D%20-%20Fast%20Version",
-      "lastfmUrl": "https://www.last.fm/music/Z%C3%A9+Roberto/_/Lotus+72+D+-+Fast+Version",
-      "nowPlaying": false
-    },
-    {
-      "title": "Take It Easy My Brother Charles",
-      "artist": "Jorge Ben Jor",
-      "album": "Jorge Ben",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5c85bfa2f305d8b998779d40d0d929b9.jpg",
-      "url": "https://open.spotify.com/search/Jorge%20Ben%20Jor%20Take%20It%20Easy%20My%20Brother%20Charles",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Jorge+Ben+Jor/_/Take+It+Easy+My+Brother+Charles",
-      "nowPlaying": false
-    },
-    {
-      "title": "Lotus 72 D",
-      "artist": "Zé Roberto",
-      "album": "Lotus 72 D",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0c8a3466a00f54d00022e281f460f5e6.jpg",
-      "url": "https://open.spotify.com/search/Z%C3%A9%20Roberto%20Lotus%2072%20D",
-      "lastfmUrl": "https://www.last.fm/music/Z%C3%A9+Roberto/_/Lotus+72+D",
-      "nowPlaying": false
-    },
-    {
-      "title": "Augusta, Angélica e Consolação",
-      "artist": "Tom Zé",
-      "album": "Dois Momentos - Vol.1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
       "nowPlaying": false
     }
   ]
