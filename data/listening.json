@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-17T18:52:55.734Z",
+  "updated": "2026-02-18T01:53:39.842Z",
   "tracks": [
-    {
-      "title": "Song of Life - Remastered",
-      "artist": "Leftfield",
-      "album": "Leftism",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dfc7f79a9882372802befe9dae78564.jpg",
-      "url": "https://open.spotify.com/search/Leftfield%20Song%20of%20Life%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/Song+of+Life+-+Remastered",
-      "nowPlaying": false
-    },
     {
       "title": "Birth4000",
       "artist": "Floating Points",
@@ -29,57 +20,48 @@
       "nowPlaying": false
     },
     {
+      "title": "My Name",
+      "artist": "McLean",
+      "album": "My Name",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2d420a750a74c728dd829e189e105dc.jpg",
+      "url": "https://open.spotify.com/search/McLean%20My%20Name",
+      "lastfmUrl": "https://www.last.fm/music/McLean/_/My+Name",
+      "nowPlaying": false
+    },
+    {
+      "title": "You Were Sent To This World",
+      "artist": "Johnnie Frierson",
+      "album": "Have You Been Good To Yourself",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/edd50a3499e8e7fb3f5a624b30971ba8.jpg",
+      "url": "https://open.spotify.com/search/Johnnie%20Frierson%20You%20Were%20Sent%20To%20This%20World",
+      "lastfmUrl": "https://www.last.fm/music/Johnnie+Frierson/_/You+Were+Sent+To+This+World",
+      "nowPlaying": false
+    },
+    {
+      "title": "Animal",
+      "artist": "Pryda",
+      "album": "Animal / Miami To Atlanta / Loaded",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/43b28ab26b424f468ffbbbc4c258804e.jpg",
+      "url": "https://open.spotify.com/search/Pryda%20Animal",
+      "lastfmUrl": "https://www.last.fm/music/Pryda/_/Animal",
+      "nowPlaying": false
+    },
+    {
+      "title": "Song of Life - Remastered",
+      "artist": "Leftfield",
+      "album": "Leftism",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dfc7f79a9882372802befe9dae78564.jpg",
+      "url": "https://open.spotify.com/search/Leftfield%20Song%20of%20Life%20-%20Remastered",
+      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/Song+of+Life+-+Remastered",
+      "nowPlaying": false
+    },
+    {
       "title": "Bis",
       "artist": "Arthur Verocai",
       "album": "Encore",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/4390038fd2f1f862896b81e32e9f13ed.jpg",
       "url": "https://open.spotify.com/search/Arthur%20Verocai%20Bis",
       "lastfmUrl": "https://www.last.fm/music/Arthur+Verocai/_/Bis",
-      "nowPlaying": false
-    },
-    {
-      "title": "Passarinha",
-      "artist": "Bala Desejo",
-      "album": "SIM SIM SIM",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2f4dae3e892a6ae478a238ccc128f03f.jpg",
-      "url": "https://open.spotify.com/search/Bala%20Desejo%20Passarinha",
-      "lastfmUrl": "https://www.last.fm/music/Bala+Desejo/_/Passarinha",
-      "nowPlaying": false
-    },
-    {
-      "title": "Tudo o Que Você Podia Ser",
-      "artist": "Milton Nascimento",
-      "album": "Clube Da Esquina",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b5771f26c4fe8d2142a586ee1725f9ca.png",
-      "url": "https://open.spotify.com/search/Milton%20Nascimento%20Tudo%20o%20Que%20Voc%C3%AA%20Podia%20Ser",
-      "lastfmUrl": "https://www.last.fm/music/Milton+Nascimento/_/Tudo+o+Que+Voc%C3%AA+Podia+Ser",
-      "nowPlaying": false
-    },
-    {
-      "title": "Eu Vou Torcer",
-      "artist": "Jorge Ben Jor",
-      "album": "A Tabua de Esmeralda",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2c4f7ef108834fe0cf9b4c74c2cbc951.png",
-      "url": "https://open.spotify.com/search/Jorge%20Ben%20Jor%20Eu%20Vou%20Torcer",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Jorge+Ben+Jor/_/Eu+Vou+Torcer",
-      "nowPlaying": false
-    },
-    {
-      "title": "Essa Moça Tá Diferente",
-      "artist": "Chico Buarque",
-      "album": "Chico Buarque de Hollanda Nº4",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/97d90f5bec5af2af0123376efb0b64bd.jpg",
-      "url": "https://open.spotify.com/search/Chico%20Buarque%20Essa%20Mo%C3%A7a%20T%C3%A1%20Diferente",
-      "lastfmUrl": "https://www.last.fm/music/Chico+Buarque/_/Essa+Mo%C3%A7a+T%C3%A1+Diferente",
-      "nowPlaying": false
-    },
-    {
-      "title": "A gira",
-      "artist": "Trio Ternura",
-      "album": "Trio Ternura (Compacto 1973)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e5f44da7c632ee4bff2d14b837df665.jpg",
-      "url": "https://open.spotify.com/search/Trio%20Ternura%20A%20gira",
-      "lastfmUrl": "https://www.last.fm/music/Trio+Ternura/_/A+gira",
       "nowPlaying": false
     }
   ]
