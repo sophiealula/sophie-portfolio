@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-18T18:49:12.938Z",
+  "updated": "2026-02-19T01:52:42.803Z",
   "tracks": [
+    {
+      "title": "Augusta, Angélica e Consolação",
+      "artist": "Tom Zé",
+      "album": "Dois Momentos - Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
+      "nowPlaying": false
+    },
     {
       "title": "Birth4000",
       "artist": "Floating Points",
@@ -53,15 +62,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dfc7f79a9882372802befe9dae78564.jpg",
       "url": "https://open.spotify.com/search/Leftfield%20Song%20of%20Life%20-%20Remastered",
       "lastfmUrl": "https://www.last.fm/music/Leftfield/_/Song+of+Life+-+Remastered",
-      "nowPlaying": false
-    },
-    {
-      "title": "Bis",
-      "artist": "Arthur Verocai",
-      "album": "Encore",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4390038fd2f1f862896b81e32e9f13ed.jpg",
-      "url": "https://open.spotify.com/search/Arthur%20Verocai%20Bis",
-      "lastfmUrl": "https://www.last.fm/music/Arthur+Verocai/_/Bis",
       "nowPlaying": false
     }
   ]
