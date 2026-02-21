@@ -1,6 +1,42 @@
 {
-  "updated": "2026-02-20T18:40:44.788Z",
+  "updated": "2026-02-21T01:43:58.832Z",
   "tracks": [
+    {
+      "title": "Tracey In My Room - Lazy Dog Bootleg Vocal Mix",
+      "artist": "Everything But the Girl",
+      "album": "Like the Deserts Miss the Rain",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0ccd404f0fc79eb73fc58ebf795bb3.jpg",
+      "url": "https://open.spotify.com/search/Everything%20But%20the%20Girl%20Tracey%20In%20My%20Room%20-%20Lazy%20Dog%20Bootleg%20Vocal%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Everything+But+the+Girl/_/Tracey+In+My+Room+-+Lazy+Dog+Bootleg+Vocal+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Birth4000",
+      "artist": "Floating Points",
+      "album": "Cascade",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
+      "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
+      "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
+      "nowPlaying": false
+    },
+    {
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
+      "nowPlaying": false
+    },
+    {
+      "title": "Dengue Woman Blues",
+      "artist": "Jimmie Vaughan",
+      "album": "The Essential Jimmie Vaughan",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/beb1db8a00b41c3d263830e8b41e6690.png",
+      "url": "https://open.spotify.com/search/Jimmie%20Vaughan%20Dengue%20Woman%20Blues",
+      "lastfmUrl": "https://www.last.fm/music/Jimmie+Vaughan/_/Dengue+Woman+Blues",
+      "nowPlaying": false
+    },
     {
       "title": "Augusta, Angélica e Consolação",
       "artist": "Tom Zé",
@@ -53,24 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
       "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
       "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
-      "nowPlaying": false
-    },
-    {
-      "title": "Fools Gold - Remastered 2009",
-      "artist": "The Stone Roses",
-      "album": "The Stone Roses",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
-      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Fools%20Gold%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "My Name",
-      "artist": "McLean",
-      "album": "My Name",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2d420a750a74c728dd829e189e105dc.jpg",
-      "url": "https://open.spotify.com/search/McLean%20My%20Name",
-      "lastfmUrl": "https://www.last.fm/music/McLean/_/My+Name",
       "nowPlaying": false
     }
   ]
