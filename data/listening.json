@@ -1,6 +1,60 @@
 {
-  "updated": "2026-02-21T18:29:14.807Z",
+  "updated": "2026-02-22T01:51:41.692Z",
   "tracks": [
+    {
+      "title": "Into the Mystic - 2013 Remaster",
+      "artist": "Van Morrison",
+      "album": "Moondance",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+      "url": "https://open.spotify.com/search/Van%20Morrison%20Into%20the%20Mystic%20-%202013%20Remaster",
+      "lastfmUrl": "https://www.last.fm/music/Van+Morrison/_/Into+the+Mystic+-+2013+Remaster",
+      "nowPlaying": true
+    },
+    {
+      "title": "Super Bowl LX Halftime Show - Live",
+      "artist": "Bad Bunny",
+      "album": "Super Bowl LX Halftime Show (Live)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2af0113c1b4f129a4a6f87781bfe1642.jpg",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20Super%20Bowl%20LX%20Halftime%20Show%20-%20Live",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/Super+Bowl+LX+Halftime+Show+-+Live",
+      "nowPlaying": false
+    },
+    {
+      "title": "Making Plans for Nigel",
+      "artist": "XTC",
+      "album": "Drums and Wires",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cd53c193ea660e5f4bc11ea5093d99c8.jpg",
+      "url": "https://open.spotify.com/search/XTC%20Making%20Plans%20for%20Nigel",
+      "lastfmUrl": "https://www.last.fm/music/XTC/_/Making+Plans+for+Nigel",
+      "nowPlaying": false
+    },
+    {
+      "title": "Morning Birds Chirping",
+      "artist": "101 Noise",
+      "album": "Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a0e7da4cd8dc6d4c05e659e3bbb1784f.jpg",
+      "url": "https://open.spotify.com/search/101%20Noise%20Morning%20Birds%20Chirping",
+      "lastfmUrl": "https://www.last.fm/music/101+Noise/_/Morning+Birds+Chirping",
+      "nowPlaying": false
+    },
+    {
+      "title": "CAFé CON RON",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+      "url": "https://open.spotify.com/search/Bad%20Bunny%20CAF%C3%A9%20CON%20RON",
+      "lastfmUrl": "https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON",
+      "nowPlaying": false
+    },
+    {
+      "title": "Rose Pink Cadillac",
+      "artist": "Dope Lemon",
+      "album": "Rose Pink Cadillac",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c4312edbe8cd6ae05a59de8999bcda05.jpg",
+      "url": "https://open.spotify.com/search/Dope%20Lemon%20Rose%20Pink%20Cadillac",
+      "lastfmUrl": "https://www.last.fm/music/Dope+Lemon/_/Rose+Pink+Cadillac",
+      "nowPlaying": false
+    },
     {
       "title": "Tracey In My Room - Lazy Dog Bootleg Vocal Mix",
       "artist": "Everything But the Girl",
@@ -26,69 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
       "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
       "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
-      "nowPlaying": false
-    },
-    {
-      "title": "Dengue Woman Blues",
-      "artist": "Jimmie Vaughan",
-      "album": "The Essential Jimmie Vaughan",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/beb1db8a00b41c3d263830e8b41e6690.png",
-      "url": "https://open.spotify.com/search/Jimmie%20Vaughan%20Dengue%20Woman%20Blues",
-      "lastfmUrl": "https://www.last.fm/music/Jimmie+Vaughan/_/Dengue+Woman+Blues",
-      "nowPlaying": false
-    },
-    {
-      "title": "Augusta, Angélica e Consolação",
-      "artist": "Tom Zé",
-      "album": "Dois Momentos - Vol.1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
-      "nowPlaying": false
-    },
-    {
-      "title": "Song of Life - Remastered",
-      "artist": "Leftfield",
-      "album": "Leftism",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2dfc7f79a9882372802befe9dae78564.jpg",
-      "url": "https://open.spotify.com/search/Leftfield%20Song%20of%20Life%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Leftfield/_/Song+of+Life+-+Remastered",
-      "nowPlaying": false
-    },
-    {
-      "title": "You Were Sent To This World",
-      "artist": "Johnnie Frierson",
-      "album": "Have You Been Good To Yourself",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/edd50a3499e8e7fb3f5a624b30971ba8.jpg",
-      "url": "https://open.spotify.com/search/Johnnie%20Frierson%20You%20Were%20Sent%20To%20This%20World",
-      "lastfmUrl": "https://www.last.fm/music/Johnnie+Frierson/_/You+Were+Sent+To+This+World",
-      "nowPlaying": false
-    },
-    {
-      "title": "Hearing Damage",
-      "artist": "Thom Yorke",
-      "album": "Hearing Damage",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ff022b026b41eeae271c86785a6212a5.jpg",
-      "url": "https://open.spotify.com/search/Thom%20Yorke%20Hearing%20Damage",
-      "lastfmUrl": "https://www.last.fm/music/Thom+Yorke/_/Hearing+Damage",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rosa María - Tangos",
-      "artist": "Camaron De La Isla",
-      "album": "Rosa María (Remastered 2018)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/26814b5bf369290ddd02f1f8c127c27a.jpg",
-      "url": "https://open.spotify.com/search/Camaron%20De%20La%20Isla%20Rosa%20Mar%C3%ADa%20-%20Tangos",
-      "lastfmUrl": "https://www.last.fm/music/Camaron+De+La+Isla/_/Rosa+Mar%C3%ADa+-+Tangos",
-      "nowPlaying": false
-    },
-    {
-      "title": "Bons Momentos",
-      "artist": "Serginho Meriti",
-      "album": "Bons Momentos",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
-      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
-      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
       "nowPlaying": false
     }
   ]
