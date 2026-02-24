@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-23T18:58:00.354Z",
+  "updated": "2026-02-24T01:49:40.882Z",
   "tracks": [
+    {
+      "title": "Inept Apollo",
+      "artist": "Nation of Language",
+      "album": "Inept Apollo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
+      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
+      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "nowPlaying": false
+    },
     {
       "title": "One to Grow On",
       "artist": "The UMC's",
@@ -8,6 +17,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
       "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
       "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
+      "nowPlaying": false
+    },
+    {
+      "title": "Palco",
+      "artist": "Gilberto Gil",
+      "album": "Luar",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e8adf60e66232e59c3d12bc2075bb82c.png",
+      "url": "https://open.spotify.com/search/Gilberto%20Gil%20Palco",
+      "lastfmUrl": "https://www.last.fm/music/Gilberto+Gil/_/Palco",
       "nowPlaying": false
     },
     {
@@ -26,42 +44,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/f2c10b6506d53b725c6967a51c651dea.jpg",
       "url": "https://open.spotify.com/search/Jazz%20Spastiks%20Bombs%20over%20Beats",
       "lastfmUrl": "https://www.last.fm/music/Jazz+Spastiks/_/Bombs+over+Beats",
-      "nowPlaying": false
-    },
-    {
-      "title": "What You Want Is?",
-      "artist": "J. Rawls",
-      "album": "The Essence of J. Rawls (Fifteenth Anniversary Redux)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c3428beedfce1539270d6317c7ecd570.jpg",
-      "url": "https://open.spotify.com/search/J.%20Rawls%20What%20You%20Want%20Is%3F",
-      "lastfmUrl": "https://www.last.fm/music/J.+Rawls/_/What+You+Want+Is%3F",
-      "nowPlaying": false
-    },
-    {
-      "title": "Breakadawn",
-      "artist": "De La Soul",
-      "album": "Buhloone Mindstate",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5b23f694bc7f2f1f525169d1112b587d.png",
-      "url": "https://open.spotify.com/search/De%20La%20Soul%20Breakadawn",
-      "lastfmUrl": "https://www.last.fm/music/De+La+Soul/_/Breakadawn",
-      "nowPlaying": false
-    },
-    {
-      "title": "Morals",
-      "artist": "The UMC's",
-      "album": "Fruits Of Nature",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
-      "url": "https://open.spotify.com/search/The%20UMC's%20Morals",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/Morals",
-      "nowPlaying": false
-    },
-    {
-      "title": "Amazing",
-      "artist": "Grand Puba",
-      "album": "2000",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9d7cc959d31d4af5b7bb73b6fe243f13.jpg",
-      "url": "https://open.spotify.com/search/Grand%20Puba%20Amazing",
-      "lastfmUrl": "https://www.last.fm/music/Grand+Puba/_/Amazing",
       "nowPlaying": false
     }
   ]
