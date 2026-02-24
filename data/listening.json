@@ -1,49 +1,94 @@
 {
-  "updated": "2026-02-24T12:57:38.683Z",
+  "updated": "2026-02-24T18:56:34.971Z",
   "tracks": [
     {
-      "title": "Inept Apollo",
-      "artist": "Nation of Language",
-      "album": "Inept Apollo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b04d63da6574d33b89cd151115ed5aad.png",
-      "url": "https://open.spotify.com/search/Nation%20of%20Language%20Inept%20Apollo",
-      "lastfmUrl": "https://www.last.fm/music/Nation+of+Language/_/Inept+Apollo",
+      "title": "Sambassim - DJ Patife Remix",
+      "artist": "DJ Patife",
+      "album": "Cool Steps Drum 'N' Bass Grooves",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b93c951d8663b9c14369ded4e9547036.jpg",
+      "url": "https://open.spotify.com/search/DJ%20Patife%20Sambassim%20-%20DJ%20Patife%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/DJ+Patife/_/Sambassim+-+DJ+Patife+Remix",
+      "nowPlaying": true
+    },
+    {
+      "title": "She's So Cold - Remastered 2009",
+      "artist": "The Rolling Stones",
+      "album": "Emotional Rescue (2009 Re-Mastered)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f01ec41c4a103e3b9224656292565f02.jpg",
+      "url": "https://open.spotify.com/search/The%20Rolling%20Stones%20She's%20So%20Cold%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Rolling+Stones/_/She%27s+So+Cold+-+Remastered+2009",
       "nowPlaying": false
     },
     {
-      "title": "One to Grow On",
-      "artist": "The UMC's",
-      "album": "Fruits Of Nature",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
-      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
+      "title": "Blackwater - 128 full strings instrumental",
+      "artist": "Octave One",
+      "album": "One Black Water (feat. Ann Saunderson)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/524444f4a821c05b40a4f1ae2e17de20.jpg",
+      "url": "https://open.spotify.com/search/Octave%20One%20Blackwater%20-%20128%20full%20strings%20instrumental",
+      "lastfmUrl": "https://www.last.fm/music/Octave+One/_/Blackwater+-+128+full+strings+instrumental",
       "nowPlaying": false
     },
     {
-      "title": "Palco",
-      "artist": "Gilberto Gil",
-      "album": "Luar",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e8adf60e66232e59c3d12bc2075bb82c.png",
-      "url": "https://open.spotify.com/search/Gilberto%20Gil%20Palco",
-      "lastfmUrl": "https://www.last.fm/music/Gilberto+Gil/_/Palco",
+      "title": "Take It Easy My Brother Charles",
+      "artist": "Jorge Ben Jor",
+      "album": "Jorge Ben",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5c85bfa2f305d8b998779d40d0d929b9.jpg",
+      "url": "https://open.spotify.com/search/Jorge%20Ben%20Jor%20Take%20It%20Easy%20My%20Brother%20Charles",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/Jorge+Ben+Jor/_/Take+It+Easy+My+Brother+Charles",
       "nowPlaying": false
     },
     {
-      "title": "Champion",
-      "artist": "Rampa",
-      "album": "Champion",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/41d32cd2788dc432e0fc91fff8661cd3.jpg",
-      "url": "https://open.spotify.com/search/Rampa%20Champion",
-      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Champion",
+      "title": "Give Me the Beat",
+      "artist": "Ghostland Observatory",
+      "album": "Codename: Rondo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a518c85b6e4ad6ae29074f8bf3fe8c2c.jpg",
+      "url": "https://open.spotify.com/search/Ghostland%20Observatory%20Give%20Me%20the%20Beat",
+      "lastfmUrl": "https://www.last.fm/music/Ghostland+Observatory/_/Give+Me+the+Beat",
       "nowPlaying": false
     },
     {
-      "title": "Bombs over Beats",
-      "artist": "Jazz Spastiks",
-      "album": "Green Street (Deluxe Edition)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f2c10b6506d53b725c6967a51c651dea.jpg",
-      "url": "https://open.spotify.com/search/Jazz%20Spastiks%20Bombs%20over%20Beats",
-      "lastfmUrl": "https://www.last.fm/music/Jazz+Spastiks/_/Bombs+over+Beats",
+      "title": "Fragments of Time (feat. Todd Edwards)",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/11dd7e48a1f042c688bf54985f01d088.png",
+      "url": "https://open.spotify.com/search/Daft%20Punk%20Fragments%20of%20Time%20(feat.%20Todd%20Edwards)",
+      "lastfmUrl": "https://www.last.fm/music/Daft+Punk/_/Fragments+of+Time+(feat.+Todd+Edwards)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Angst in My Pants",
+      "artist": "Sparks",
+      "album": "Angst in My Pants",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8a75dd6d628c9ead8e143d57f7cc0763.png",
+      "url": "https://open.spotify.com/search/Sparks%20Angst%20in%20My%20Pants",
+      "lastfmUrl": "https://www.last.fm/music/Sparks/_/Angst+in+My+Pants",
+      "nowPlaying": false
+    },
+    {
+      "title": "Get Fly (I Wanna)",
+      "artist": "Lewis OfMan",
+      "album": "Get Fly (I Wanna)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8f23854b12323302699decdbfebdf757.png",
+      "url": "https://open.spotify.com/search/Lewis%20OfMan%20Get%20Fly%20(I%20Wanna)",
+      "lastfmUrl": "https://www.last.fm/music/Lewis+OfMan/_/Get+Fly+(I+Wanna)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Hang On to Your Love",
+      "artist": "Sade",
+      "album": "The Best of Sade",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e9f44a18466985b01748600ee4892a3.png",
+      "url": "https://open.spotify.com/search/Sade%20Hang%20On%20to%20Your%20Love",
+      "lastfmUrl": "https://www.last.fm/music/Sade/_/Hang+On+to+Your+Love",
+      "nowPlaying": false
+    },
+    {
+      "title": "So Weit Wie Noch Nie",
+      "artist": "Jürgen Paape",
+      "album": "Kompilation",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/896a477e4d8946cd8cd48336cf459cdc.png",
+      "url": "https://open.spotify.com/search/J%C3%BCrgen%20Paape%20So%20Weit%20Wie%20Noch%20Nie",
+      "lastfmUrl": "https://www.last.fm/music/J%C3%BCrgen+Paape/_/So+Weit+Wie+Noch+Nie",
       "nowPlaying": false
     }
   ]
