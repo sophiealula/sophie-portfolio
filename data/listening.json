@@ -1,22 +1,13 @@
 {
-  "updated": "2026-02-25T12:56:40.101Z",
+  "updated": "2026-02-25T19:00:46.621Z",
   "tracks": [
     {
-      "title": "Down Low",
-      "artist": "Main Source",
-      "album": "Fuck What You Think",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/70fa98b5d31644e930d65eb6f6848904.jpg",
-      "url": "https://open.spotify.com/search/Main%20Source%20Down%20Low",
-      "lastfmUrl": "https://www.last.fm/music/Main+Source/_/Down+Low",
-      "nowPlaying": false
-    },
-    {
-      "title": "A Little Samba",
-      "artist": "Ugly Duckling",
-      "album": "Journey to Anywhere",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/61669c41120b6faf22ea88d95b00b9a5.png",
-      "url": "https://open.spotify.com/search/Ugly%20Duckling%20A%20Little%20Samba",
-      "lastfmUrl": "https://www.last.fm/music/Ugly+Duckling/_/A+Little+Samba",
+      "title": "Rocky Raccoon - Remastered 2009",
+      "artist": "The Beatles",
+      "album": "The Beatles (Remastered)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
+      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
       "nowPlaying": false
     },
     {
@@ -29,48 +20,39 @@
       "nowPlaying": false
     },
     {
-      "title": "Rocky Raccoon - Remastered 2009",
-      "artist": "The Beatles",
-      "album": "The Beatles (Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
-      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
+      "title": "Les Gout",
+      "artist": "Rampa",
+      "album": "Les Gout",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bc98ec569796f48e19ccb312c8773c60.png",
+      "url": "https://open.spotify.com/search/Rampa%20Les%20Gout",
+      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Les+Gout",
       "nowPlaying": false
     },
     {
-      "title": "Dear Prudence - Remastered 2009",
-      "artist": "The Beatles",
-      "album": "The Beatles (Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
-      "url": "https://open.spotify.com/search/The%20Beatles%20Dear%20Prudence%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Dear+Prudence+-+Remastered+2009",
+      "title": "Champion",
+      "artist": "Rampa",
+      "album": "Champion",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/41d32cd2788dc432e0fc91fff8661cd3.jpg",
+      "url": "https://open.spotify.com/search/Rampa%20Champion",
+      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Champion",
       "nowPlaying": false
     },
     {
-      "title": "Into the Mystic - 2013 Remaster",
-      "artist": "Van Morrison",
-      "album": "Moondance",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-      "url": "https://open.spotify.com/search/Van%20Morrison%20Into%20the%20Mystic%20-%202013%20Remaster",
-      "lastfmUrl": "https://www.last.fm/music/Van+Morrison/_/Into+the+Mystic+-+2013+Remaster",
+      "title": "U Like My Style",
+      "artist": "Shortie No Mass",
+      "album": "Like This / U Like My Style",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d9cbc164a09ea955947490187dc980b.jpg",
+      "url": "https://open.spotify.com/search/Shortie%20No%20Mass%20U%20Like%20My%20Style",
+      "lastfmUrl": "https://www.last.fm/music/Shortie+No+Mass/_/U+Like+My+Style",
       "nowPlaying": false
     },
     {
-      "title": "Clair de lune, L. 32",
-      "artist": "Claude Debussy",
-      "album": "Debussy: Clair de Lune and Other Piano Favourites",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ee22158e6644bab74d7c1a0677b6faa.png",
-      "url": "https://open.spotify.com/search/Claude%20Debussy%20Clair%20de%20lune%2C%20L.%2032",
-      "lastfmUrl": "https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune,+L.+32",
-      "nowPlaying": false
-    },
-    {
-      "title": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
-      "artist": "Franz Liszt",
-      "album": "Liszt - My Piano Hero",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfeb527cb53030d5815f41d718246a9b.jpg",
-      "url": "https://open.spotify.com/search/Franz%20Liszt%20La%20campanella%20in%20G-Sharp%20Minor%20(From%20%22Grandes%20%C3%A9tudes%20de%20Paganini%22%2C%20S.%20141%2F3)",
-      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/La+campanella+in+G-Sharp+Minor+(From+%22Grandes+%C3%A9tudes+de+Paganini%22,+S.+141%2F3)",
+      "title": "Down Low",
+      "artist": "Main Source",
+      "album": "Fuck What You Think",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/70fa98b5d31644e930d65eb6f6848904.jpg",
+      "url": "https://open.spotify.com/search/Main%20Source%20Down%20Low",
+      "lastfmUrl": "https://www.last.fm/music/Main+Source/_/Down+Low",
       "nowPlaying": false
     }
   ]
