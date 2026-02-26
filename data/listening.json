@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T01:48:05.853Z",
+  "updated": "2026-02-26T06:55:55.940Z",
   "tracks": [
     {
       "title": "Birth4000",
@@ -8,7 +8,7 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
       "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
       "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
-      "nowPlaying": true
+      "nowPlaying": false
     },
     {
       "title": "Mood Swings",
@@ -71,15 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
       "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
       "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
-      "nowPlaying": false
-    },
-    {
-      "title": "The Promise",
-      "artist": "When In Rome",
-      "album": "When In Rome",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/11dee75c74979fad658a6a03380ad024.jpg",
-      "url": "https://open.spotify.com/search/When%20In%20Rome%20The%20Promise",
-      "lastfmUrl": "https://www.last.fm/music/When+In+Rome/_/The+Promise",
       "nowPlaying": false
     }
   ]
