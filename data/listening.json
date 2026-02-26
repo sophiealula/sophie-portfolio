@@ -1,22 +1,49 @@
 {
-  "updated": "2026-02-25T19:00:46.621Z",
+  "updated": "2026-02-26T01:48:05.853Z",
   "tracks": [
     {
-      "title": "Rocky Raccoon - Remastered 2009",
-      "artist": "The Beatles",
-      "album": "The Beatles (Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
-      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
+      "title": "Birth4000",
+      "artist": "Floating Points",
+      "album": "Cascade",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
+      "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
+      "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
+      "nowPlaying": true
+    },
+    {
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
       "nowPlaying": false
     },
     {
-      "title": "One to Grow On",
-      "artist": "The UMC's",
-      "album": "Fruits Of Nature",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
-      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
+      "title": "My Name",
+      "artist": "McLean",
+      "album": "My Name",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2d420a750a74c728dd829e189e105dc.jpg",
+      "url": "https://open.spotify.com/search/McLean%20My%20Name",
+      "lastfmUrl": "https://www.last.fm/music/McLean/_/My+Name",
+      "nowPlaying": false
+    },
+    {
+      "title": "You Were Sent To This World",
+      "artist": "Johnnie Frierson",
+      "album": "Have You Been Good To Yourself",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/edd50a3499e8e7fb3f5a624b30971ba8.jpg",
+      "url": "https://open.spotify.com/search/Johnnie%20Frierson%20You%20Were%20Sent%20To%20This%20World",
+      "lastfmUrl": "https://www.last.fm/music/Johnnie+Frierson/_/You+Were+Sent+To+This+World",
+      "nowPlaying": false
+    },
+    {
+      "title": "Into the Mystic - 2013 Remaster",
+      "artist": "Van Morrison",
+      "album": "Moondance",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ac905c7ee067e527aca9643ba7a1a21.jpg",
+      "url": "https://open.spotify.com/search/Van%20Morrison%20Into%20the%20Mystic%20-%202013%20Remaster",
+      "lastfmUrl": "https://www.last.fm/music/Van+Morrison/_/Into+the+Mystic+-+2013+Remaster",
       "nowPlaying": false
     },
     {
@@ -38,21 +65,21 @@
       "nowPlaying": false
     },
     {
-      "title": "U Like My Style",
-      "artist": "Shortie No Mass",
-      "album": "Like This / U Like My Style",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d9cbc164a09ea955947490187dc980b.jpg",
-      "url": "https://open.spotify.com/search/Shortie%20No%20Mass%20U%20Like%20My%20Style",
-      "lastfmUrl": "https://www.last.fm/music/Shortie+No+Mass/_/U+Like+My+Style",
+      "title": "One to Grow On",
+      "artist": "The UMC's",
+      "album": "Fruits Of Nature",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
+      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
       "nowPlaying": false
     },
     {
-      "title": "Down Low",
-      "artist": "Main Source",
-      "album": "Fuck What You Think",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/70fa98b5d31644e930d65eb6f6848904.jpg",
-      "url": "https://open.spotify.com/search/Main%20Source%20Down%20Low",
-      "lastfmUrl": "https://www.last.fm/music/Main+Source/_/Down+Low",
+      "title": "The Promise",
+      "artist": "When In Rome",
+      "album": "When In Rome",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/11dee75c74979fad658a6a03380ad024.jpg",
+      "url": "https://open.spotify.com/search/When%20In%20Rome%20The%20Promise",
+      "lastfmUrl": "https://www.last.fm/music/When+In+Rome/_/The+Promise",
       "nowPlaying": false
     }
   ]
