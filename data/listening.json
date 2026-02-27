@@ -1,14 +1,14 @@
 {
-  "updated": "2026-02-27T01:46:56.405Z",
+  "updated": "2026-02-27T06:48:02.890Z",
   "tracks": [
     {
-      "title": "Rocky Raccoon - Remastered 2009",
-      "artist": "The Beatles",
-      "album": "The Beatles (Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
-      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
-      "nowPlaying": true
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
+      "nowPlaying": false
     },
     {
       "title": "You Were Sent To This World",
@@ -53,6 +53,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
       "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
       "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
+      "nowPlaying": false
+    },
+    {
+      "title": "Rocky Raccoon - Remastered 2009",
+      "artist": "The Beatles",
+      "album": "The Beatles (Remastered)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
+      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
       "nowPlaying": false
     }
   ]
