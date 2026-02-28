@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T01:28:09.952Z",
+  "updated": "2026-02-28T06:33:01.986Z",
   "tracks": [
     {
       "title": "Less Than 3 - DJ Subaru Remix",
@@ -17,6 +17,24 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "url": "https://open.spotify.com/search/Pacific%20Coliseum%20Yeah!",
       "lastfmUrl": "https://www.last.fm/music/Pacific+Coliseum/_/Yeah!",
+      "nowPlaying": false
+    },
+    {
+      "title": "Canto De Ossanha",
+      "artist": "Daúde",
+      "album": "Neguinha Te Amo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/882b5c9296a34b98be42184fe66941b7.jpg",
+      "url": "https://open.spotify.com/search/Da%C3%BAde%20Canto%20De%20Ossanha",
+      "lastfmUrl": "https://www.last.fm/music/Da%C3%BAde/_/Canto+De+Ossanha",
+      "nowPlaying": false
+    },
+    {
+      "title": "Heavy",
+      "artist": "Momoko Gill",
+      "album": "Momoko",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0dff43b8fa3ea46554811e696986626a.jpg",
+      "url": "https://open.spotify.com/search/Momoko%20Gill%20Heavy",
+      "lastfmUrl": "https://www.last.fm/music/Momoko+Gill/_/Heavy",
       "nowPlaying": false
     },
     {
@@ -53,24 +71,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/11dee75c74979fad658a6a03380ad024.jpg",
       "url": "https://open.spotify.com/search/When%20In%20Rome%20The%20Promise",
       "lastfmUrl": "https://www.last.fm/music/When+In+Rome/_/The+Promise",
-      "nowPlaying": false
-    },
-    {
-      "title": "Heavy",
-      "artist": "Momoko Gill",
-      "album": "Momoko",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0dff43b8fa3ea46554811e696986626a.jpg",
-      "url": "https://open.spotify.com/search/Momoko%20Gill%20Heavy",
-      "lastfmUrl": "https://www.last.fm/music/Momoko+Gill/_/Heavy",
-      "nowPlaying": false
-    },
-    {
-      "title": "Birth4000",
-      "artist": "Floating Points",
-      "album": "Cascade",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
-      "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
-      "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
       "nowPlaying": false
     }
   ]
