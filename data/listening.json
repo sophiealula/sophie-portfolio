@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-03T12:49:41.543Z",
+  "updated": "2026-03-03T18:42:03.721Z",
   "tracks": [
+    {
+      "title": "Less Than 3 - DJ Subaru Remix",
+      "artist": "Das Druid",
+      "album": "Less Than 3 (DJ Subaru Remix)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Das%20Druid%20Less%20Than%203%20-%20DJ%20Subaru%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/Das+Druid/_/Less+Than+3+-+DJ+Subaru+Remix",
+      "nowPlaying": false
+    },
     {
       "title": "The Promise",
       "artist": "When In Rome",
@@ -80,15 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/41d32cd2788dc432e0fc91fff8661cd3.jpg",
       "url": "https://open.spotify.com/search/Rampa%20Champion",
       "lastfmUrl": "https://www.last.fm/music/Rampa/_/Champion",
-      "nowPlaying": false
-    },
-    {
-      "title": "One to Grow On",
-      "artist": "The UMC's",
-      "album": "Fruits Of Nature",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
-      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
       "nowPlaying": false
     }
   ]
