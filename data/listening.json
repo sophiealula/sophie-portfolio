@@ -1,6 +1,87 @@
 {
-  "updated": "2026-03-04T12:48:13.994Z",
+  "updated": "2026-03-04T18:42:07.682Z",
   "tracks": [
+    {
+      "title": "My Love For You",
+      "artist": "ESG",
+      "album": "Come Away With ESG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec2de54efdae4e3ea08d0d757e015054.jpg",
+      "url": "https://open.spotify.com/search/ESG%20My%20Love%20For%20You",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/My+Love+For+You",
+      "nowPlaying": false
+    },
+    {
+      "title": "I'm in Love With a German Film Star",
+      "artist": "The Passions",
+      "album": "Thirty Thousand Feet Over China",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8334a036bd53910107be8755c6ef8858.jpg",
+      "url": "https://open.spotify.com/search/The%20Passions%20I'm%20in%20Love%20With%20a%20German%20Film%20Star",
+      "lastfmUrl": "https://www.last.fm/music/The+Passions/_/I%27m+in+Love+With+a+German+Film+Star",
+      "nowPlaying": false
+    },
+    {
+      "title": "Adventures in Success",
+      "artist": "Will Powers",
+      "album": "Dancing For Mental Health",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/527e1e6f9fc96215bbf90f472d60a97a.jpg",
+      "url": "https://open.spotify.com/search/Will%20Powers%20Adventures%20in%20Success",
+      "lastfmUrl": "https://www.last.fm/music/Will+Powers/_/Adventures+in+Success",
+      "nowPlaying": false
+    },
+    {
+      "title": "Something About Us",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1340e9e1082cf0dc748583b7eefce6d5.jpg",
+      "url": "https://open.spotify.com/search/Daft%20Punk%20Something%20About%20Us",
+      "lastfmUrl": "https://www.last.fm/music/Daft+Punk/_/Something+About+Us",
+      "nowPlaying": false
+    },
+    {
+      "title": "Rip It Up",
+      "artist": "Orange Juice",
+      "album": "Rip It Up",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/380d0273124e0d96cb47a288bb1c1fd8.jpg",
+      "url": "https://open.spotify.com/search/Orange%20Juice%20Rip%20It%20Up",
+      "lastfmUrl": "https://www.last.fm/music/Orange+Juice/_/Rip+It+Up",
+      "nowPlaying": false
+    },
+    {
+      "title": "Romanzo (From \"Novecento - 1900\")",
+      "artist": "Ennio Morricone",
+      "album": "Ennio Morricone The Greatest Hits",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/24a0432f7d9186c4a1a9ecb396a4529c.jpg",
+      "url": "https://open.spotify.com/search/Ennio%20Morricone%20Romanzo%20(From%20%22Novecento%20-%201900%22)",
+      "lastfmUrl": "https://www.last.fm/music/Ennio+Morricone/_/Romanzo+(From+%22Novecento+-+1900%22)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cashew (Just Piano Version)",
+      "artist": "FKJ",
+      "album": "Just Piano",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f354de231f3be3de6eecc2c030e44995.jpg",
+      "url": "https://open.spotify.com/search/FKJ%20Cashew%20(Just%20Piano%20Version)",
+      "lastfmUrl": "https://www.last.fm/music/FKJ/_/Cashew+(Just+Piano+Version)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Piano Sonata No. 8 in C minor, Op. 13 \"Pathétique\": II. Adagio cantabile",
+      "artist": "Ludwig van Beethoven",
+      "album": "Beethoven: The Piano Sonatas",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4bf8299000984514a10fa6b350ed6440.jpg",
+      "url": "https://open.spotify.com/search/Ludwig%20van%20Beethoven%20Piano%20Sonata%20No.%208%20in%20C%20minor%2C%20Op.%2013%20%22Path%C3%A9tique%22%3A%20II.%20Adagio%20cantabile",
+      "lastfmUrl": "https://www.last.fm/music/Ludwig+van+Beethoven/_/Piano+Sonata+No.+8+in+C+minor,+Op.+13+%22Path%C3%A9tique%22:+II.+Adagio+cantabile",
+      "nowPlaying": false
+    },
+    {
+      "title": "Sleepwalking",
+      "artist": "Lily Allen",
+      "album": "West End Girl",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fbba78ef9a94cd173e588271b7b5628.png",
+      "url": "https://open.spotify.com/search/Lily%20Allen%20Sleepwalking",
+      "lastfmUrl": "https://www.last.fm/music/Lily+Allen/_/Sleepwalking",
+      "nowPlaying": false
+    },
     {
       "title": "Ruminating",
       "artist": "Lily Allen",
@@ -8,87 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fbba78ef9a94cd173e588271b7b5628.png",
       "url": "https://open.spotify.com/search/Lily%20Allen%20Ruminating",
       "lastfmUrl": "https://www.last.fm/music/Lily+Allen/_/Ruminating",
-      "nowPlaying": false
-    },
-    {
-      "title": "West End Girl",
-      "artist": "Lily Allen",
-      "album": "West End Girl",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3fbba78ef9a94cd173e588271b7b5628.png",
-      "url": "https://open.spotify.com/search/Lily%20Allen%20West%20End%20Girl",
-      "lastfmUrl": "https://www.last.fm/music/Lily+Allen/_/West+End+Girl",
-      "nowPlaying": false
-    },
-    {
-      "title": "Into the Mystic - 2013 Remaster",
-      "artist": "Van Morrison",
-      "album": "Moondance",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ac905c7ee067e527aca9643ba7a1a21.jpg",
-      "url": "https://open.spotify.com/search/Van%20Morrison%20Into%20the%20Mystic%20-%202013%20Remaster",
-      "lastfmUrl": "https://www.last.fm/music/Van+Morrison/_/Into+the+Mystic+-+2013+Remaster",
-      "nowPlaying": false
-    },
-    {
-      "title": "Les Gout",
-      "artist": "Rampa",
-      "album": "Les Gout",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bc98ec569796f48e19ccb312c8773c60.png",
-      "url": "https://open.spotify.com/search/Rampa%20Les%20Gout",
-      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Les+Gout",
-      "nowPlaying": false
-    },
-    {
-      "title": "Champion",
-      "artist": "Rampa",
-      "album": "Champion",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/41d32cd2788dc432e0fc91fff8661cd3.jpg",
-      "url": "https://open.spotify.com/search/Rampa%20Champion",
-      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Champion",
-      "nowPlaying": false
-    },
-    {
-      "title": "One to Grow On",
-      "artist": "The UMC's",
-      "album": "Fruits Of Nature",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
-      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rocky Raccoon - Remastered 2009",
-      "artist": "The Beatles",
-      "album": "The Beatles (Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/78bf9324efbc7583e6cae6f707568e59.jpg",
-      "url": "https://open.spotify.com/search/The%20Beatles%20Rocky%20Raccoon%20-%20Remastered%202009",
-      "lastfmUrl": "https://www.last.fm/music/The+Beatles/_/Rocky+Raccoon+-+Remastered+2009",
-      "nowPlaying": false
-    },
-    {
-      "title": "El lado mas bestia de la vida",
-      "artist": "Albert Pla",
-      "album": "Albert Pla Supone A Fonollosa",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e4d9b9978314f27a4836cc7d022151b.jpg",
-      "url": "https://open.spotify.com/search/Albert%20Pla%20El%20lado%20mas%20bestia%20de%20la%20vida",
-      "lastfmUrl": "https://www.last.fm/music/Albert+Pla/_/El+lado+mas+bestia+de+la+vida",
-      "nowPlaying": false
-    },
-    {
-      "title": "Nocturne en mi bémol majeur, op. 9 no. 2",
-      "artist": "Frédéric Chopin",
-      "album": "CHOPIN: Nocturnes, Vol. 1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/01e6bba0e5ac7c1305177bf7e6f47d85.jpg",
-      "url": "https://open.spotify.com/search/Fr%C3%A9d%C3%A9ric%20Chopin%20Nocturne%20en%20mi%20b%C3%A9mol%20majeur%2C%20op.%209%20no.%202",
-      "lastfmUrl": "https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+en+mi+b%C3%A9mol+majeur,+op.+9+no.+2",
-      "nowPlaying": false
-    },
-    {
-      "title": "Miroirs: III. Une Barque sur l'Océan",
-      "artist": "Belle Chen",
-      "album": "Mediterranean Sounds",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9427b6250bcca3c847b2ea8f994e8099.jpg",
-      "url": "https://open.spotify.com/search/Belle%20Chen%20Miroirs%3A%20III.%20Une%20Barque%20sur%20l'Oc%C3%A9an",
-      "lastfmUrl": "https://www.last.fm/music/Belle+Chen/_/Miroirs:+III.+Une+Barque+sur+l%27Oc%C3%A9an",
       "nowPlaying": false
     }
   ]
