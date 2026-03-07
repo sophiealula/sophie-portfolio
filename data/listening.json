@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-07T01:42:24.784Z",
+  "updated": "2026-03-07T06:34:57.027Z",
   "tracks": [
+    {
+      "title": "Tidal Wave",
+      "artist": "Tom Misch",
+      "album": "What Kinda Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/08e68a01b02f096c4a55ea98fd0e30c2.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Tidal%20Wave",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Tidal+Wave",
+      "nowPlaying": false
+    },
+    {
+      "title": "Nightrider",
+      "artist": "Tom Misch",
+      "album": "What Kinda Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/08e68a01b02f096c4a55ea98fd0e30c2.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Nightrider",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Nightrider",
+      "nowPlaying": false
+    },
     {
       "title": "Less Than 3 - DJ Subaru Remix",
       "artist": "Das Druid",
@@ -8,6 +26,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "url": "https://open.spotify.com/search/Das%20Druid%20Less%20Than%203%20-%20DJ%20Subaru%20Remix",
       "lastfmUrl": "https://www.last.fm/music/Das+Druid/_/Less+Than+3+-+DJ+Subaru+Remix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Canto De Ossanha",
+      "artist": "Daúde",
+      "album": "Neguinha Te Amo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/882b5c9296a34b98be42184fe66941b7.jpg",
+      "url": "https://open.spotify.com/search/Da%C3%BAde%20Canto%20De%20Ossanha",
+      "lastfmUrl": "https://www.last.fm/music/Da%C3%BAde/_/Canto+De+Ossanha",
       "nowPlaying": false
     },
     {
@@ -62,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/6e8d5d5ca3c27594162651accd47cb7e.jpg",
       "url": "https://open.spotify.com/search/Clairo%20Juna",
       "lastfmUrl": "https://www.last.fm/music/Clairo/_/Juna",
-      "nowPlaying": false
-    },
-    {
-      "title": "theclubrock",
-      "artist": "Benny Bellson",
-      "album": "theclubrock",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5d8f533bc7e91f8242ffc563b5c47c00.png",
-      "url": "https://open.spotify.com/search/Benny%20Bellson%20theclubrock",
-      "lastfmUrl": "https://www.last.fm/music/Benny+Bellson/_/theclubrock",
-      "nowPlaying": false
-    },
-    {
-      "title": "Illegal",
-      "artist": "PinkPantheress",
-      "album": "Fancy That",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Illegal",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Illegal",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "nowPlaying": false
     }
   ]
