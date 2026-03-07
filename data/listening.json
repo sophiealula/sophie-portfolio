@@ -1,6 +1,60 @@
 {
-  "updated": "2026-03-06T18:38:35.449Z",
+  "updated": "2026-03-07T01:42:24.784Z",
   "tracks": [
+    {
+      "title": "Less Than 3 - DJ Subaru Remix",
+      "artist": "Das Druid",
+      "album": "Less Than 3 (DJ Subaru Remix)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Das%20Druid%20Less%20Than%203%20-%20DJ%20Subaru%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/Das+Druid/_/Less+Than+3+-+DJ+Subaru+Remix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Yeah!",
+      "artist": "Pacific Coliseum",
+      "album": "Yeah!",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Pacific%20Coliseum%20Yeah!",
+      "lastfmUrl": "https://www.last.fm/music/Pacific+Coliseum/_/Yeah!",
+      "nowPlaying": false
+    },
+    {
+      "title": "Feel So Good",
+      "artist": "Lovebirds",
+      "album": "Feel so Good",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a7c24a46ff0b6f452bd34029db455f1.jpg",
+      "url": "https://open.spotify.com/search/Lovebirds%20Feel%20So%20Good",
+      "lastfmUrl": "https://www.last.fm/music/Lovebirds/_/Feel+So+Good",
+      "nowPlaying": false
+    },
+    {
+      "title": "My Love For You",
+      "artist": "ESG",
+      "album": "Come Away With ESG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec2de54efdae4e3ea08d0d757e015054.jpg",
+      "url": "https://open.spotify.com/search/ESG%20My%20Love%20For%20You",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/My+Love+For+You",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantaloop 2004: Bossa Mix",
+      "artist": "Us3",
+      "album": "Questions",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a144020f865c52e3e02259aeb589f97e.jpg",
+      "url": "https://open.spotify.com/search/Us3%20Cantaloop%202004%3A%20Bossa%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Us3/_/Cantaloop+2004:+Bossa+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "album": "WHERE IS MY HUSBAND!",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d699b39671911b7dfc69d4c0acdcc4f1.png",
+      "url": "https://open.spotify.com/search/RAYE%20WHERE%20IS%20MY%20HUSBAND!",
+      "lastfmUrl": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND!",
+      "nowPlaying": false
+    },
     {
       "title": "Juna",
       "artist": "Clairo",
@@ -35,60 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
       "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
       "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside",
-      "artist": "PinkPantheress",
-      "album": "Fancy That",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside",
-      "nowPlaying": false
-    },
-    {
-      "title": "Pain",
-      "artist": "PinkPantheress",
-      "album": "to hell with it",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b61a72706919e942872cbdf59b604275.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Pain",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Pain",
-      "nowPlaying": false
-    },
-    {
-      "title": "You Know What",
-      "artist": "N.E.R.D",
-      "album": "Seeing Sounds",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1e25f13c8755410299ea3e9a434725b7.png",
-      "url": "https://open.spotify.com/search/N.E.R.D%20You%20Know%20What",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/N.E.R.D/_/You+Know+What",
-      "nowPlaying": false
-    },
-    {
-      "title": "Big Time Sensuality",
-      "artist": "Björk",
-      "album": "Debut",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7098faeeba40a168cea952f95204a89a.jpg",
-      "url": "https://open.spotify.com/search/Bj%C3%B6rk%20Big%20Time%20Sensuality",
-      "lastfmUrl": "https://www.last.fm/music/Bj%C3%B6rk/_/Big+Time+Sensuality",
-      "nowPlaying": false
-    },
-    {
-      "title": "Spring",
-      "artist": "Saint Etienne",
-      "album": "Foxbase Alpha",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/551d6eaa8f157062ca9d7dc61f341471.jpg",
-      "url": "https://open.spotify.com/search/Saint%20Etienne%20Spring",
-      "lastfmUrl": "https://www.last.fm/music/Saint+Etienne/_/Spring",
-      "nowPlaying": false
-    },
-    {
-      "title": "Tonight",
-      "artist": "PinkPantheress",
-      "album": "Fancy That",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Tonight",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Tonight",
       "nowPlaying": false
     }
   ]
