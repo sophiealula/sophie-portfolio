@@ -1,40 +1,67 @@
 {
-  "updated": "2026-03-07T18:28:22.230Z",
+  "updated": "2026-03-08T01:49:58.661Z",
   "tracks": [
     {
-      "title": "Pop Star",
-      "artist": "Coco & Clair Clair",
-      "album": "Sexy",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c8f26b74802ef095a3bd166778b65e9e.jpg",
-      "url": "https://open.spotify.com/search/Coco%20%26%20Clair%20Clair%20Pop%20Star",
-      "lastfmUrl": "https://www.last.fm/music/Coco+&+Clair+Clair/_/Pop+Star",
+      "title": "Augusta, Angélica e Consolação",
+      "artist": "Tom Zé",
+      "album": "Dois Momentos - Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d2cf596f58fbb3b13d6dda2a05cf8471.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Z%C3%A9%20Augusta%2C%20Ang%C3%A9lica%20e%20Consola%C3%A7%C3%A3o",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Z%C3%A9/_/Augusta,+Ang%C3%A9lica+e+Consola%C3%A7%C3%A3o",
       "nowPlaying": false
     },
     {
-      "title": "Enjoy Yourself",
-      "artist": "Berryblue",
-      "album": "Uh Oh",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8ff77d996a2c5ec98aab3534028ed7a2.jpg",
-      "url": "https://open.spotify.com/search/Berryblue%20Enjoy%20Yourself",
-      "lastfmUrl": "https://www.last.fm/music/Berryblue/_/Enjoy+Yourself",
+      "title": "Birth4000",
+      "artist": "Floating Points",
+      "album": "Cascade",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5234882235191df89ba750361eb6128f.jpg",
+      "url": "https://open.spotify.com/search/Floating%20Points%20Birth4000",
+      "lastfmUrl": "https://www.last.fm/music/Floating+Points/_/Birth4000",
       "nowPlaying": false
     },
     {
-      "title": "Fame Is a Gun",
-      "artist": "Addison Rae",
-      "album": "Addison",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/16cf624f60941f15aa0ddef16dba430e.png",
-      "url": "https://open.spotify.com/search/Addison%20Rae%20Fame%20Is%20a%20Gun",
-      "lastfmUrl": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+      "title": "Mood Swings",
+      "artist": "Little Simz",
+      "album": "DROP 7",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c9472936a57f7940512624803f23b3f3.jpg",
+      "url": "https://open.spotify.com/search/Little%20Simz%20Mood%20Swings",
+      "lastfmUrl": "https://www.last.fm/music/Little+Simz/_/Mood+Swings",
       "nowPlaying": false
     },
     {
-      "title": "Alter Ego (with JT)",
-      "artist": "Doechii",
-      "album": "Alter Ego (with JT)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec6b57bccdb99c83bb68e7ccd7d6fe97.jpg",
-      "url": "https://open.spotify.com/search/Doechii%20Alter%20Ego%20(with%20JT)",
-      "lastfmUrl": "https://www.last.fm/music/Doechii/_/Alter+Ego+(with+JT)",
+      "title": "Champion",
+      "artist": "Rampa",
+      "album": "Champion",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/41d32cd2788dc432e0fc91fff8661cd3.jpg",
+      "url": "https://open.spotify.com/search/Rampa%20Champion",
+      "lastfmUrl": "https://www.last.fm/music/Rampa/_/Champion",
+      "nowPlaying": false
+    },
+    {
+      "title": "One to Grow On",
+      "artist": "The UMC's",
+      "album": "Fruits Of Nature",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c78f6d3cd7664d16982ebef07e895dca.jpg",
+      "url": "https://open.spotify.com/search/The%20UMC's%20One%20to%20Grow%20On",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/The+UMC%27s/_/One+to+Grow+On",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantaloop 2004: Bossa Mix",
+      "artist": "Us3",
+      "album": "Questions",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a144020f865c52e3e02259aeb589f97e.jpg",
+      "url": "https://open.spotify.com/search/Us3%20Cantaloop%202004%3A%20Bossa%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Us3/_/Cantaloop+2004:+Bossa+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "artist": "Yussef Dayes",
+      "album": "Black Classical Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9584ffe50baec06ee48df59412dd7d04.jpg",
+      "url": "https://open.spotify.com/search/Yussef%20Dayes%20Raisins%20Under%20the%20Sun%20(feat.%20Shabaka%20Hutchings)",
+      "lastfmUrl": "https://www.last.fm/music/Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
       "nowPlaying": false
     },
     {
@@ -47,39 +74,21 @@
       "nowPlaying": false
     },
     {
-      "title": "DENIAL IS A RIVER",
-      "artist": "Doechii",
-      "album": "Alligator Bites Never Heal",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7860c303862f4cd1d1101f7e5726661b.png",
-      "url": "https://open.spotify.com/search/Doechii%20DENIAL%20IS%20A%20RIVER",
-      "lastfmUrl": "https://www.last.fm/music/Doechii/_/DENIAL+IS+A+RIVER",
-      "nowPlaying": false
-    },
-    {
-      "title": "ROBBERY (feat. Doechii)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/53987e56c2fd579fa7e8822195a193a3.jpg",
-      "url": "https://open.spotify.com/search/A%24AP%20Rocky%20ROBBERY%20(feat.%20Doechii)",
-      "lastfmUrl": "https://www.last.fm/music/A$AP+Rocky/_/ROBBERY+(feat.+Doechii)",
-      "nowPlaying": false
-    },
-    {
-      "title": "theclubrock",
-      "artist": "Benny Bellson",
-      "album": "theclubrock",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5d8f533bc7e91f8242ffc563b5c47c00.png",
-      "url": "https://open.spotify.com/search/Benny%20Bellson%20theclubrock",
-      "lastfmUrl": "https://www.last.fm/music/Benny+Bellson/_/theclubrock",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stars",
+      "title": "Girl Like Me",
       "artist": "PinkPantheress",
       "album": "Fancy That",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stars",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stars",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Girl%20Like%20Me",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me",
+      "nowPlaying": false
+    },
+    {
+      "title": "Pop Star",
+      "artist": "Coco & Clair Clair",
+      "album": "Sexy",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c8f26b74802ef095a3bd166778b65e9e.jpg",
+      "url": "https://open.spotify.com/search/Coco%20%26%20Clair%20Clair%20Pop%20Star",
+      "lastfmUrl": "https://www.last.fm/music/Coco+&+Clair+Clair/_/Pop+Star",
       "nowPlaying": false
     }
   ]
