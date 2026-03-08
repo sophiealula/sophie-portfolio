@@ -1,6 +1,78 @@
 {
-  "updated": "2026-03-08T12:40:04.714Z",
+  "updated": "2026-03-08T18:28:27.193Z",
   "tracks": [
+    {
+      "title": "Grandes études de Paganini, S.141: III. La campanella. Allegretto (After Violin Concerto No. 2)",
+      "artist": "Franz Liszt",
+      "album": "LISZT: PIANO RECITAL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/577ff2e05b8713ce4cd0988756f5f888.jpg",
+      "url": "https://open.spotify.com/search/Franz%20Liszt%20Grandes%20%C3%A9tudes%20de%20Paganini%2C%20S.141%3A%20III.%20La%20campanella.%20Allegretto%20(After%20Violin%20Concerto%20No.%202)",
+      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/Grandes+%C3%A9tudes+de+Paganini,+S.141:+III.+La+campanella.+Allegretto+(After+Violin+Concerto+No.+2)",
+      "nowPlaying": false
+    },
+    {
+      "title": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
+      "artist": "Franz Liszt",
+      "album": "Liszt - My Piano Hero",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfeb527cb53030d5815f41d718246a9b.jpg",
+      "url": "https://open.spotify.com/search/Franz%20Liszt%20La%20campanella%20in%20G-Sharp%20Minor%20(From%20%22Grandes%20%C3%A9tudes%20de%20Paganini%22%2C%20S.%20141%2F3)",
+      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/La+campanella+in+G-Sharp+Minor+(From+%22Grandes+%C3%A9tudes+de+Paganini%22,+S.+141%2F3)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Less Than 3 - DJ Subaru Remix",
+      "artist": "Das Druid",
+      "album": "Less Than 3 (DJ Subaru Remix)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Das%20Druid%20Less%20Than%203%20-%20DJ%20Subaru%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/Das+Druid/_/Less+Than+3+-+DJ+Subaru+Remix",
+      "nowPlaying": false
+    },
+    {
+      "title": "My Love For You",
+      "artist": "ESG",
+      "album": "Come Away With ESG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec2de54efdae4e3ea08d0d757e015054.jpg",
+      "url": "https://open.spotify.com/search/ESG%20My%20Love%20For%20You",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/My+Love+For+You",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantaloop 2004: Bossa Mix",
+      "artist": "Us3",
+      "album": "Questions",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a144020f865c52e3e02259aeb589f97e.jpg",
+      "url": "https://open.spotify.com/search/Us3%20Cantaloop%202004%3A%20Bossa%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Us3/_/Cantaloop+2004:+Bossa+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "artist": "Yussef Dayes",
+      "album": "Black Classical Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9584ffe50baec06ee48df59412dd7d04.jpg",
+      "url": "https://open.spotify.com/search/Yussef%20Dayes%20Raisins%20Under%20the%20Sun%20(feat.%20Shabaka%20Hutchings)",
+      "lastfmUrl": "https://www.last.fm/music/Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "album": "Fancy Some More?",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+      "nowPlaying": false
+    },
+    {
+      "title": "And the Colour Red",
+      "artist": "Underworld",
+      "album": "Strawberry Hotel",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4633dc9f27ee6cbc7e266b4d5052f9be.png",
+      "url": "https://open.spotify.com/search/Underworld%20And%20the%20Colour%20Red",
+      "lastfmUrl": "https://www.last.fm/music/Underworld/_/And+the+Colour+Red",
+      "nowPlaying": false
+    },
     {
       "title": "What Is Love?",
       "artist": "Deee-Lite",
@@ -17,78 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/479d3dcee07b4f2c91e1c0dee32c8572.jpg",
       "url": "https://open.spotify.com/search/William%20Orbit%20Water%20From%20a%20Vine%20Leaf",
       "lastfmUrl": "https://www.last.fm/music/William+Orbit/_/Water+From+a+Vine+Leaf",
-      "nowPlaying": false
-    },
-    {
-      "title": "Chime (Edit) - Remastered",
-      "artist": "Orbital",
-      "album": "Chime",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/39d5a7a1ecda5bf27dba33dddc1467f3.png",
-      "url": "https://open.spotify.com/search/Orbital%20Chime%20(Edit)%20-%20Remastered",
-      "lastfmUrl": "https://www.last.fm/music/Orbital/_/Chime+(Edit)+-+Remastered",
-      "nowPlaying": false
-    },
-    {
-      "title": "Passion - Naked Edit",
-      "artist": "Gat Decor",
-      "album": "Passion",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/25d888d04f236b4e77715fd7467afced.jpg",
-      "url": "https://open.spotify.com/search/Gat%20Decor%20Passion%20-%20Naked%20Edit",
-      "lastfmUrl": "https://www.last.fm/music/Gat+Decor/_/Passion+-+Naked+Edit",
-      "nowPlaying": false
-    },
-    {
-      "title": "Jumbo",
-      "artist": "Underworld",
-      "album": "Beaucoup Fish (Remastered / Super Deluxe)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b78496dc27e1cc6b9f8614d8487c9d13.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20Jumbo",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Jumbo",
-      "nowPlaying": false
-    },
-    {
-      "title": "Push Upstairs",
-      "artist": "Underworld",
-      "album": "Beaucoup Fish (Remastered / Super Deluxe)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/b78496dc27e1cc6b9f8614d8487c9d13.jpg",
-      "url": "https://open.spotify.com/search/Underworld%20Push%20Upstairs",
-      "lastfmUrl": "https://www.last.fm/music/Underworld/_/Push+Upstairs",
-      "nowPlaying": false
-    },
-    {
-      "title": "Alter Ego (KAYTRANADA Remix)[with JT]",
-      "artist": "Doechii",
-      "album": "Alter Ego (Swamp Mix)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/46b452525245dc8c82e4fbc7febdfbdf.jpg",
-      "url": "https://open.spotify.com/search/Doechii%20Alter%20Ego%20(KAYTRANADA%20Remix)%5Bwith%20JT%5D",
-      "lastfmUrl": "https://www.last.fm/music/Doechii/_/Alter+Ego+(KAYTRANADA+Remix)%5Bwith+JT%5D",
-      "nowPlaying": false
-    },
-    {
-      "title": "Illegal",
-      "artist": "PinkPantheress",
-      "album": "Fancy That",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5edfc17276a2c1f445f41faf2c9da1be.png",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Illegal",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Illegal",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-      "nowPlaying": false
-    },
-    {
-      "title": "Yeah!",
-      "artist": "Pacific Coliseum",
-      "album": "Yeah!",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/Pacific%20Coliseum%20Yeah!",
-      "lastfmUrl": "https://www.last.fm/music/Pacific+Coliseum/_/Yeah!",
       "nowPlaying": false
     }
   ]
