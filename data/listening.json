@@ -1,6 +1,51 @@
 {
-  "updated": "2026-03-10T12:52:48.679Z",
+  "updated": "2026-03-10T18:41:48.552Z",
   "tracks": [
+    {
+      "title": "My Love For You",
+      "artist": "ESG",
+      "album": "Come Away With ESG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec2de54efdae4e3ea08d0d757e015054.jpg",
+      "url": "https://open.spotify.com/search/ESG%20My%20Love%20For%20You",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/My+Love+For+You",
+      "nowPlaying": false
+    },
+    {
+      "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "artist": "Yussef Dayes",
+      "album": "Black Classical Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9584ffe50baec06ee48df59412dd7d04.jpg",
+      "url": "https://open.spotify.com/search/Yussef%20Dayes%20Raisins%20Under%20the%20Sun%20(feat.%20Shabaka%20Hutchings)",
+      "lastfmUrl": "https://www.last.fm/music/Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "album": "Fancy Some More?",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+      "nowPlaying": false
+    },
+    {
+      "title": "American Girls",
+      "artist": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+      "url": "https://open.spotify.com/search/Harry%20Styles%20American%20Girls",
+      "lastfmUrl": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+      "nowPlaying": false
+    },
+    {
+      "title": "O Cometido",
+      "artist": "Chouteira",
+      "album": "Cantigas de Nadal",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Chouteira%20O%20Cometido",
+      "lastfmUrl": "https://www.last.fm/music/Chouteira/_/O+Cometido",
+      "nowPlaying": false
+    },
     {
       "title": "Aperture",
       "artist": "Harry Styles",
@@ -44,51 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d761dee3b669eced85ae6591d7dba558.jpg",
       "url": "https://open.spotify.com/search/M%C3%A1rio%20Rui%20Silva%20Nahary",
       "lastfmUrl": "https://www.last.fm/music/M%C3%A1rio+Rui+Silva/_/Nahary",
-      "nowPlaying": false
-    },
-    {
-      "title": "Gyae Su",
-      "artist": "Pat Thomas",
-      "album": "Pat Thomas & Kwashibu Area Band",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5f32e5b8a7bcf0e09ef834ffb4d2a356.jpg",
-      "url": "https://open.spotify.com/search/Pat%20Thomas%20Gyae%20Su",
-      "lastfmUrl": "https://www.last.fm/music/Pat+Thomas/_/Gyae+Su",
-      "nowPlaying": false
-    },
-    {
-      "title": "Yèkèrmo sèw",
-      "artist": "Mulatu Astatke",
-      "album": "New York - Addis - London: The Story Of Ethio Jazz 1965-1975",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5e17d281eaa54b868995938e46323f3d.jpg",
-      "url": "https://open.spotify.com/search/Mulatu%20Astatke%20Y%C3%A8k%C3%A8rmo%20s%C3%A8w",
-      "lastfmUrl": "https://www.last.fm/music/Mulatu+Astatke/_/Y%C3%A8k%C3%A8rmo+s%C3%A8w",
-      "nowPlaying": false
-    },
-    {
-      "title": "Love Will Set You Free",
-      "artist": "Carrie Cleveland",
-      "album": "Looking Up: The Complete Works",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/abc0332642b51a3f3626b1fde96e037d.jpg",
-      "url": "https://open.spotify.com/search/Carrie%20Cleveland%20Love%20Will%20Set%20You%20Free",
-      "lastfmUrl": "https://www.last.fm/music/Carrie+Cleveland/_/Love+Will+Set+You+Free",
-      "nowPlaying": false
-    },
-    {
-      "title": "Sunny",
-      "artist": "Asha Puthli",
-      "album": "The Essential Asha Puthli",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f970ce49ab2b066389c3fcfd440b87f3.jpg",
-      "url": "https://open.spotify.com/search/Asha%20Puthli%20Sunny",
-      "lastfmUrl": "https://www.last.fm/music/Asha+Puthli/_/Sunny",
-      "nowPlaying": false
-    },
-    {
-      "title": "Peace on Earth",
-      "artist": "Ebo Taylor",
-      "album": "Life Stories",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/8a5fbabc6e7c434ea52ec3fd2f9ec845.jpg",
-      "url": "https://open.spotify.com/search/Ebo%20Taylor%20Peace%20on%20Earth",
-      "lastfmUrl": "https://www.last.fm/music/Ebo+Taylor/_/Peace+on+Earth",
       "nowPlaying": false
     }
   ]
