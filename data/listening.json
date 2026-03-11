@@ -1,6 +1,33 @@
 {
-  "updated": "2026-03-11T12:52:27.018Z",
+  "updated": "2026-03-11T18:49:19.691Z",
   "tracks": [
+    {
+      "title": "Homenagem aos Orixás",
+      "artist": "Dona Onete",
+      "album": "Feitiço Caboclo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
+      "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
+      "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
+      "nowPlaying": false
+    },
+    {
+      "title": "El lado mas bestia de la vida",
+      "artist": "Albert Pla",
+      "album": "Albert Pla Supone A Fonollosa",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e4d9b9978314f27a4836cc7d022151b.jpg",
+      "url": "https://open.spotify.com/search/Albert%20Pla%20El%20lado%20mas%20bestia%20de%20la%20vida",
+      "lastfmUrl": "https://www.last.fm/music/Albert+Pla/_/El+lado+mas+bestia+de+la+vida",
+      "nowPlaying": false
+    },
+    {
+      "title": "Mamaye",
+      "artist": "Sergent Garcia",
+      "album": "Un Poquito Quema'o",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/150cf399d8934cca9b1b04b676451d35.jpg",
+      "url": "https://open.spotify.com/search/Sergent%20Garcia%20Mamaye",
+      "lastfmUrl": "https://www.last.fm/music/Sergent+Garcia/_/Mamaye",
+      "nowPlaying": false
+    },
     {
       "title": "My Love For You",
       "artist": "ESG",
@@ -62,33 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/77fcd4679ae7f76e6ce3147dea114029.jpg",
       "url": "https://open.spotify.com/search/Shina%20Williams%20%26%20His%20African%20Percussionists%20Agboju%20Logun%20-%20Mr%20Bongo%207%22%20Edit",
       "lastfmUrl": "https://www.last.fm/music/Shina+Williams+&+His+African+Percussionists/_/Agboju+Logun+-+Mr+Bongo+7%22+Edit",
-      "nowPlaying": false
-    },
-    {
-      "title": "Green Apple",
-      "artist": "Amanaz",
-      "album": "Africa",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/889683c3102a5ab689b3a4112d3347bb.jpg",
-      "url": "https://open.spotify.com/search/Amanaz%20Green%20Apple",
-      "lastfmUrl": "https://www.last.fm/music/Amanaz/_/Green+Apple",
-      "nowPlaying": false
-    },
-    {
-      "title": "Happy Survival",
-      "artist": "Eddie Okwedy",
-      "album": "Nigeria 70 - Lagos Jump",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/64e03b1d34374732b5bdbc79e5a19b2b.jpg",
-      "url": "https://open.spotify.com/search/Eddie%20Okwedy%20Happy%20Survival",
-      "lastfmUrl": "https://www.last.fm/music/Eddie+Okwedy/_/Happy+Survival",
-      "nowPlaying": false
-    },
-    {
-      "title": "Nahary",
-      "artist": "Mário Rui Silva",
-      "album": "Stories From Another Time 1982-1988",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d761dee3b669eced85ae6591d7dba558.jpg",
-      "url": "https://open.spotify.com/search/M%C3%A1rio%20Rui%20Silva%20Nahary",
-      "lastfmUrl": "https://www.last.fm/music/M%C3%A1rio+Rui+Silva/_/Nahary",
       "nowPlaying": false
     }
   ]
