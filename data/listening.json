@@ -1,6 +1,51 @@
 {
-  "updated": "2026-03-12T06:49:40.386Z",
+  "updated": "2026-03-12T12:52:08.709Z",
   "tracks": [
+    {
+      "title": "El Gran Varon",
+      "artist": "Willie Colón",
+      "album": "Legal Alien - Top Secrets",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c39b6411cb28101936e792841433b20c.jpg",
+      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20El%20Gran%20Varon",
+      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/El+Gran+Varon",
+      "nowPlaying": false
+    },
+    {
+      "title": "Idilio",
+      "artist": "Willie Colón",
+      "album": "Hecho En Puerto Rico",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9c52283d0e1e47e4bc5005d92c81a6a0.jpg",
+      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20Idilio",
+      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/Idilio",
+      "nowPlaying": false
+    },
+    {
+      "title": "Oh Qué Será?",
+      "artist": "Willie Colón",
+      "album": "Greatest Hits",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cdf0e2ac3adc91ed0eeb8a55c44c2483.jpg",
+      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20Oh%20Qu%C3%A9%20Ser%C3%A1%3F",
+      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/Oh+Qu%C3%A9+Ser%C3%A1%3F",
+      "nowPlaying": false
+    },
+    {
+      "title": "Mistura de Carimbo com Ciranda",
+      "artist": "Pinduca",
+      "album": "Straight from the Decks (Guts Finest Selection from His Famous DJ Sets)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7a0f11e85ed2c86da2f40eb291443822.jpg",
+      "url": "https://open.spotify.com/search/Pinduca%20Mistura%20de%20Carimbo%20com%20Ciranda",
+      "lastfmUrl": "https://www.last.fm/music/+noredirect/Pinduca/_/Mistura+de+Carimbo+com+Ciranda",
+      "nowPlaying": false
+    },
+    {
+      "title": "Capoeira mata um",
+      "artist": "Jackson do Pandeiro",
+      "album": "O Cabra Da Peste",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f9e7fbfda6540da7c236c3e446c4bbaa.jpg",
+      "url": "https://open.spotify.com/search/Jackson%20do%20Pandeiro%20Capoeira%20mata%20um",
+      "lastfmUrl": "https://www.last.fm/music/Jackson+do+Pandeiro/_/Capoeira+mata+um",
+      "nowPlaying": false
+    },
     {
       "title": "Homenagem aos Orixás",
       "artist": "Dona Onete",
@@ -11,39 +56,12 @@
       "nowPlaying": false
     },
     {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-      "nowPlaying": false
-    },
-    {
-      "title": "Dandou Kodjo",
-      "artist": "Akofa Akoussah",
-      "album": "Akofa Akoussah",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
-      "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
-      "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
-      "nowPlaying": false
-    },
-    {
       "title": "Music For A Found Harmonium - 2008 Digital Remaster",
       "artist": "Penguin Cafe Orchestra",
       "album": "Broadcasting From Home",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/3de913f08ccdc74824c9e1fc42c87959.jpg",
       "url": "https://open.spotify.com/search/Penguin%20Cafe%20Orchestra%20Music%20For%20A%20Found%20Harmonium%20-%202008%20Digital%20Remaster",
       "lastfmUrl": "https://www.last.fm/music/Penguin+Cafe+Orchestra/_/Music+For+A+Found+Harmonium+-+2008+Digital+Remaster",
-      "nowPlaying": false
-    },
-    {
-      "title": "O Cometido",
-      "artist": "Chouteira",
-      "album": "Cantigas de Nadal",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/Chouteira%20O%20Cometido",
-      "lastfmUrl": "https://www.last.fm/music/Chouteira/_/O+Cometido",
       "nowPlaying": false
     }
   ]
