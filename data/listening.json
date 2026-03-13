@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T06:46:56.736Z",
+  "updated": "2026-03-13T12:51:13.403Z",
   "tracks": [
     {
       "title": "Stateside + Zara Larsson",
@@ -29,6 +29,15 @@
       "nowPlaying": false
     },
     {
+      "title": "Yeah!",
+      "artist": "Pacific Coliseum",
+      "album": "Yeah!",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Pacific%20Coliseum%20Yeah!",
+      "lastfmUrl": "https://www.last.fm/music/Pacific+Coliseum/_/Yeah!",
+      "nowPlaying": false
+    },
+    {
       "title": "Message in a Bottle",
       "artist": "The Police",
       "album": "Reggatta de Blanc (Remastered 2003)",
@@ -44,42 +53,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/c1a4b8068548ee324bbdcb77b983543f.jpg",
       "url": "https://open.spotify.com/search/The%20Police%20Roxanne",
       "lastfmUrl": "https://www.last.fm/music/The+Police/_/Roxanne",
-      "nowPlaying": false
-    },
-    {
-      "title": "El Gran Varon",
-      "artist": "Willie Colón",
-      "album": "Legal Alien - Top Secrets",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c39b6411cb28101936e792841433b20c.jpg",
-      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20El%20Gran%20Varon",
-      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/El+Gran+Varon",
-      "nowPlaying": false
-    },
-    {
-      "title": "Idilio",
-      "artist": "Willie Colón",
-      "album": "Hecho En Puerto Rico",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9c52283d0e1e47e4bc5005d92c81a6a0.jpg",
-      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20Idilio",
-      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/Idilio",
-      "nowPlaying": false
-    },
-    {
-      "title": "Oh Qué Será?",
-      "artist": "Willie Colón",
-      "album": "Greatest Hits",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/cdf0e2ac3adc91ed0eeb8a55c44c2483.jpg",
-      "url": "https://open.spotify.com/search/Willie%20Col%C3%B3n%20Oh%20Qu%C3%A9%20Ser%C3%A1%3F",
-      "lastfmUrl": "https://www.last.fm/music/Willie+Col%C3%B3n/_/Oh+Qu%C3%A9+Ser%C3%A1%3F",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mistura de Carimbo com Ciranda",
-      "artist": "Pinduca",
-      "album": "Straight from the Decks (Guts Finest Selection from His Famous DJ Sets)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7a0f11e85ed2c86da2f40eb291443822.jpg",
-      "url": "https://open.spotify.com/search/Pinduca%20Mistura%20de%20Carimbo%20com%20Ciranda",
-      "lastfmUrl": "https://www.last.fm/music/+noredirect/Pinduca/_/Mistura+de+Carimbo+com+Ciranda",
       "nowPlaying": false
     }
   ]
