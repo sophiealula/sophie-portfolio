@@ -1,78 +1,6 @@
 {
-  "updated": "2026-03-14T12:41:56.357Z",
+  "updated": "2026-03-14T18:32:38.765Z",
   "tracks": [
-    {
-      "title": "Old Man",
-      "artist": "Tom Misch",
-      "album": "Days Of Us",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Old%20Man",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Old+Man",
-      "nowPlaying": true
-    },
-    {
-      "title": "Red Moon",
-      "artist": "Tom Misch",
-      "album": "Days Of Us",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Red%20Moon",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Red+Moon",
-      "nowPlaying": false
-    },
-    {
-      "title": "Sisters With Me",
-      "artist": "Tom Misch",
-      "album": "Days Of Us",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Sisters%20With%20Me",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Sisters+With+Me",
-      "nowPlaying": false
-    },
-    {
-      "title": "Slow Tonight",
-      "artist": "Tom Misch",
-      "album": "Days Of Us",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Slow%20Tonight",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Slow+Tonight",
-      "nowPlaying": false
-    },
-    {
-      "title": "Days Of Us (feat. Kaidi Akinnibi)",
-      "artist": "Tom Misch",
-      "album": "Days Of Us",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Days%20Of%20Us%20(feat.%20Kaidi%20Akinnibi)",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Days+Of+Us+(feat.+Kaidi+Akinnibi)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-      "nowPlaying": false
-    },
-    {
-      "title": "Dandou Kodjo",
-      "artist": "Akofa Akoussah",
-      "album": "Akofa Akoussah",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
-      "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
-      "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
-      "nowPlaying": false
-    },
-    {
-      "title": "Quien será",
-      "artist": "Noro Morales",
-      "album": "Recordando los Exitos, Vol.1",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/Noro%20Morales%20Quien%20ser%C3%A1",
-      "lastfmUrl": "https://www.last.fm/music/Noro+Morales/_/Quien+ser%C3%A1",
-      "nowPlaying": false
-    },
     {
       "title": "Homenagem aos Orixás",
       "artist": "Dona Onete",
@@ -80,6 +8,87 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
       "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
       "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
+      "nowPlaying": false
+    },
+    {
+      "title": "Mamaye",
+      "artist": "Sergent Garcia",
+      "album": "Un Poquito Quema'o",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/150cf399d8934cca9b1b04b676451d35.jpg",
+      "url": "https://open.spotify.com/search/Sergent%20Garcia%20Mamaye",
+      "lastfmUrl": "https://www.last.fm/music/Sergent+Garcia/_/Mamaye",
+      "nowPlaying": false
+    },
+    {
+      "title": "Down by the River - 2009 Remaster",
+      "artist": "Neil Young",
+      "album": "Everybody Knows This Is Nowhere",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ab2f45544cdd93813022032425868a37.jpg",
+      "url": "https://open.spotify.com/search/Neil%20Young%20Down%20by%20the%20River%20-%202009%20Remaster",
+      "lastfmUrl": "https://www.last.fm/music/Neil+Young/_/Down+by+the+River+-+2009+Remaster",
+      "nowPlaying": false
+    },
+    {
+      "title": "Rebirth of Cool",
+      "artist": "DJ Cam Quartet",
+      "album": "Rebirth of Cool",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3044ea17a3dbd753f05d2d2158833419.jpg",
+      "url": "https://open.spotify.com/search/DJ%20Cam%20Quartet%20Rebirth%20of%20Cool",
+      "lastfmUrl": "https://www.last.fm/music/DJ+Cam+Quartet/_/Rebirth+of+Cool",
+      "nowPlaying": false
+    },
+    {
+      "title": "Latency",
+      "artist": "corto.alto",
+      "album": "Bad With Names",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a4f4bd7139b74bb9b829b6ba56039319.jpg",
+      "url": "https://open.spotify.com/search/corto.alto%20Latency",
+      "lastfmUrl": "https://www.last.fm/music/corto.alto/_/Latency",
+      "nowPlaying": false
+    },
+    {
+      "title": "Canggu",
+      "artist": "FKJ",
+      "album": "French Kiwi Juice",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e49c95a5498a73e5b11d778a9d23601a.jpg",
+      "url": "https://open.spotify.com/search/FKJ%20Canggu",
+      "lastfmUrl": "https://www.last.fm/music/FKJ/_/Canggu",
+      "nowPlaying": false
+    },
+    {
+      "title": "Storm Before The Calm",
+      "artist": "Tom Misch",
+      "album": "What Kinda Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/08e68a01b02f096c4a55ea98fd0e30c2.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Storm%20Before%20The%20Calm",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Storm+Before+The+Calm",
+      "nowPlaying": false
+    },
+    {
+      "title": "Why Why Why Why Why",
+      "artist": "Sault",
+      "album": "5",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b4174b192e503b25420a484913fb764.jpg",
+      "url": "https://open.spotify.com/search/Sault%20Why%20Why%20Why%20Why%20Why",
+      "lastfmUrl": "https://www.last.fm/music/Sault/_/Why+Why+Why+Why+Why",
+      "nowPlaying": false
+    },
+    {
+      "title": "Brian",
+      "artist": "Alfa Mist",
+      "album": "Antiphon",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e506145ecfa830d41426ee875f622bc3.jpg",
+      "url": "https://open.spotify.com/search/Alfa%20Mist%20Brian",
+      "lastfmUrl": "https://www.last.fm/music/Alfa+Mist/_/Brian",
+      "nowPlaying": false
+    },
+    {
+      "title": "Saddle",
+      "artist": "Tom Misch",
+      "album": "What Kinda Music (Bonus Tracks)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bd211d81a3137559286829f803b60697.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Saddle",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Saddle",
       "nowPlaying": false
     }
   ]
