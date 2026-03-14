@@ -1,6 +1,60 @@
 {
-  "updated": "2026-03-14T06:40:07.147Z",
+  "updated": "2026-03-14T12:41:56.357Z",
   "tracks": [
+    {
+      "title": "Old Man",
+      "artist": "Tom Misch",
+      "album": "Days Of Us",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Old%20Man",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Old+Man",
+      "nowPlaying": true
+    },
+    {
+      "title": "Red Moon",
+      "artist": "Tom Misch",
+      "album": "Days Of Us",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Red%20Moon",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Red+Moon",
+      "nowPlaying": false
+    },
+    {
+      "title": "Sisters With Me",
+      "artist": "Tom Misch",
+      "album": "Days Of Us",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Sisters%20With%20Me",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Sisters+With+Me",
+      "nowPlaying": false
+    },
+    {
+      "title": "Slow Tonight",
+      "artist": "Tom Misch",
+      "album": "Days Of Us",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Slow%20Tonight",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Slow+Tonight",
+      "nowPlaying": false
+    },
+    {
+      "title": "Days Of Us (feat. Kaidi Akinnibi)",
+      "artist": "Tom Misch",
+      "album": "Days Of Us",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/be89e3bad7e4ba7372274e95a4bff292.jpg",
+      "url": "https://open.spotify.com/search/Tom%20Misch%20Days%20Of%20Us%20(feat.%20Kaidi%20Akinnibi)",
+      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Days+Of+Us+(feat.+Kaidi+Akinnibi)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "album": "Fancy Some More?",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+      "nowPlaying": false
+    },
     {
       "title": "Dandou Kodjo",
       "artist": "Akofa Akoussah",
@@ -11,21 +65,21 @@
       "nowPlaying": false
     },
     {
+      "title": "Quien será",
+      "artist": "Noro Morales",
+      "album": "Recordando los Exitos, Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Noro%20Morales%20Quien%20ser%C3%A1",
+      "lastfmUrl": "https://www.last.fm/music/Noro+Morales/_/Quien+ser%C3%A1",
+      "nowPlaying": false
+    },
+    {
       "title": "Homenagem aos Orixás",
       "artist": "Dona Onete",
       "album": "Feitiço Caboclo",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
       "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
       "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "nowPlaying": false
     }
   ]
