@@ -1,15 +1,6 @@
 {
-  "updated": "2026-03-13T18:36:09.294Z",
+  "updated": "2026-03-14T01:45:38.152Z",
   "tracks": [
-    {
-      "title": "Homenagem aos Orixás",
-      "artist": "Dona Onete",
-      "album": "Feitiço Caboclo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
-      "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
-      "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
-      "nowPlaying": false
-    },
     {
       "title": "Dandou Kodjo",
       "artist": "Akofa Akoussah",
@@ -17,6 +8,15 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
       "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
       "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
+      "nowPlaying": false
+    },
+    {
+      "title": "Homenagem aos Orixás",
+      "artist": "Dona Onete",
+      "album": "Feitiço Caboclo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
+      "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
+      "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
       "nowPlaying": false
     },
     {
