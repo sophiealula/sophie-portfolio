@@ -1,6 +1,69 @@
 {
-  "updated": "2026-03-14T18:32:38.765Z",
+  "updated": "2026-03-15T02:01:40.647Z",
   "tracks": [
+    {
+      "title": "Feel So Good",
+      "artist": "Lovebirds",
+      "album": "Feel so Good",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/6a7c24a46ff0b6f452bd34029db455f1.jpg",
+      "url": "https://open.spotify.com/search/Lovebirds%20Feel%20So%20Good",
+      "lastfmUrl": "https://www.last.fm/music/Lovebirds/_/Feel+So+Good",
+      "nowPlaying": false
+    },
+    {
+      "title": "El lado mas bestia de la vida",
+      "artist": "Albert Pla",
+      "album": "Albert Pla Supone A Fonollosa",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7e4d9b9978314f27a4836cc7d022151b.jpg",
+      "url": "https://open.spotify.com/search/Albert%20Pla%20El%20lado%20mas%20bestia%20de%20la%20vida",
+      "lastfmUrl": "https://www.last.fm/music/Albert+Pla/_/El+lado+mas+bestia+de+la+vida",
+      "nowPlaying": false
+    },
+    {
+      "title": "My Love For You",
+      "artist": "ESG",
+      "album": "Come Away With ESG",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ec2de54efdae4e3ea08d0d757e015054.jpg",
+      "url": "https://open.spotify.com/search/ESG%20My%20Love%20For%20You",
+      "lastfmUrl": "https://www.last.fm/music/ESG/_/My+Love+For+You",
+      "nowPlaying": false
+    },
+    {
+      "title": "Cantaloop 2004: Bossa Mix",
+      "artist": "Us3",
+      "album": "Questions",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a144020f865c52e3e02259aeb589f97e.jpg",
+      "url": "https://open.spotify.com/search/Us3%20Cantaloop%202004%3A%20Bossa%20Mix",
+      "lastfmUrl": "https://www.last.fm/music/Us3/_/Cantaloop+2004:+Bossa+Mix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "artist": "Yussef Dayes",
+      "album": "Black Classical Music",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/9584ffe50baec06ee48df59412dd7d04.jpg",
+      "url": "https://open.spotify.com/search/Yussef%20Dayes%20Raisins%20Under%20the%20Sun%20(feat.%20Shabaka%20Hutchings)",
+      "lastfmUrl": "https://www.last.fm/music/Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
+      "nowPlaying": false
+    },
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "album": "Fancy Some More?",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+      "nowPlaying": false
+    },
+    {
+      "title": "Dandou Kodjo",
+      "artist": "Akofa Akoussah",
+      "album": "Akofa Akoussah",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
+      "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
+      "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
+      "nowPlaying": false
+    },
     {
       "title": "Homenagem aos Orixás",
       "artist": "Dona Onete",
@@ -17,78 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/150cf399d8934cca9b1b04b676451d35.jpg",
       "url": "https://open.spotify.com/search/Sergent%20Garcia%20Mamaye",
       "lastfmUrl": "https://www.last.fm/music/Sergent+Garcia/_/Mamaye",
-      "nowPlaying": false
-    },
-    {
-      "title": "Down by the River - 2009 Remaster",
-      "artist": "Neil Young",
-      "album": "Everybody Knows This Is Nowhere",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/ab2f45544cdd93813022032425868a37.jpg",
-      "url": "https://open.spotify.com/search/Neil%20Young%20Down%20by%20the%20River%20-%202009%20Remaster",
-      "lastfmUrl": "https://www.last.fm/music/Neil+Young/_/Down+by+the+River+-+2009+Remaster",
-      "nowPlaying": false
-    },
-    {
-      "title": "Rebirth of Cool",
-      "artist": "DJ Cam Quartet",
-      "album": "Rebirth of Cool",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3044ea17a3dbd753f05d2d2158833419.jpg",
-      "url": "https://open.spotify.com/search/DJ%20Cam%20Quartet%20Rebirth%20of%20Cool",
-      "lastfmUrl": "https://www.last.fm/music/DJ+Cam+Quartet/_/Rebirth+of+Cool",
-      "nowPlaying": false
-    },
-    {
-      "title": "Latency",
-      "artist": "corto.alto",
-      "album": "Bad With Names",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/a4f4bd7139b74bb9b829b6ba56039319.jpg",
-      "url": "https://open.spotify.com/search/corto.alto%20Latency",
-      "lastfmUrl": "https://www.last.fm/music/corto.alto/_/Latency",
-      "nowPlaying": false
-    },
-    {
-      "title": "Canggu",
-      "artist": "FKJ",
-      "album": "French Kiwi Juice",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e49c95a5498a73e5b11d778a9d23601a.jpg",
-      "url": "https://open.spotify.com/search/FKJ%20Canggu",
-      "lastfmUrl": "https://www.last.fm/music/FKJ/_/Canggu",
-      "nowPlaying": false
-    },
-    {
-      "title": "Storm Before The Calm",
-      "artist": "Tom Misch",
-      "album": "What Kinda Music",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/08e68a01b02f096c4a55ea98fd0e30c2.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Storm%20Before%20The%20Calm",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Storm+Before+The+Calm",
-      "nowPlaying": false
-    },
-    {
-      "title": "Why Why Why Why Why",
-      "artist": "Sault",
-      "album": "5",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b4174b192e503b25420a484913fb764.jpg",
-      "url": "https://open.spotify.com/search/Sault%20Why%20Why%20Why%20Why%20Why",
-      "lastfmUrl": "https://www.last.fm/music/Sault/_/Why+Why+Why+Why+Why",
-      "nowPlaying": false
-    },
-    {
-      "title": "Brian",
-      "artist": "Alfa Mist",
-      "album": "Antiphon",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e506145ecfa830d41426ee875f622bc3.jpg",
-      "url": "https://open.spotify.com/search/Alfa%20Mist%20Brian",
-      "lastfmUrl": "https://www.last.fm/music/Alfa+Mist/_/Brian",
-      "nowPlaying": false
-    },
-    {
-      "title": "Saddle",
-      "artist": "Tom Misch",
-      "album": "What Kinda Music (Bonus Tracks)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bd211d81a3137559286829f803b60697.jpg",
-      "url": "https://open.spotify.com/search/Tom%20Misch%20Saddle",
-      "lastfmUrl": "https://www.last.fm/music/Tom+Misch/_/Saddle",
       "nowPlaying": false
     }
   ]
