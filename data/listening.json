@@ -1,6 +1,42 @@
 {
-  "updated": "2026-03-15T12:43:07.595Z",
+  "updated": "2026-03-15T18:33:17.380Z",
   "tracks": [
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "album": "Fancy Some More?",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
+      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
+      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+      "nowPlaying": false
+    },
+    {
+      "title": "Dandou Kodjo",
+      "artist": "Akofa Akoussah",
+      "album": "Akofa Akoussah",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
+      "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
+      "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
+      "nowPlaying": false
+    },
+    {
+      "title": "Homenagem aos Orixás",
+      "artist": "Dona Onete",
+      "album": "Feitiço Caboclo",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
+      "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
+      "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
+      "nowPlaying": false
+    },
+    {
+      "title": "The Promise",
+      "artist": "When In Rome",
+      "album": "When In Rome",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/11dee75c74979fad658a6a03380ad024.jpg",
+      "url": "https://open.spotify.com/search/When%20In%20Rome%20The%20Promise",
+      "lastfmUrl": "https://www.last.fm/music/When+In+Rome/_/The+Promise",
+      "nowPlaying": false
+    },
     {
       "title": "Feel So Good",
       "artist": "Lovebirds",
@@ -44,42 +80,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/9584ffe50baec06ee48df59412dd7d04.jpg",
       "url": "https://open.spotify.com/search/Yussef%20Dayes%20Raisins%20Under%20the%20Sun%20(feat.%20Shabaka%20Hutchings)",
       "lastfmUrl": "https://www.last.fm/music/Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-      "nowPlaying": false
-    },
-    {
-      "title": "Dandou Kodjo",
-      "artist": "Akofa Akoussah",
-      "album": "Akofa Akoussah",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/0a1d78706cd8a048083546ecec4c0a0c.jpg",
-      "url": "https://open.spotify.com/search/Akofa%20Akoussah%20Dandou%20Kodjo",
-      "lastfmUrl": "https://www.last.fm/music/Akofa+Akoussah/_/Dandou+Kodjo",
-      "nowPlaying": false
-    },
-    {
-      "title": "Homenagem aos Orixás",
-      "artist": "Dona Onete",
-      "album": "Feitiço Caboclo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d9165c0a08e39398e770ed7fa85c5ed9.jpg",
-      "url": "https://open.spotify.com/search/Dona%20Onete%20Homenagem%20aos%20Orix%C3%A1s",
-      "lastfmUrl": "https://www.last.fm/music/Dona+Onete/_/Homenagem+aos+Orix%C3%A1s",
-      "nowPlaying": false
-    },
-    {
-      "title": "Mamaye",
-      "artist": "Sergent Garcia",
-      "album": "Un Poquito Quema'o",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/150cf399d8934cca9b1b04b676451d35.jpg",
-      "url": "https://open.spotify.com/search/Sergent%20Garcia%20Mamaye",
-      "lastfmUrl": "https://www.last.fm/music/Sergent+Garcia/_/Mamaye",
       "nowPlaying": false
     }
   ]
