@@ -1,6 +1,51 @@
 {
-  "updated": "2026-03-18T06:57:30.496Z",
+  "updated": "2026-03-18T13:02:22.552Z",
   "tracks": [
+    {
+      "title": "Rosa María - Tangos",
+      "artist": "Camaron De La Isla",
+      "album": "Rosa María (Remastered 2018)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/26814b5bf369290ddd02f1f8c127c27a.jpg",
+      "url": "https://open.spotify.com/search/Camaron%20De%20La%20Isla%20Rosa%20Mar%C3%ADa%20-%20Tangos",
+      "lastfmUrl": "https://www.last.fm/music/Camaron+De+La+Isla/_/Rosa+Mar%C3%ADa+-+Tangos",
+      "nowPlaying": false
+    },
+    {
+      "title": "Soul Tropical - Voilaaa Remix",
+      "artist": "David Walters",
+      "album": "Soul Tropical (Deluxe Edition)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/432e767ba8a23c1ebb055f1f7c2e9b91.jpg",
+      "url": "https://open.spotify.com/search/David%20Walters%20Soul%20Tropical%20-%20Voilaaa%20Remix",
+      "lastfmUrl": "https://www.last.fm/music/David+Walters/_/Soul+Tropical+-+Voilaaa+Remix",
+      "nowPlaying": false
+    },
+    {
+      "title": "Bons Momentos",
+      "artist": "Serginho Meriti",
+      "album": "Bons Momentos",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/98a23428b5631cb53dbd6e93735733f7.jpg",
+      "url": "https://open.spotify.com/search/Serginho%20Meriti%20Bons%20Momentos",
+      "lastfmUrl": "https://www.last.fm/music/Serginho+Meriti/_/Bons+Momentos",
+      "nowPlaying": false
+    },
+    {
+      "title": "Fools Gold - Remastered 2009",
+      "artist": "The Stone Roses",
+      "album": "The Stone Roses",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
+      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Fools%20Gold%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold+-+Remastered+2009",
+      "nowPlaying": false
+    },
+    {
+      "title": "Shoot You Down - Remastered 2009",
+      "artist": "The Stone Roses",
+      "album": "The Stone Roses",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f07a5a1e86624b3cb8ec76543b9863d7.png",
+      "url": "https://open.spotify.com/search/The%20Stone%20Roses%20Shoot%20You%20Down%20-%20Remastered%202009",
+      "lastfmUrl": "https://www.last.fm/music/The+Stone+Roses/_/Shoot+You+Down+-+Remastered+2009",
+      "nowPlaying": false
+    },
     {
       "title": "Mozart: Piano Concerto No. 23 in A Major, K. 488: II. Andante",
       "artist": "Wolfgang Amadeus Mozart",
@@ -44,51 +89,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/fad9a93af6fbf946d42fc34f90c5a6d3.jpg",
       "url": "https://open.spotify.com/search/Franz%20Liszt%20Liebestraume%2C%20S541%2FR211%20%3A%20No.%203%3A%20Nocturne%20in%20A-Flat%20Major",
       "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/Liebestraume,+S541%2FR211+:+No.+3:+Nocturne+in+A-Flat+Major",
-      "nowPlaying": false
-    },
-    {
-      "title": "Clair de lune, L. 32",
-      "artist": "Claude Debussy",
-      "album": "Debussy: Clair de Lune and Other Piano Favourites",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1ee22158e6644bab74d7c1a0677b6faa.png",
-      "url": "https://open.spotify.com/search/Claude%20Debussy%20Clair%20de%20lune%2C%20L.%2032",
-      "lastfmUrl": "https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune,+L.+32",
-      "nowPlaying": false
-    },
-    {
-      "title": "Liszt: Liebesträume, S. 541: No. 3 in A-Flat Major, O lieb, so lang du lieben kannst",
-      "artist": "Franz Liszt",
-      "album": "Liszt: Solo Piano",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-      "url": "https://open.spotify.com/search/Franz%20Liszt%20Liszt%3A%20Liebestr%C3%A4ume%2C%20S.%20541%3A%20No.%203%20in%20A-Flat%20Major%2C%20O%20lieb%2C%20so%20lang%20du%20lieben%20kannst",
-      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/Liszt:+Liebestr%C3%A4ume,+S.+541:+No.+3+in+A-Flat+Major,+O+lieb,+so+lang+du+lieben+kannst",
-      "nowPlaying": false
-    },
-    {
-      "title": "Ständchen (From Schwanengesang, D957)",
-      "artist": "Franz Liszt",
-      "album": "Kissin Plays Liszt",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2002263ec555fd493feb71a6adeca4e5.jpg",
-      "url": "https://open.spotify.com/search/Franz%20Liszt%20St%C3%A4ndchen%20(From%20Schwanengesang%2C%20D957)",
-      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/St%C3%A4ndchen+(From+Schwanengesang,+D957)",
-      "nowPlaying": false
-    },
-    {
-      "title": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
-      "artist": "Franz Liszt",
-      "album": "Liszt - My Piano Hero",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfeb527cb53030d5815f41d718246a9b.jpg",
-      "url": "https://open.spotify.com/search/Franz%20Liszt%20La%20campanella%20in%20G-Sharp%20Minor%20(From%20%22Grandes%20%C3%A9tudes%20de%20Paganini%22%2C%20S.%20141%2F3)",
-      "lastfmUrl": "https://www.last.fm/music/Franz+Liszt/_/La+campanella+in+G-Sharp+Minor+(From+%22Grandes+%C3%A9tudes+de+Paganini%22,+S.+141%2F3)",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "nowPlaying": false
     }
   ]
