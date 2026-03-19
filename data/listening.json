@@ -1,6 +1,33 @@
 {
-  "updated": "2026-03-19T12:56:02.840Z",
+  "updated": "2026-03-19T18:52:58.792Z",
   "tracks": [
+    {
+      "title": "Quien será",
+      "artist": "Noro Morales",
+      "album": "Recordando los Exitos, Vol.1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "url": "https://open.spotify.com/search/Noro%20Morales%20Quien%20ser%C3%A1",
+      "lastfmUrl": "https://www.last.fm/music/Noro+Morales/_/Quien+ser%C3%A1",
+      "nowPlaying": false
+    },
+    {
+      "title": "The Only Way",
+      "artist": "Dargz",
+      "album": "Friends & Family",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/16124aa1982ed2541c5285da54b9cdbd.jpg",
+      "url": "https://open.spotify.com/search/Dargz%20The%20Only%20Way",
+      "lastfmUrl": "https://www.last.fm/music/Dargz/_/The+Only+Way",
+      "nowPlaying": false
+    },
+    {
+      "title": "Fulfil Your Spirit",
+      "artist": "Sault",
+      "album": "Chapter 1",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/242a1a2d811e54a59c5c0df5f6971d44.jpg",
+      "url": "https://open.spotify.com/search/Sault%20Fulfil%20Your%20Spirit",
+      "lastfmUrl": "https://www.last.fm/music/Sault/_/Fulfil+Your+Spirit",
+      "nowPlaying": false
+    },
     {
       "title": "Madness",
       "artist": "Alek Lee",
@@ -35,60 +62,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
       "url": "https://open.spotify.com/search/Beastie%20Boys%203-Minute%20Rule",
       "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/3-Minute+Rule",
-      "nowPlaying": false
-    },
-    {
-      "title": "High Plains Drifter",
-      "artist": "Beastie Boys",
-      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
-      "url": "https://open.spotify.com/search/Beastie%20Boys%20High%20Plains%20Drifter",
-      "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/High+Plains+Drifter",
-      "nowPlaying": false
-    },
-    {
-      "title": "Egg Man",
-      "artist": "Beastie Boys",
-      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
-      "url": "https://open.spotify.com/search/Beastie%20Boys%20Egg%20Man",
-      "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/Egg+Man",
-      "nowPlaying": false
-    },
-    {
-      "title": "Johnny Ryall",
-      "artist": "Beastie Boys",
-      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
-      "url": "https://open.spotify.com/search/Beastie%20Boys%20Johnny%20Ryall",
-      "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/Johnny+Ryall",
-      "nowPlaying": false
-    },
-    {
-      "title": "Shake Your Rump",
-      "artist": "Beastie Boys",
-      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
-      "url": "https://open.spotify.com/search/Beastie%20Boys%20Shake%20Your%20Rump",
-      "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/Shake+Your+Rump",
-      "nowPlaying": false
-    },
-    {
-      "title": "To All the Girls",
-      "artist": "Beastie Boys",
-      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/586b695e0abb27df860116a09781ef15.png",
-      "url": "https://open.spotify.com/search/Beastie%20Boys%20To%20All%20the%20Girls",
-      "lastfmUrl": "https://www.last.fm/music/Beastie+Boys/_/To+All+the+Girls",
-      "nowPlaying": false
-    },
-    {
-      "title": "Stateside + Zara Larsson",
-      "artist": "PinkPantheress",
-      "album": "Fancy Some More?",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/3e0f3dc821a8445892b0b65cb26b0194.jpg",
-      "url": "https://open.spotify.com/search/PinkPantheress%20Stateside%20%2B%20Zara%20Larsson",
-      "lastfmUrl": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "nowPlaying": false
     }
   ]
